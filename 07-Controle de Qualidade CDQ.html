@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="shortcut icon" type="image/x-icon" href="imagens/logo-2.ico">
+  <link rel="stylesheet" type="text/css" href="Estilos/estilo_pagina7.css">
+  <link rel="stylesheet" type="text/css" href="Estilos/estilo_menu1.css">
+  <meta name="description" content="Gráfico indicadores de produção">
+  <meta name="keywords" content="controle de qualidade">
+  <meta name="author" content="Julio Vian">
+  <meta http-equiv="Content-Language" content="pt-BR">
+
+  <!-- Jquerry JS -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <!-- Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <script src="https://kit.fontawesome.com/429ff8aa4a.js" crossorigin="anonymous"></script>
+
+  <title>Controle de Qualidade</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+
+</head>
+<script src="JS/js_pagina7.js" defer></script>
+
+<body>
+  <div class="menu"><!---Menu-->
+    <ul class="list">
+      <img style="width: 200px;" src="imagens/TituloDecForm2-removebg.png" alt="logo2">
+      <li><a href="/home"><i class="material-icons">home</i> Home</a></li>
+      <li><a href="/"><i class="material-icons">edit_note</i> Controle de Produção</a></li>
+      <li><a href="/dashboard"><i class="material-icons">dashboard</i> Dashboard</a></li>
+      <li><a href="/analise"><i class="material-icons">equalizer</i> Análise</a></li>
+      <li><a href="/quebras"><i class="material-icons">delete</i> Controle de Quebras</a></li>
+      <li><a href="/paradas"><i class="material-icons">schedule</i> Controle de Paradas</a></li>
+      <div style="display:flex; align-items: center;justify-content: space-between;">
+        <li style="padding: 10px; margin: 0px 0px 0px 10px;">
+          <a href="/consultas"><i class=" material-icons">search</i> Consultas</a>
+        </li>
+
+        <li style=" padding: 10px; margin: 0px 10px 0px 0px;">
+          <a href="/ordens"><i class=" material-icons">receipt_long</i> Ordens</a>
+        </li>
+
+      </div>
+      <li><a href="/qualidade"><i class="material-symbols-outlined">edit</i> Controle de Qualidade</a></li>
+      <li><a href="/indicadores-qualidade"><i class="material-symbols-outlined">frame_inspect</i> Indicadores
+          Qualidade</a></li>
+    </ul>
+  </div>
+  <main style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <div style="height: fit-content;" class="bar-top">
+      <h2> <!-- Titulo -->
+        Controle de Qualidade
+      </h2>
+      <span id="span-item-parametros"></span>
+      <div id="botoes1"><!-- Botoes cadastro login -->
+        <button id="btn-logim" onclick='login()'>Login</button>
+        <button style="background-color: gray;" id="btn-cadastro" onclick='cadastro()'>Cadastrar</button>
+      </div>
+
+      <form style="display: none;" id="form-login"><!-- Form login -->
+        <div style="display: grid;">
+          <div style="display: inline-block;">
+            <label for="idEmailLog">Email:</label><!-- Email -->
+            <input onkeyup="autoResize(this);" style="width: 100px;" id="idEmailLog" type="email" autocomplete="email"
+              required />
+          </div>
+          <div style="display: inline-block;">
+            <label for="idSenhaLog"> Senha: </label><!-- senha -->
+            <input onkeyup="autoResize(this);" style="width: 100px;" autocomplete="current-password" id="idSenhaLog"
+              type="password" required />
+          </div>
+          <div>
+            <button
+              style="width: fit-content;background-color: gray;height: min-content;padding: 0;background-color: inherit;border: none;"
+              id="esqueci">Esqueci a senha</button>
+            <button type="submit">Login</button>
+          </div>
+        </div>
+      </form>
+
+      <form style="display: none;" id="form-cadastro"><!-- Form cadastro -->
+        <div style="display: grid;">
+          <div style="display: inline-block;">
+            <label for="idEmailCad">Email:</label><!-- Email -->
+            <input onkeyup="autoResize(this);" style="width: 100px;" id="idEmailCad" type="email" autocomplete="email"
+              required />
+          </div>
+
+          <div style="display: inline-block;">
+            <label for="idSenhaCad"> Senha: </label><!-- senha -->
+            <input onkeyup="autoResize(this);" style="width: 100px;" id="idSenhaCad" type="password" required />
+          </div>
+          <div>
+            <button style="background-color:gray;" type="submit">Cadastrar</button>
+          </div>
+
+        </div>
+      </form>
+
+      <div style="display: flex; justify-content: center; align-items: center;">
+        <form id="form-esqueci" style="display: none;"><!-- Form esqueci -->
+          <h2>Redefinir Senha</h2>
+          <p>Digite um email já cadastrado, após digite o código de verificação presente no email.</p>
+          <div style="display: grid; grid-template-columns: auto 1fr; gap: 10px; align-items: center;">
+
+            <label for="idEmailEsq">Email cadastrado:</label>
+            <div style="display: flex; align-items: center;">
+              <input onkeyup="autoResize(this);" style="width: 100px;" id="idEmailEsq" type="email" autocomplete="email"
+                required />
+              <button type="button" style="margin-left: 10px;background-color: gray;" onclick="enviarCodigo()">Enviar
+                Código</button>
+            </div>
+
+            <label for="idCodigo">Insira o Código:</label>
+            <input onkeyup="autoResize(this);" style="width: 100px;" id="idCodigo" required />
+
+            <label for="idSenhaEsq">Nova Senha:</label>
+            <input onkeyup="autoResize(this);" style="width: 100px;" id="idSenhaEsq" type="password" required />
+
+            <label for="idSenhaEsqConf">Confirmar Nova Senha:</label>
+            <input onkeyup="autoResize(this);" style="width: 100px;" id="idSenhaEsqConf" type="password" required />
+
+            <div style="grid-column: 1 / -1; display: flex; justify-content: space-around; align-items: center;">
+              <span style="margin-left: 10px;" id="spanRedif"></span>
+              <button style="background-color: green;" type="submit">Confirmar</button>
+            </div>
+          </div>
+        </form>
+      </div>
+
+      <span id="spanMessageRecebida"></span>
+    </div>
+  </main>
+</body>
+
+</html>

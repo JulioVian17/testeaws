@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="shortcut icon" type="image/x-icon" href="imagens/logo-2.ico">
+  <link rel="stylesheet" type="text/css" href="Estilos/estilo_pagina7.css">
+  <link rel="stylesheet" type="text/css" href="Estilos/estilo_menu1.css">
+  <meta name="description" content="Gráfico indicadores de produção">
+  <meta name="keywords" content="controle de qualidade">
+  <meta name="author" content="Julio Vian">
+  <meta http-equiv="Content-Language" content="pt-BR">
+
+  <!-- Jquerry JS -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <!-- Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <script src="https://kit.fontawesome.com/429ff8aa4a.js" crossorigin="anonymous"></script>
+
+  <title>Controle de Qualidade</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+
+</head>
+<script src="JS/js_pagina8.js" defer></script>
+
+<body>
+  <div class="menu"><!---Menu-->
+    <ul class="list">
+      <img style="width: 200px;" src="imagens/TituloDecForm2-removebg.png" alt="logo2">
+      <li><a href="/home"><i class="material-icons">home</i> Home</a></li>
+      <li><a href="/"><i class="material-icons">edit_note</i> Controle de Produção</a></li>
+      <li><a href="/dashboard"><i class="material-icons">dashboard</i> Dashboard</a></li>
+      <li><a href="/analise"><i class="material-icons">equalizer</i> Análise</a></li>
+      <li><a href="/quebras"><i class="material-icons">delete</i> Controle de Quebras</a></li>
+      <li><a href="/paradas"><i class="material-icons">schedule</i> Controle de Paradas</a></li>
+      <div style="display:flex; align-items: center;justify-content: space-between;">
+        <li style="padding: 10px; margin: 0px 0px 0px 10px;">
+          <a href="/consultas"><i class=" material-icons">search</i> Consultas</a>
+        </li>
+
+        <li style=" padding: 10px; margin: 0px 10px 0px 0px;">
+          <a href="/ordens"><i class=" material-icons">receipt_long</i> Ordens</a>
+        </li>
+
+      </div>
+      <li><a href="/qualidade"><i class="material-symbols-outlined">edit</i> Controle de Qualidade</a></li>
+      <li><a href="/indicadores-qualidade"><i class="material-symbols-outlined">frame_inspect</i> Indicadores
+          Qualidade</a></li>
+    </ul>
+  </div>
+  <main>
+    <div class="bar-top">
+      <div class="imagemCanto">
+          <h2> <!-- Titulo -->
+        Controle de Qualidade
+      </h2>
+      <span id="span-item-parametros"></span>
+      </div>
+    
+    </div>
+
+    <form id="form1"> <!--Dados iniciais-->
+      <fieldset class="field1">
+        <legend> Insira os Dados </legend>
+        <div style="display: grid;">
+
+          <label><!-- data -->
+            <label for="data-hora">* Data e hora:</label>
+            <input type="date" id="data-hora" style="background-color:white;color: black;" class="input-field1"
+              required>
+          </label>
+
+
+          <label><!--Operação-->
+            <label for="operacao">* Operação:</label>
+            <select class="input-field1" id="operacao" onchange="exibirElemento()" required>
+              <option value="rotulagem">Rotulagem</option>
+              <option value="envase">Envase</option>
+              <option value="degorgment">Degorgment</option>
+            </select>
+          </label>
+
+          <label><!--Tipo-->
+            <label for="idTipo">* Tipo:</label>
+            <select class="input-field1" id="idTipo" required>
+              <option></option>
+              <option value="espumante">Espumante</option>
+              <option value="vinho">Vinho</option>
+              <option value="cerveja">Cerveja</option>
+            </select>
+          </label>
+
+          <div id="div-ops" style="display: none;"><!-- select op -->
+            <label for="ops">OPs:</label>
+            <select id="ops" onchange="avisoOps()">
+            </select>
+          </div>
+
+          <label><!-- op -->
+            <label for="ordem">* Nº da Ordem:</label>
+            <input maxlength="5" minlength="5" class="input-field1" type="text" id="ordem"
+              onkeyup="somenteNumeros(this)" placeholder="Ordem" required>
+          </label>
+
+          <label><!-- codigo -->
+            <label for="item_code">* Código do Item:</label>
+            <input maxlength="7" class="input-field1" type="text" id="item_code" onkeyup="toUpperCase(this)"
+              placeholder="Código" required>
+          </label>
+
+          <label><!-- lote -->
+            <label for="idLote">* Nº do Lote:</label>
+            <input class="input-field1" type="number" id="idLote" placeholder="Lote" required>
+          </label>
+
+
+        </div>
+      </fieldset>
+      <button type="submit" onclick="armazenarDados()">Avançar</button>
+      <span id="dados-armazenados"></span> <!--Salvar dados iniciais-->
+    </form>
+
+
+
+    <form id="form2"> <!--    SEGUNDA PARTE   -->
+      <fieldset class="field2">
+        <legend>Inspeção</legend>
+        <div style="display: grid;">
+
+          <div><!--Quantidade-->
+            <label for="quantAna">* Quant Analisada:</label>
+            <input min="0" type="number" id="quantAna" placeholder="Quant...">
+          </div>
+
+          <div style="display: grid;">
+            <label for="select1">* Condição:</label>
+            <select id="select1">
+              <option></option>
+              <option value="C/ Defeito">Condição C/ Defeito</option>
+              <option value="S/ Defeito">Condição S/ Defeito</option>
+            </select>
+
+            <div id="divComDef" style="display: none;">
+
+              <label for="select2">* Defeitos:</label>
+              <select id="select2">
+                <option></option>
+
+                <optgroup label="Capsula">
+                  <option value="cap-posicionamento">Posicionamento</option>
+                  <option value="cap-alisamento">Alisamento</option>
+                  <option value="cap-pregas descent.">Pregas Descent.</option>
+                </optgroup>
+
+                <optgroup label="Caixa">
+                  <option value="cax-lote">Lote</option>
+                  <option value="cax-código">Código</option>
+                  <option value="cax-variedade">Variedade</option>
+                  <option value="cax-safra">Safra</option>
+                </optgroup>
+
+                <optgroup label="Divisória">
+                  <option value="div-amassada">Amassada</option>
+                  <option value="div-apertada">Apertada</option>
+                  <option value="div-folgada">Folgada</option>
+                </optgroup>
+
+                <optgroup label="Rótulo">
+                  <option value="rot-lote">Lote</option>
+                  <option value="rot-variedade">Variedade</option>
+                  <option value="rot-safra">Safra</option>
+                  <option value="rot-altura">Altura</option>
+                  <option value="rot-dobras">Dobras</option>
+                  <option value="rot-bolhas">Bolhas</option>
+                  <option value="rot-rasgado">Rasgado</option>
+                  <option value="rot-sujo">Sujo</option>
+                  <option value="rot-ponta de flecha">Ponta de Flecha</option>
+                  <option value="rot-alinhamento lateral">Alinhamento Lateral</option>
+                </optgroup>
+
+                <optgroup label="Contrarrótulo">
+                  <option value="ctr-lote">Lote</option>
+                  <option value="ctr-variedade">Variedade</option>
+                  <option value="ctr-safra">Safra</option>
+                  <option value="ctr-altura">Altura</option>
+                  <option value="ctr-dobras">Dobras</option>
+                  <option value="ctr-bolhas">Bolhas</option>
+                  <option value="ctr-rasgado">Rasgado</option>
+                  <option value="ctr-sujo">Sujo</option>
+                  <option value="ctr-ponta de flecha">Ponta de Flecha</option>
+                  <option value="ctr-alinhamento lateral">Alinhamento Lateral</option>
+                </optgroup>
+                
+                <optgroup label="Garrafa">
+                  <option value="gar-suja">Suja</option>
+                  <option value="gar-marcada">Marcada</option>
+                </optgroup>
+
+                <optgroup label="Gargalo/Selo">
+                  <option value="grg-desalinhamento">Desalinhamento</option>
+                  <option value="grg-altura">Altura</option>
+                  <option value="grg-junção desniv.">Junção Desniv.</option>
+                  <option value="grg-dobras">Dobras</option>
+                  <option value="sel-selo cobrindo logo">Selo Cobr. Logo</option>
+                </optgroup>
+
+              </select>
+              
+              <label for="select3">* Nível:</label>
+              <select id="select3">
+                <option></option>
+                <option value="leve">Leve</option>
+                <option value="retrabalho">Retrabalho</option>
+              </select>
+              <div>
+                <label for="quantidade">* Quantidade c/ defeito:</label>
+                <input id="quantidade" type="number" placeholder="Quant...">
+              </div>
+            </div>
+
+
+            <button onclick="salvarInspeção()">Salvar</button>
+
+          </div>
+
+
+          <div> <!--observaçao-->
+            <label for="obs">Observação:</label>
+            <input type="text" id="obs" placeholder=" Texto...">
+          </div>
+
+        </div>
+
+      </fieldset>
+      <button onclick="exportar()">Exportar</button><!--botao exportar-->
+    </form>
+
+    <span id="dados-armazenados2"></span><i class=""></i>
+
+  </main>
+
+
+  <footer id="fotter-parte" style="display: none;"> <!--footer-->
+    <p>&copy; 2023 Famiglia Valduga CDP. Todos os direitos reservados. | Desenvolvido por Júlio Vian</p>
+  </footer>
+
+</body>
+
+</html>

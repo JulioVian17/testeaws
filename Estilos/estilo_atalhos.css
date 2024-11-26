@@ -1,0 +1,48 @@
+/*ICONE DE CARREGAMENTO ANIMADO
+HTML:
+<dentro do botão>
+ <div id="loadingIcon" class="loader" style="display: none;"></div>
+<dentro do botão>
+ JS:
+ const buttonIcon = document.getElementById("buttonIcon");
+ const loadingIcon = document.getElementById("loadingIcon");
+ // Mostrar ícone de carregamento  
+ buttonIcon.style.display = 'none';  // Oculta o ícone original
+ loadingIcon.style.display = 'inline-block';  // Mostra o ícone de carregamento
+
+ fetch('/vizualizarOrdens', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ ordens: ordemText })
+    })
+    .finally(() => {
+            // Restaurar o ícone original após a conclusão
+            buttonIcon.style.display = 'inline-block'; // Mostra o ícone original
+            loadingIcon.style.display = 'none'; // Oculta o ícone de carregamento
+        });
+*/
+.loader {
+    border: 4px solid #f3f3f3; /* Light grey */
+    border-top: 4px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    animation: spin 1s linear infinite; /* Rotates the loader infinitely */
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/*Tela de confirmação
+HTML:<div id="divConfirm"></div>
+*/
+#divConfirm {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

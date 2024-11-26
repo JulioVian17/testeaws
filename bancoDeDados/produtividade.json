@@ -1,0 +1,534 @@
+[
+  {
+    "Código": "AR120GF",
+    "Valor": 3200
+  },
+  {
+    "Código": "AR121GF",
+    "Valor": 3200
+  },
+  {
+    "Código": "AR122GF",
+    "Valor": 3200
+  },
+  {
+    "Código": "AR123GF",
+    "Valor": 3200
+  },
+  {
+    "Código": "AR124GF",
+    "Valor": 3200
+  },
+  {
+    "Código": "AR187GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "AR188GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "AR199GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "AR202GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "AR209GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "AR210GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "AR211GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "AR212GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "AR213GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "ARE187",
+    "Valor": 2500
+  },
+  {
+    "Código": "ARE188",
+    "Valor": 2500
+  },
+  {
+    "Código": "ARE199",
+    "Valor": 2500
+  },
+  {
+    "Código": "ARS001",
+    "Valor": 3200
+  },
+  {
+    "Código": "ARS002",
+    "Valor": 3200
+  },
+  {
+    "Código": "ARS003",
+    "Valor": 3200
+  },
+  {
+    "Código": "CH210GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "CH211GF",
+    "Valor": 100
+  },
+  {
+    "Código": "CH212GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "CH218GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "CH219GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "CH220GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "CH221GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "CH222GF",
+    "Valor": 2400
+  },
+  {
+    "Código": "CH224GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "CH225GF",
+    "Valor": 2400
+  },
+  {
+    "Código": "CH226GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "CHE210",
+    "Valor": 2000
+  },
+  {
+    "Código": "CHE211",
+    "Valor": 100
+  },
+  {
+    "Código": "CHE218",
+    "Valor": 2000
+  },
+  {
+    "Código": "CHE219",
+    "Valor": 2000
+  },
+  {
+    "Código": "CHE222",
+    "Valor": 2400
+  },
+  {
+    "Código": "CHE224",
+    "Valor": 2000
+  },
+  {
+    "Código": "CHE225",
+    "Valor": 2400
+  },
+  {
+    "Código": "CHE226",
+    "Valor": 1800
+  },
+  {
+    "Código": "CHS001",
+    "Valor": 3200
+  },
+  {
+    "Código": "CHS003",
+    "Valor": 3200
+  },
+  {
+    "Código": "CHS004",
+    "Valor": 3200
+  },
+  {
+    "Código": "CHS005",
+    "Valor": 3200
+  },
+  {
+    "Código": "CS101GF",
+    "Valor": 3200
+  },
+  {
+    "Código": "CS102GF",
+    "Valor": 2900
+  },
+  {
+    "Código": "CV110GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "CV111GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "CV112GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "CV113GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "CV114GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "CV115GF",
+    "Valor": 2500
+  },
+  {
+    "Código": "CVE110",
+    "Valor": 3000
+  },
+  {
+    "Código": "CVE112",
+    "Valor": 3000
+  },
+  {
+    "Código": "CVE113",
+    "Valor": 3000
+  },
+  {
+    "Código": "CVE114",
+    "Valor": 3000
+  },
+  {
+    "Código": "CVE115",
+    "Valor": 3000
+  },
+  {
+    "Código": "ER100GF",
+    "Valor": 2000
+  },
+  {
+    "Código": "ERE100",
+    "Valor": 2000
+  },
+  {
+    "Código": "GR264GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "GR266GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "GRE264",
+    "Valor": 1800
+  },
+  {
+    "Código": "GRE266",
+    "Valor": 1800
+  },
+  {
+    "Código": "GRE282",
+    "Valor": 1800
+  },
+  {
+    "Código": "GRS002",
+    "Valor": 2500
+  },
+  {
+    "Código": "GRS004",
+    "Valor": 3200
+  },
+  {
+    "Código": "ID002GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "ID003GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "ID004GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "ID005GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "ID010GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "IDE002",
+    "Valor": 2600
+  },
+  {
+    "Código": "IDE003",
+    "Valor": 2600
+  },
+  {
+    "Código": "IDE004",
+    "Valor": 2600
+  },
+  {
+    "Código": "IDE005",
+    "Valor": 2600
+  },
+  {
+    "Código": "IDE010",
+    "Valor": 1800
+  },
+  {
+    "Código": "IDS010",
+    "Valor": 2600
+  },
+  {
+    "Código": "NA200GF",
+    "Valor": 3200
+  },
+  {
+    "Código": "NA201GF",
+    "Valor": 3200
+  },
+  {
+    "Código": "NA202GF",
+    "Valor": 3200
+  },
+  {
+    "Código": "NA204GF",
+    "Valor": 2600
+  },
+  {
+    "Código": "NA205GF",
+    "Valor": 3200
+  },
+  {
+    "Código": "NA206GF",
+    "Valor": 2600
+  },
+  {
+    "Código": "NA207GF",
+    "Valor": 2600
+  },
+  {
+    "Código": "NA208GF",
+    "Valor": 3200
+  },
+  {
+    "Código": "NA209GF",
+    "Valor": 3200
+  },
+  {
+    "Código": "NA210GF",
+    "Valor": 2600
+  },
+  {
+    "Código": "NA211GF",
+    "Valor": 2600
+  },
+  {
+    "Código": "NA212GF",
+    "Valor": 2600
+  },
+  {
+    "Código": "NAE200",
+    "Valor": 3200
+  },
+  {
+    "Código": "NAE201",
+    "Valor": 3200
+  },
+  {
+    "Código": "NAE202",
+    "Valor": 3200
+  },
+  {
+    "Código": "NAE210",
+    "Valor": 2600
+  },
+  {
+    "Código": "NAE211",
+    "Valor": 2600
+  },
+  {
+    "Código": "NAE212",
+    "Valor": 2600
+  },
+  {
+    "Código": "NAE214",
+    "Valor": 1800
+  },
+  {
+    "Código": "OR201GF",
+    "Valor": 2600
+  },
+  {
+    "Código": "ORE201",
+    "Valor": 2600
+  },
+  {
+    "Código": "PR130GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "PR131GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "PR132GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "PR133GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "PR134GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "PR142GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "PR143GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "PR144GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "PR157GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "PRE130",
+    "Valor": 2600
+  },
+  {
+    "Código": "PRE131",
+    "Valor": 2600
+  },
+  {
+    "Código": "PRE132",
+    "Valor": 2600
+  },
+  {
+    "Código": "PRE133",
+    "Valor": 2600
+  },
+  {
+    "Código": "PRE134",
+    "Valor": 2600
+  },
+  {
+    "Código": "PRE142",
+    "Valor": 2600
+  },
+  {
+    "Código": "PRE145",
+    "Valor": 2600
+  },
+  {
+    "Código": "PRE146",
+    "Valor": 2600
+  },
+  {
+    "Código": "PRE157",
+    "Valor": 2600
+  },
+  {
+    "Código": "PRS010",
+    "Valor": 3200
+  },
+  {
+    "Código": "PRS011",
+    "Valor": 2600
+  },
+  {
+    "Código": "PRS012",
+    "Valor": 2600
+  },
+  {
+    "Código": "SR500GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "SR600GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "SRE500",
+    "Valor": 1800
+  },
+  {
+    "Código": "SRE600",
+    "Valor": 1800
+  },
+  {
+    "Código": "SRS600",
+    "Valor": 1800
+  },
+  {
+    "Código": "TR300GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "TR301GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "TR304GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "TR306GF",
+    "Valor": 2200
+  },
+  {
+    "Código": "TRE300",
+    "Valor": 2600
+  },
+  {
+    "Código": "TRE301",
+    "Valor": 2600
+  },
+  {
+    "Código": "TRE304",
+    "Valor": 2600
+  },
+  {
+    "Código": "TRE306",
+    "Valor": 2600
+  },
+  {
+    "Código": "VL551GF",
+    "Valor": 1800
+  },
+  {
+    "Código": "VLE550",
+    "Valor": 1800
+  }
+]

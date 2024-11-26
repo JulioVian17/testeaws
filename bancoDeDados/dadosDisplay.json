@@ -1,0 +1,32 @@
+[
+  {
+    "formato": "text",
+    "dados": "DISPLAY CDP 2024",
+    "tempo": 5
+  },
+  {
+    "formato": "photo",
+    "dados": "uploads\\1721848319628.png",
+    "tempo": 8
+  },
+  {
+    "formato": "table",
+    "dados": "https://docs.google.com/spreadsheets/d/1h1oGlyMEtY8x5EWWi16DXktwrBjZGj6HZncmwBoIaj0/edit?gid=0#gid=0",
+    "tempo": 10
+  },
+  {
+    "formato": "photo",
+    "dados": "uploads\\1721913049792.png",
+    "tempo": 5
+  },
+  {
+    "formato": "dashboard",
+    "dados": "http://192.168.50.186:3000/dashboard",
+    "tempo": 10
+  },
+  {
+    "formato": "photo",
+    "dados": "uploads\\1726681677657.jpg",
+    "tempo": 10
+  }
+]

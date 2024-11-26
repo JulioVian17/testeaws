@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="shortcut icon" type="image/x-icon" href="imagens/logo-2.ico">
+  <link rel="stylesheet" type="text/css" href="Estilos/estilo_pagina1.css">
+  <link rel="stylesheet" type="text/css" href="Estilos/estilo_menu1.css">
+  <meta name="description" content="Gráfico indicadores de produção">
+  <meta name="keywords" content="controle de produção, Gráficos">
+  <meta name="author" content="Julio Vian">
+  <meta http-equiv="Content-Language" content="pt-BR">
+
+  <!-- Jquerry JS -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <!-- Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <script src="https://kit.fontawesome.com/429ff8aa4a.js" crossorigin="anonymous"></script>
+  <!-- Socket -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.4/socket.io.js'></script>
+  <title>Controle de Produção</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+
+</head>
+<script src="JS/js_pagina1.js" defer></script>
+
+<body class="dark">
+  <!--Carregamento
+  <section id="section-entrada">
+    <div class="content">
+      <h1>Bem-Vindo
+        <i style="margin-left: 10px;" class="fa-solid fa-wine-glass fa-spin-pulse fa-1x" style="color: #737373;"></i>
+      </h1>
+      <h2>Famiglia Valduga CDP</h2>
+    </div>
+    <div class="logo-container">
+      <img src="imagens/Logo-Famiglia.ico" alt="logo2">
+    </div>
+  </section>-->
+  <div class="divMain">
+    <section id="section-entrada">
+      <div class="content">
+        <h1>Bem-Vindo
+          <i style="margin-left: 10px;" class="fa-solid fa-wine-glass fa-spin-pulse fa-1x" style="color: #737373;"></i>
+        </h1>
+        <h2>DataDecanter CDP</h2>
+      </div>
+      <!-- <div class="logo-container">
+     <img style="width: 100px;" src="imagens/DataDecanterIcone2-removebg.png" alt="logo2">
+    </div> -->
+    </section>
+
+    <!--Preenchimento-->
+    <section class="main-section" id="section-principal">
+      <div class="bar-top"> <!--Titulo e menu-->
+        <div class="imagemCanto">
+          <h2>
+            Controle de Produção
+            <i style="margin-left: 10px;" class="fa-solid fa-wine-glass fa-spin-pulse fa-1x"
+              style="color: #737373;"></i>
+          </h2>
+        </div>
+        <div class="menu"><!---Menu-->
+          <ul class="list">
+            <img style="width: 200px;" src="imagens/TituloDecForm2-removebg.png" alt="logo2">
+            <li><a href="/home"><i class="material-icons">home</i> Home</a></li>
+            <li><a href="/"><i class="material-icons">edit_note</i> Controle de Produção</a></li>
+            <li><a href="/dashboard"><i class="material-icons">dashboard</i> Dashboard</a></li>
+            <li><a href="/analise"><i class="material-icons">equalizer</i> Análise</a></li>
+            <li><a href="/quebras"><i class="material-icons">delete</i> Controle de Quebras</a></li>
+            <li><a href="/paradas"><i class="material-icons">schedule</i> Controle de Paradas</a></li>
+            <div style="display:flex; align-items: center;justify-content: space-between;">
+              <li style="padding: 10px; margin: 0px 0px 0px 10px;">
+                <a href="/consultas"><i class=" material-icons">search</i> Consultas</a>
+              </li>
+
+              <li style=" padding: 10px; margin: 0px 10px 0px 0px;">
+                <a href="/ordens"><i class=" material-icons">receipt_long</i> Ordens</a>
+              </li>
+
+            </div>
+            <li><a href="/qualidade"><i class="material-symbols-outlined">edit</i> Controle de Qualidade</a></li>
+            <li><a href="/indicadores-qualidade"><i class="material-symbols-outlined">frame_inspect</i> Indicadores
+                Qualidade</a></li>
+          </ul>
+        </div>
+
+      </div>
+      <form id="form1">
+        <fieldset class="field1"> <!--Dados iniciais-->
+          <legend> Dados Iniciais </legend>
+          <div style="display: flex;">
+            <label>
+              <label for="data-hora">* Data e hora:</label>
+              <input type="date" id="data-hora" style="background-color:white;color: black;" class="input-field1"
+                required>
+            </label>
+            <label>
+              <label for="operacao">* Operação:</label>
+              <select required class="input-field1" id="operacao" onchange="exibirElemento()">
+                <option value="rotulagem">Rotulagem</option>
+                <option value="envase">Envase</option>
+                <option value="degorgment">Degorgment</option>
+              </select>
+            </label>
+            <div id="div-ops" style="display: none;">
+              <label for="ops">OPs:</label>
+              <select id="ops" onchange="avisoOps()">
+              </select>
+            </div>
+          </div>
+          <p></p>
+          <label>
+            <label for="ordem">* Nº da Ordem:</label>
+            <input maxlength="5" minlength="5" class="input-field1" type="text" id="ordem"
+              onkeyup="somenteNumeros(this)" placeholder="Ordem" required>
+          </label>
+          <label>
+            <label for="item_code">* Código do Item:</label>
+            <input maxlength="7" class="input-field1" type="text" id="item_code" onkeyup="toUpperCase(this)"
+              placeholder="Código" required>
+          </label>
+          <label>
+            <label for="qtde_op">* Quantidade OP:</label>
+            <input maxlength="6" minlength="1" class="input-field1" type="text" id="qtde_op"
+              onkeyup="somenteNumeros(this)" placeholder="Quantidade" required>
+          </label>
+          <span id="span-item-parametros"></span>
+          <span id="span-obs"></span>
+        </fieldset>
+        <div>
+          <button type="submit" onclick="armazenarDados()">Avançar</button>
+          <span id="dados-armazenados"></span> <!--Salvar dados iniciais-->
+        </div>
+      </form>
+
+      <!--    SEGUNDA PARTE   -->
+      <div id="segunda-parte">
+        <form id="form2">
+          <fieldset class="field2">
+            <legend> Turno </legend>
+            <div style="position: relative;">
+
+
+              <button id="demandasButton"
+                style="position: absolute; top: 0; right: 0; background-color: transparent; border: none; outline: none;transform: scale(2.5);"
+                onclick="demandasBtn()">
+                <i id="buttonIcon" style="color: white;" class="material-symbols-outlined">list_alt</i>
+
+                <div id="loadingIcon" class="loader" style="display: none;"></div>
+              </button>
+              <div style="display: none;" id="divDemanda"></div>
+              <div> <!--hi-->
+                <label for="hi">* Informe Hora/Minuto Inicio:</label>
+                <input type="time" id="hi" style="background-color:white;">
+              </div>
+
+              <div class="div-quebras"> <!--Campos de quebras-->
+
+                <!--ROTULAGEM-->
+                <label id="quebra-rotulagem" style="display: none;">
+                  <label for="quebra-rotulagem">Informe as Quebras:</label>
+                  <select class="quebra-select" id="quebra-rotulagem-select">
+                    <option></option>
+                    <option value="CAP">CAP</option>
+                    <option value="CAX">CAX</option>
+                    <option value="GRG">GRG</option>
+                    <option value="ROT">ROT</option>
+                    <option value="CTR">CTR</option>
+                    <option value="SEMI-ELAB">SEMI-ELAB</option>
+                  </select>
+                  <input id="quebra-rotulagem-input" onkeyup="somenteNumeros(this)" placeholder="Quantidade"
+                    style="width: 5.5em;">
+                  <button onclick="incrementarQuebra('quebra-rotulagem-input')">+1 Quebra</button>
+                  Motivo:
+                  <select style="margin-left: 5px;" id="quebra-rotulagem-select-motivo" style="width: 5.5em;">
+                    <option></option>
+                    <option value="INSUMO">INSUMO</option>
+                    <option value="MANUTENCAO">MANUTENCAO</option>
+                    <option value="PROCESSO">PROCESSO</option>
+                    <option value="REGULAGEM">REGULAGEM</option>
+                    <option value="RETIRADA">RETIRADA</option>
+                  </select>
+                  <button onclick="salvarQuebra('quebra-rotulagem-input')">Salvar Quebra</button>
+
+                </label>
+                <!--ENVASE-->
+                <div id="quebra-envase" style="display: none;">
+                  <label for="quebra-envase">Informe as Quebras:</label>
+                  <select class="quebra-select" id="quebra-envase-select">
+                    <option></option>
+                    <option value="VIN">VINHO em litros</option>
+                    <option value="GAR">GAR</option>
+                    <option value="ROL">ROL</option>
+                    <option value="TAM">TAM</option>
+                    <option value="BID">BID</option>
+                    <option value="SEMI-ELAB">SEMI-ELAB</option>
+                  </select>
+                  <input id="quebra-envase-input" onkeyup="somenteNumeros(this)" placeholder="Quantidade"
+                    style="width: 5.5em;">
+                  <button onclick="incrementarQuebra('quebra-envase-input')">+1 Quebra</button>
+                  Motivo:
+                  <select style="margin-left: 5px;" id="quebra-envase-select-motivo" style="width: 5.5em;">
+                    <option></option>
+                    <option value="INSUMO">INSUMO</option>
+                    <option value="MANUTENCAO">MANUTENCAO</option>
+                    <option value="PROCESSO">PROCESSO</option>
+                    <option value="REGULAGEM">REGULAGEM</option>
+                    <option value="RETIRADA">RETIRADA</option>
+                  </select>
+                  <button onclick="salvarQuebra('quebra-envase-input')">Salvar Quebra</button>
+                </div>
+                <!--DEGORGE-->
+                <div id="quebra-degorgment" style="display: none;">
+                  <label for="quebra-degorgment">Informe as Quebras:</label>
+                  <select class="quebra-select" id="quebra-degorgment-select">
+                    <option></option>
+                    <option value="SEMI-ELAB">SEMI-ELAB</option>
+                    <option value="ROL">ROL</option>
+                    <option value="GAI">GAI</option>
+                  </select>
+                  <input id="quebra-degorgment-input" onkeyup="somenteNumeros(this)" placeholder="Quantidade"
+                    style="width: 5.5em;">
+                  <button onclick="incrementarQuebra('quebra-degorgment-input')">+1 Quebra</button>
+                  Motivo:
+                  <select style="margin-left: 5px;" id="quebra-degorgment-select-motivo" style="width: 5.5em;">
+                    <option></option>
+                    <option value="INSUMO">INSUMO</option>
+                    <option value="MANUTENCAO">MANUTENCAO</option>
+                    <option value="PROCESSO">PROCESSO</option>
+                    <option value="REGULAGEM">REGULAGEM</option>
+                    <option value="RETIRADA">RETIRADA</option>
+                  </select>
+                  <button onclick="salvarQuebra('quebra-degorgment-input')">Salvar Quebra</button>
+                </div>
+
+
+              </div>
+
+              <div class="div-paradas"> <!--Campos de paradas-->
+                <div class="quantidade-paradas">
+
+                  <label for="parada">Informe as Paradas:</label>
+                  <input style="margin-left: 35px;width: 3.3em" id="parada" onkeyup="somenteNumeros(this)"
+                    placeholder="Ex: 1">
+                  <button onclick="incrementarParada()">+1 Parada</button>
+                </div>
+                <div class="quantidade-paradas">
+                  <input id="parada-tempo" onkeyup="somenteNumeros(this)" style="width: 3.3em" placeholder="Tempo">
+                  <button onclick="incrementarParadaTempo()">+1 Min/Tempo</button>
+                </div>
+
+                <div class="quantidade-paradas"><!--Select-->
+                  <!-- SELECT ROTULAGEM -->
+                  <label id="observacao-exibir-rotulagem" style="display: none;">Motivo:
+                    <select id="observacao-rotulagem">
+                      <option></option>
+                      <!-- <optgroup label="PRÉ-PRODUÇÃO">
+                      <option>PRÉ-MANUTENÇÃO PROGRAMADA</option>
+                      <option>PRÉ-REGULAGEM</option>
+                      <option>PRÉ-REUNIÃO</option>
+                      <option>PRÉ-SET-UP</option>
+                      <option>PRÉ-TREINAMENTO</option>
+                      <option>PRÉ-OUTROS MOTIVOS</option>
+                    </optgroup>
+                    <optgroup label="PRODUÇÃO">
+                      <option>AMOSTRA</option>
+                      <option>FALHA NO SENSOR</option>
+                      <option>FALTA DE INSUMO</option>
+                      <option>FALTA DE MÃO-DE-OBRA</option>
+                      <option>GARRAFA CAIDA</option>
+                      <option>GARRAFA SUADA</option>
+                      <option>QUEDA DE LUZ</option>
+                      <option>REMUAGEM</option>
+                      <option>REUNIÃO</option>
+                      <option>ROMPIMENTO LINER</option>
+                      <option>SET-UP</option>
+                      <option>TREINAMENTO</option>
+                      <option>TROCA DE BOBINA</option>
+                      <option>TROCA DE PRODUTO</option>
+                      <option>OUTROS MOTIVOS</option>
+                    </optgroup>
+                    <optgroup label="REGULAGEM">
+                      <option>REG. LAVADORA</option>
+                      <option>REG. CAPSULADORA</option>
+                      <option>REG. ROTULADORA</option>
+                      <option>REG. ENCAIXOTADORA/IMPRESSORA</option>
+                      <option>REG. ESTEIRA/INVERSOR</option>
+                    </optgroup>
+
+                    <optgroup label="MANUTENÇÃO">
+                      <option>MAN. LAVADORA</option>
+                      <option>MAN. CAPSULADORA</option>
+                      <option>MAN. ROTULADORA</option>
+                      <option>MAN. ENCAIXOTADORA/IMPRESSORA</option>
+                      <option>MAN. ESTEIRA/INVERSOR</option>
+                    </optgroup>-->
+                    </select>
+                    <button onclick="salvarParada('observacao-rotulagem')">Salvar Parada</button></label>
+
+                  <!-- SELECT ENVASE -->
+                  <label id="observacao-exibir-enavase" style="display: none;">Motivo:
+                    <select id="observacao-envase">
+                      <option></option>
+                      <!-- <optgroup label="PRÉ-PRODUÇÃO">
+                      <option>PRÉ-AMOSTRA</option>
+                      <option>PRÉ-SET-UP</option>
+                      <option>PRÉ-REGULAGEM</option>
+                      <option>PRÉ-MANUTENÇÃO PROGRAMADA</option>
+                      <option>PRÉ-REUNIÃO</option>
+                      <option>PRÉ-TREINAMENTO</option>
+                      <option>PRÉ-OUTROS MOTIVOS</option>
+                    </optgroup>
+                    <optgroup label="PRODUÇÃO">
+                      <option>AMOSTRA</option>
+                      <option>FALHA NO SENSOR</option>
+                      <option>FALTA DE INSUMO</option>
+                      <option>FALTA DE MÃO-DE-OBRA</option>
+                      <option>GARRAFA CAIDA</option>
+                      <option>PERDA DE LÍQUIDO</option>
+                      <option>PROBLEMA COM TRATAMENTO DA ROLHA</option>
+                      <option>QUEDA DE LUZ</option>
+                      <option>REMUAGEM</option>
+                      <option>REUNIAO</option>
+                      <option>SET-UP</option>
+                      <option>TREINAMENTO</option>
+                      <option>TROCA DE PRODUTO</option>
+                      <option>VERIFICAÇÃO DE VÁCUO</option>
+                      <option>OUTROS MOTIVOS</option>
+                    </optgroup>
+                    <optgroup label="REGULAGEM">
+                      <option>REG. ENCHEDORA</option>
+                      <option>REG. TAMPINHADORA</option>
+                      <option>REG. ESTEIRA/INVERSOR</option>
+                    </optgroup>
+                    <optgroup label="MANUTENÇÃO">
+                      <option>MAN. ENCHEDORA</option>
+                      <option>MAN. TAMPINHADORA</option>
+                      <option>MAN. ESTEIRA/INVERSOR</option>
+                    </optgroup>-->
+                    </select>
+                    <button onclick="salvarParada('observacao-envase')">Salvar Parada</button></label>
+
+                  <!-- SELECT DEGORGMENT -->
+                  <label id="observacao-exibir-degorgment" style="display:none;">Motivo:
+                    <select id="observacao-degorgment">
+                      <option></option>
+                      <!-- <optgroup label="PRÉ-PRODUÇÃO">
+                      <option>PRÉ-AMOSTRA</option>
+                      <option>PRÉ-SET-UP</option>
+                      <option>PRÉ-REGULAGEM</option>
+                      <option>PRÉ-MANUTENÇÃO PROGRAMADA</option>
+                      <option>PRÉ-REUNIÃO</option>
+                      <option>PRÉ-TREINAMENTO</option>
+                      <option>PRÉ-OUTROS MOTIVOS</option>
+                    </optgroup>
+                    <optgroup label="PRODUÇÃO">
+                      <option>AJUSTE RIDUX</option>
+                      <option>AMOSTRA</option>
+                      <option>APERTO DA MORDAÇA</option>
+                      <option>CONGELANDO BICOS</option>
+                      <option>DESCONGELAMENTO DA LEVEDURA</option>
+                      <option>FALHA NO SENSOR</option>
+                      <option>FALTA DE INSUMO</option>
+                      <option>FALTA DE MÃO-DE-OBRA</option>
+                      <option>GARRAFA CAIDA</option>
+                      <option>PERDA DE LÍQUIDO</option>
+                      <option>PROBLEMA COM TRATAMENTO DA ROLHA</option>
+                      <option>QUEDA DE LUZ</option>
+                      <option>REMUAGEM</option>
+                      <option>REUNIAO</option>
+                      <option>SET-UP</option>
+                      <option>TREINAMENTO</option>
+                      <option>TROCA DE PRODUTO</option>
+                      <option>OUTROS MOTIVOS</option>
+                    </optgroup>
+                    <optgroup label="REGULAGEM">
+                      <option>REG. CONGELADOR DE BICOS</option>
+                      <option>REG. DEGORJADORA</option>
+                      <option>REG. ROLHADORA</option>
+                      <option>REG. GABIETADORA</option>
+                      <option>REG. MISTURADOR</option>
+                      <option>REG. ESTEIRA/INVERSOR</option>
+                    </optgroup>
+                    <optgroup label="MANUTENÇÃO">
+                      <option>MAN. CONGELADOR DE BICOS</option>
+                      <option>MAN. DEGORJADORA</option>
+                      <option>MAN. ROLHADORA</option>
+                      <option>MAN. GABIETADORA</option>
+                      <option>MAN. MISTURADOR</option>
+                      <option>MAN. ESTEIRA/INVERSOR</option>
+                    </optgroup>-->
+                    </select>
+                    <button onclick="salvarParada('observacao-degorgment')">Salvar Parada</button></label>
+                  </label>
+                </div>
+              </div>
+
+              <label>
+
+                <div> <!--Garrafas-->
+                  <label for="garrafa">* Garrafas Produzidas:</label>
+                  <input min="0" style="margin-left: 28px;" type="number" id="garrafa" onkeyup="somenteNumeros(this)"
+                    placeholder="Quantidade de Garrafas">
+                </div>
+                <div> <!--Pessoas-->
+                  <label for="pessoas">* Quantidade de Pessoas:</label>
+                  <input min="0" max="15" type="number" id="pessoas" onkeyup="somenteNumeros(this)" style="width: 6em"
+                    placeholder="Ex: 5">
+                </div>
+
+                <label id="amostra-analise" style="display: none;"> <!--Análise-->
+                  <label for="amostra-analise">Amostra de Análise:</label>
+                  <select style="margin-left: 33px;" id="amostra-analise-select" onchange="mostrarCampoAnalise()">
+                    <option></option>
+                    <option value="acucar">AÇÚCAR</option>
+                    <option value="total">SO2 TOTAL</option>
+                    <option value="livre">SO2 LIVRE</option>
+                  </select>
+                  <input id="amostra-analise-select-acucar" type="text" placeholder="Analise"
+                    style="width: 5.5em; display: none;" onkeyup="somenteNumeros(this)">
+                  <input id="amostra-analise-select-total" type="text" placeholder="Analise"
+                    style="width: 5.5em; display: none;" onkeyup="somenteNumeros(this)">
+                  <input id="amostra-analise-select-livre" type="text" placeholder="Analise"
+                    style="width: 5.5em; display: none;" onkeyup="somenteNumeros(this)">
+                  <button id="btn-acucar" onclick="salvarAnalise('amostra-analise-select-acucar')"
+                    style="display: none;">Salvar Análise</button>
+                  <button id="btn-total" onclick="salvarAnalise('amostra-analise-select-total')"
+                    style="display: none;">Salvar
+                    Análise</button>
+                  <button id="btn-livre" onclick="salvarAnalise('amostra-analise-select-livre')"
+                    style="display: none;">Salvar
+                    Análise</button>
+
+                </label>
+
+                <div> <!--hf-->
+                  <label for="hf">* Informe Hora/Minuto Final:</label>
+                  <input type="time" id="hf" style="background-color: white;">
+                </div>
+            </div>
+
+          </fieldset>
+          <button onclick="exportar()">Exportar</button>
+        </form>
+        <span id="dados-armazenados2"></span><i class=""></i>
+      </div>
+      <div id="divConfirm"></div>
+      <div id="divContagem"></div>
+      <!--<div style="text-align: center;"><img src="imagens/Logo-Famiglia.ico" alt="logo2"></div> 
+    <div style="text-align: center;"><img src="imagens/TituloDecForm2-removebg.png" alt="logo2"></div>Logo-->
+      <footer id="fotter-parte" style="display: none;"> <!--footer-->
+        <p>&copy; 2023 Famiglia Valduga CDP. Todos os direitos reservados. | Desenvolvido por Júlio Vian</p>
+      </footer>
+
+    </section>
+    <!--Print-->
+    <section id="section-final" class="final-section" style="display: none;">
+      <div>
+        <h2>Deseja imprimir um relatório do dia ?</h2>
+        <button class="btn_imprimir" id="btn-imprimir">Imprimir
+          <i style="margin-left: 10px;" class="fa-solid fa-print" style="color: #616161;"></i>
+        </button>
+        <button onclick="refresh()" class="btn_encerrar" id="btn-encerrar">Encerrar
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+      <div>
+
+      </div>
+    </section>
+  </div>
+</body>
+
+</html>

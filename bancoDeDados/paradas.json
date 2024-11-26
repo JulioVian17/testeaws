@@ -1,0 +1,126 @@
+{
+    "ROTULAGEM": {
+        "PRÉ-PRODUÇÃO": [
+            "PRÉ-MANUTENÇÃO PROGRAMADA",
+            "PRÉ-REGULAGEM",
+            "PRÉ-REUNIÃO",
+            "PRÉ-SET-UP",
+            "PRÉ-TREINAMENTO",
+            "PRÉ-OUTROS MOTIVOS"
+        ],
+        "PRODUÇÃO": [
+            "AMOSTRA",
+            "FALHA NO SENSOR",
+            "FALTA DE INSUMO",
+            "FALTA DE MÃO-DE-OBRA",
+            "GARRAFA CAIDA",
+            "GARRAFA SUADA",
+            "QUEDA DE LUZ",
+            "REMUAGEM",
+            "REUNIÃO",
+            "ROMPIMENTO LINER",
+            "SET-UP",
+            "TREINAMENTO",
+            "TROCA DE BOBINA",
+            "TROCA DE PRODUTO",
+            "OUTROS MOTIVOS"
+        ],
+        "REGULAGEM": [
+            "REG. LAVADORA",
+            "REG. CAPSULADORA",
+            "REG. ROTULADORA",
+            "REG. ENCAIXOTADORA/IMPRESSORA",
+            "REG. ESTEIRA/INVERSOR"
+        ],
+        "MANUTENÇÃO": [
+            "MAN. LAVADORA",
+            "MAN. CAPSULADORA",
+            "MAN. ROTULADORA",
+            "MAN. ENCAIXOTADORA/IMPRESSORA",
+            "MAN. ESTEIRA/INVERSOR"
+        ]
+    },
+    "ENVASE": {
+        "PRÉ-PRODUÇÃO": [
+            "PRÉ-MANUTENÇÃO PROGRAMADA",
+            "PRÉ-REGULAGEM",
+            "PRÉ-REUNIÃO",
+            "PRÉ-SET-UP",
+            "PRÉ-TREINAMENTO",
+            "PRÉ-OUTROS MOTIVOS"
+        ],
+        "PRODUÇÃO": [
+            "AMOSTRA",
+            "FALHA NO SENSOR",
+            "FALTA DE INSUMO",
+            "FALTA DE MÃO-DE-OBRA",
+            "GARRAFA CAIDA",
+            "PERDA DE LÍQUIDO",
+            "PROBLEMA COM TRATAMENTO DA ROLHA",
+            "QUEDA DE LUZ",
+            "REMUAGEM",
+            "REUNIAO",
+            "SET-UP",
+            "TREINAMENTO",
+            "TROCA DE PRODUTO",
+            "VERIFICAÇÃO DE VÁCUO",
+            "OUTROS MOTIVOS"
+        ],
+        "REGULAGEM": [
+            "REG. ENCHEDORA",
+            "REG. TAMPINHADORA",
+            "REG. ESTEIRA/INVERSOR"
+        ],
+        "MANUTENÇÃO": [
+            "MAN. ENCHEDORA",
+            "MAN. TAMPINHADORA",
+            "MAN. ESTEIRA/INVERSOR"
+        ]
+    },
+    "DEGORGMENT": {
+        "PRÉ-PRODUÇÃO": [
+            "PRÉ-MANUTENÇÃO PROGRAMADA",
+            "PRÉ-REGULAGEM",
+            "PRÉ-REUNIÃO",
+            "PRÉ-SET-UP",
+            "PRÉ-TREINAMENTO",
+            "PRÉ-OUTROS MOTIVOS"
+        ],
+        "PRODUÇÃO": [
+            "AJUSTE RIDUX",
+            "AMOSTRA",
+            "APERTO DA MORDAÇA",
+            "CONGELANDO BICOS",
+            "DESCONGELAMENTO DA LEVEDURA",
+            "FALHA NO SENSOR",
+            "FALTA DE INSUMO",
+            "FALTA DE MÃO-DE-OBRA",
+            "GARRAFA CAIDA",
+            "PERDA DE LÍQUIDO",
+            "PROBLEMA COM TRATAMENTO DA ROLHA",
+            "QUEDA DE LUZ",
+            "REMUAGEM",
+            "REUNIAO",
+            "SET-UP",
+            "TREINAMENTO",
+            "TROCA DE PRODUTO",
+            "OUTROS MOTIVOS"
+        ],
+        "REGULAGEM": [
+            "REG. CONGELADOR DE BICOS",
+            "REG. DEGORJADORA",
+            "REG. ROLHADORA",
+            "REG. GABIETADORA",
+            "REG. MISTURADOR",
+            "REG. ESTEIRA/INVERSOR"
+        ],
+        "MANUTENÇÃO": [
+            "MAN. CONGELADOR DE BICOS",
+            "MAN. DEGORJADORA",
+            "MAN. ROLHADORA",
+            "MAN. GABIETADORA",
+            "MAN. MISTURADOR",
+            "MAN. ESTEIRA/INVERSOR"
+        ]
+    }
+}

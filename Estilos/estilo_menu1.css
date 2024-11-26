@@ -1,0 +1,150 @@
+.icons {
+  font-family: 'Material Icons' !important;
+  font-feature-settings: 'liga';
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+:before,
+:after {
+  box-sizing: border-box;
+  transition: .3s;
+  letter-spacing: 1px;
+}
+
+
+.menu {
+  position: absolute;
+  top: 6%;
+  left: 3%;
+  transform: translate(-50%, -50%);
+  background: #333;
+  height: 56px;
+  /* Substitua pelo valor desejado para $btn-size */
+  width: 56px;
+  /* Substitua pelo valor desejado para $btn-size */
+  border-radius: 5px;
+  color: #E6E6E6;
+  font-size: 2em;
+  cursor: pointer;
+  z-index: 1;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.menu:focus,.menu:hover{
+opacity: 1;
+border:2px solid #00d0ff;
+
+}
+.menu:before {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Material Icons' !important;
+  font-feature-settings: 'liga';
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  content: '\E5D2';
+  font-size: inherit;
+  
+}
+
+.menu .list a {
+  text-decoration: none;
+  /* Remove o sublinhado */
+  color: inherit;
+  /* Mantém a cor padrão do texto do link */
+}
+
+.menu ul {
+  background: inherit;
+  padding: .5em 0;
+  margin: 0;
+  margin-top: 1em;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, .2);
+  position: absolute;
+  top: 100%;
+  left: 0;
+  color: inherit;
+  font: 400 18px Roboto;
+  white-space: nowrap;
+  cursor: default;
+  border:2px solid #00d0ff;
+
+}
+
+.menu ul.hidden {
+  margin-top: .7em;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.menu ul:before {
+  content: '';
+  width: .75em;
+  height: .75em;
+  background: inherit;
+  position: absolute;
+  top: -0.375em;
+  left: calc(28px / 2 - 0.375em);
+  /* Substitua pelo valor desejado para $btn-size */
+  transform: rotate(45deg);
+  border-left:2px solid #00d0ff;
+  border-top:2px solid #00d0ff;
+
+}
+
+.menu li {
+  list-style: none;
+  padding: .5em;
+  padding-left: 2.5em;
+  margin: 0;
+  position: relative;
+  cursor: pointer;
+}
+
+.menu li:hover {
+  background: rgba(255, 255, 255, .08);
+}
+
+.list i.material-icons {
+  color: #00d0ff;
+  margin-right: 5px;
+}
+
+.logo2 {
+  height: 80px;
+}
+
+/*--------------------------*/
+
+.material-symbols-outlined{
+  color: yellow;
+}
+@media only screen and (max-width: 600px) {
+  .menu {
+    position: absolute;
+    top: 6%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    background: #474747;
+    height: 56px;
+    /* Substitua pelo valor desejado para $btn-size */
+    width: 56px;
+    /* Substitua pelo valor desejado para $btn-size */
+    border-radius: 5px;
+    color: #E6E6E6;
+    font-size: 2em;
+    cursor: pointer;
+    z-index: 1;
+    text-align: center;
+  }
+
+
+}

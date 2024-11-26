@@ -1,0 +1,2268 @@
+[
+  {
+    "Código": "AR120GF",
+    "Prod": 3200,
+    "Valor": 320,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 7
+    },
+    "DESC": "ARTE TINTO CABERNET SAUVIGNON & MERLOT 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "2.500",
+      "FEV": "4.000",
+      "MAR": "2.500",
+      "ABR": "3.000",
+      "MAI": "5.000",
+      "JUN": "6.000",
+      "JUL": "6.000",
+      "AGO": "4.500",
+      "SET": "4.000",
+      "OUT": "4.500",
+      "NOV": "5.500",
+      "DEZ": "2.500",
+      "TOTAL": "50.000"
+    }
+  },
+  {
+    "Código": "AR122GF",
+    "Prod": 3200,
+    "Valor": 320,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 7
+    },
+    "DESC": "ARTE BRANCO CHARDONNAY & MOSCATO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "2.800",
+      "FEV": "3.600",
+      "MAR": "2.800",
+      "ABR": "2.800",
+      "MAI": "2.800",
+      "JUN": "2.800",
+      "JUL": "3.200",
+      "AGO": "3.600",
+      "SET": "4.000",
+      "OUT": "4.400",
+      "NOV": "4.400",
+      "DEZ": "2.800",
+      "TOTAL": "40.000"
+    }
+  },
+  {
+    "Código": "AR123GF",
+    "Prod": 3200,
+    "Valor": 320,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 7
+    },
+    "DESC": "ARTE ROSE GEWURZTRAMINER & MALBEC 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "3.080",
+      "FEV": "3.960",
+      "MAR": "3.080",
+      "ABR": "3.080",
+      "MAI": "3.080",
+      "JUN": "3.080",
+      "JUL": "3.520",
+      "AGO": "3.960",
+      "SET": "4.400",
+      "OUT": "4.840",
+      "NOV": "4.840",
+      "DEZ": "3.080",
+      "TOTAL": "44.000"
+    }
+  },
+  {
+    "Código": "AR187GF",
+    "Prod": 2400,
+    "Valor": 218,
+    "Pessoas": {
+      "degorgment": 6,
+      "rotulagem": 6
+    },
+    "DESC": "ARTE ESPUMANTE BRUT 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "14.400",
+      "FEV": "19.200",
+      "MAR": "14.400",
+      "ABR": "12.000",
+      "MAI": "16.800",
+      "JUN": "14.400",
+      "JUL": "14.400",
+      "AGO": "16.800",
+      "SET": "26.400",
+      "OUT": "33.600",
+      "NOV": "38.400",
+      "DEZ": "19.200",
+      "TOTAL": "240.000"
+    }
+  },
+  {
+    "Código": "AR188GF",
+    "Prod": 2400,
+    "Valor": 218,
+    "Pessoas": {
+      "degorgment": 6,
+      "rotulagem": 6
+    },
+    "DESC": "ARTE ESPUMANTE DEMI-SEC 750ML GFA",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "2.880",
+      "FEV": "3.840",
+      "MAR": "2.880",
+      "ABR": "2.400",
+      "MAI": "3.360",
+      "JUN": "2.880",
+      "JUL": "2.880",
+      "AGO": "3.360",
+      "SET": "5.280",
+      "OUT": "6.720",
+      "NOV": "7.680",
+      "DEZ": "3.840",
+      "TOTAL": "48.000"
+    }
+  },
+  {
+    "Código": "AR199GF",
+    "Prod": 2400,
+    "Valor": 218,
+    "Pessoas": {
+      "degorgment": 6,
+      "rotulagem": 6
+    },
+    "DESC": "ARTE ESPUMANTE BRUT ROSE 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "5.400",
+      "FEV": "7.200",
+      "MAR": "5.400",
+      "ABR": "4.500",
+      "MAI": "6.300",
+      "JUN": "5.400",
+      "JUL": "5.400",
+      "AGO": "6.300",
+      "SET": "9.900",
+      "OUT": "12.600",
+      "NOV": "14.400",
+      "DEZ": "7.200",
+      "TOTAL": "90.000"
+    }
+  },
+  {
+    "Código": "AR202GF",
+    "Prod": 2600,
+    "Valor": 288,
+    "Pessoas": {
+      "rotulagem": 8
+    },
+    "DESC": "ARTE ESPUMANTE BRUT 375ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,375",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "720",
+      "FEV": "960",
+      "MAR": "720",
+      "ABR": "600",
+      "MAI": "840",
+      "JUN": "720",
+      "JUL": "720",
+      "AGO": "840",
+      "SET": "1.320",
+      "OUT": "1.680",
+      "NOV": "1.920",
+      "DEZ": "960",
+      "TOTAL": "12.000"
+    }
+  },
+  {
+    "Código": "AR209GF",
+    "Prod": 2400,
+    "Valor": 218,
+    "Pessoas": {
+      "degorgment": 6,
+      "rotulagem": 6
+    },
+    "DESC": "ESPUMANTE COCO BAMBU BRUT 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "900",
+      "FEV": "1.200",
+      "MAR": "900",
+      "ABR": "750",
+      "MAI": "1.050",
+      "JUN": "900",
+      "JUL": "900",
+      "AGO": "1.050",
+      "SET": "1.650",
+      "OUT": "2.100",
+      "NOV": "2.400",
+      "DEZ": "1.200",
+      "TOTAL": "15.000"
+    }
+  },
+  {
+    "Código": "AR210GF",
+    "Prod": 2400,
+    "Valor": 218,
+    "Pessoas": {
+      "degorgment": 6,
+      "rotulagem": 6
+    },
+    "DESC": "ESPUMANTE COCO BAMBU BRUT ROSE 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "900",
+      "FEV": "1.200",
+      "MAR": "900",
+      "ABR": "750",
+      "MAI": "1.050",
+      "JUN": "900",
+      "JUL": "900",
+      "AGO": "1.050",
+      "SET": "1.650",
+      "OUT": "2.100",
+      "NOV": "2.400",
+      "DEZ": "1.200",
+      "TOTAL": "15.000"
+    }
+  },
+  {
+    "Código": "AR211GF",
+    "Prod": 2400,
+    "Valor": 218,
+    "Pessoas": {
+      "degorgment": 6,
+      "rotulagem": 6
+    },
+    "DESC": "ESPUMANTE BELMOND BRUT 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "144",
+      "FEV": "192",
+      "MAR": "144",
+      "ABR": "120",
+      "MAI": "168",
+      "JUN": "144",
+      "JUL": "144",
+      "AGO": "168",
+      "SET": "264",
+      "OUT": "336",
+      "NOV": "384",
+      "DEZ": "192",
+      "TOTAL": "2.400"
+    }
+  },
+  {
+    "Código": "AR212GF",
+    "Prod": 2400,
+    "Valor": 218,
+    "Pessoas": {
+      "degorgment": 6,
+      "rotulagem": 6
+    },
+    "DESC": "ESPUMANTE BELMOND BRUT ROSE 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "72",
+      "FEV": "96",
+      "MAR": "72",
+      "ABR": "60",
+      "MAI": "84",
+      "JUN": "72",
+      "JUL": "72",
+      "AGO": "84",
+      "SET": "132",
+      "OUT": "168",
+      "NOV": "192",
+      "DEZ": "96",
+      "TOTAL": "1.200"
+    }
+  },
+  {
+    "Código": "AR213GF",
+    "Prod": 2400,
+    "Valor": 218,
+    "Pessoas": {
+      "degorgment": 6,
+      "rotulagem": 6
+    },
+    "DESC": "ESPUMANTE MIMA BRUT ROSE 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "108",
+      "FEV": "144",
+      "MAR": "108",
+      "ABR": "90",
+      "MAI": "126",
+      "JUN": "108",
+      "JUL": "108",
+      "AGO": "126",
+      "SET": "198",
+      "OUT": "252",
+      "NOV": "288",
+      "DEZ": "144",
+      "TOTAL": "1.800"
+    }
+  },
+  {
+    "Código": "ARE187",
+    "Prod": 2400,
+    "Valor": 300,
+    "Pessoas": {
+      "degorgment": 8
+    }
+  },
+  {
+    "Código": "ARE188",
+    "Prod": 2400,
+    "Valor": 300,
+    "Pessoas": {
+      "degorgment": 8
+    }
+  },
+  {
+    "Código": "ARE199",
+    "Prod": 2400,
+    "Valor": 300,
+    "Pessoas": {
+      "degorgment": 8
+    }
+  },
+  {
+    "Código": "ARS001",
+    "Prod": 3200,
+    "Valor": 355,
+    "Pessoas": {
+      "envase": 8
+    }
+  },
+  {
+    "Código": "ARS002",
+    "Prod": 3200,
+    "Valor": 355,
+    "Pessoas": {
+      "envase": 8
+    }
+  },
+  {
+    "Código": "ARS003",
+    "Prod": 3200,
+    "Valor": 355,
+    "Pessoas": {
+      "envase": 8
+    }
+  },
+  {
+    "Código": "CH210GF",
+    "Prod": 2000,
+    "Valor": 128,
+    "Pessoas": {
+      "degorgment": 6,
+      "rotulagem": 9
+    },
+    "DESC": "130 - ESPUMANTE BRUT 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "5.400",
+      "FEV": "7.200",
+      "MAR": "5.400",
+      "ABR": "4.500",
+      "MAI": "6.300",
+      "JUN": "5.400",
+      "JUL": "5.400",
+      "AGO": "6.300",
+      "SET": "9.900",
+      "OUT": "12.600",
+      "NOV": "14.400",
+      "DEZ": "7.200",
+      "TOTAL": "90.000"
+    }
+  },
+  {
+    "Código": "CH211GF",
+    "Prod": 260,
+    "Valor": 23,
+    "Pessoas": {
+      "degorgment": 11
+    },
+    "DESC": "ESPUMANTE BRUT 130 MAGNUM 1,5L",
+    "TIPO": "ESPUMANTE",
+    "VOL": "1,5",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "18",
+      "FEV": "24",
+      "MAR": "18",
+      "ABR": "15",
+      "MAI": "21",
+      "JUN": "18",
+      "JUL": "18",
+      "AGO": "21",
+      "SET": "33",
+      "OUT": "42",
+      "NOV": "48",
+      "DEZ": "24",
+      "TOTAL": "300"
+    }
+  },
+  {
+    "Código": "CH218GF",
+    "Prod": 2000,
+    "Valor": 200,
+    "Pessoas": {
+      "degorgment": 6,
+      "rotulagem": 5
+    },
+    "DESC": "ESPUMANTE 130 ANOS BRUT BLANC DE BLANC 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "2.880",
+      "FEV": "3.840",
+      "MAR": "2.880",
+      "ABR": "2.400",
+      "MAI": "3.360",
+      "JUN": "2.880",
+      "JUL": "2.880",
+      "AGO": "3.360",
+      "SET": "5.280",
+      "OUT": "6.720",
+      "NOV": "7.680",
+      "DEZ": "3.840",
+      "TOTAL": "48.000"
+    }
+  },
+  {
+    "Código": "CH219GF",
+    "Prod": 2000,
+    "Valor": 200,
+    "Pessoas": {
+      "degorgment": 6,
+      "rotulagem": 5
+    },
+    "DESC": "ESPUMANTE 130 ANOS BRUT BLANC DE NOIR 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "1.080",
+      "FEV": "1.440",
+      "MAR": "1.080",
+      "ABR": "900",
+      "MAI": "1.260",
+      "JUN": "1.080",
+      "JUL": "1.080",
+      "AGO": "1.260",
+      "SET": "1.980",
+      "OUT": "2.520",
+      "NOV": "2.880",
+      "DEZ": "1.440",
+      "TOTAL": "18.000"
+    }
+  },
+  {
+    "Código": "CH224GF",
+    "Prod": 2000,
+    "Valor": 128,
+    "Pessoas": {
+      "degorgment": 6,
+      "rotulagem": 9
+    },
+    "DESC": "130 - ESPUMANTE BRUT ROSE 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "720",
+      "FEV": "960",
+      "MAR": "720",
+      "ABR": "600",
+      "MAI": "840",
+      "JUN": "720",
+      "JUL": "720",
+      "AGO": "840",
+      "SET": "1.320",
+      "OUT": "1.680",
+      "NOV": "1.920",
+      "DEZ": "960",
+      "TOTAL": "12.000"
+    }
+  },
+  {
+    "Código": "CHE210",
+    "Prod": 2400,
+    "Valor": 300,
+    "Pessoas": {
+      "degorgment": 8
+    }
+  },
+  {
+    "Código": "CHE211",
+    "Prod": 160,
+    "Valor": 23,
+    "Pessoas": {
+      "degorgment": 9
+    }
+  },
+  {
+    "Código": "CHE212",
+    "Prod": 1500,
+    "Valor": 250,
+    "Pessoas": {
+      "rotulagem": 5,
+      "degorgment": 6
+    }
+  },
+  {
+    "Código": "CHE218",
+    "Prod": 2000,
+    "Valor": 200,
+    "Pessoas": {
+      "rotulagem": 5,
+      "degorgment": 6
+    }
+  },
+  {
+    "Código": "CHE219",
+    "Prod": 2000,
+    "Valor": 200,
+    "Pessoas": {
+      "rotulagem": 5,
+      "degorgment": 6
+    }
+  },
+  {
+    "Código": "CHE224",
+    "Prod": 2400,
+    "Valor": 300,
+    "Pessoas": {
+      "degorgment": 8
+    }
+  },
+  {
+    "Código": "CHE226",
+    "Prod": 1500,
+    "Valor": 250,
+    "Pessoas": {
+      "rotulagem": 5,
+      "degorgment": 6
+    }
+  },
+  {
+    "Código": "CHS001",
+    "Prod": 3200,
+    "Valor": 500,
+    "Pessoas": {
+      "envase": 8
+    }
+  },
+  {
+    "Código": "CHS002",
+    "Prod": 750,
+    "Valor": 125,
+    "Pessoas": {
+      "envase": 6
+    }
+  },
+  {
+    "Código": "CHS003",
+    "Prod": 3200,
+    "Valor": 500,
+    "Pessoas": {
+      "envase": 8
+    }
+  },
+  {
+    "Código": "CHS004",
+    "Prod": 3200,
+    "Valor": 500,
+    "Pessoas": {
+      "envase": 8
+    }
+  },
+  {
+    "Código": "CHS005",
+    "Prod": 3200,
+    "Valor": 500,
+    "Pessoas": {
+      "envase": 8
+    }
+  },
+  {
+    "Código": "CS101GF",
+    "Prod": 3200,
+    "Valor": 290,
+    "Pessoas": {
+      "rotulagem": 7,
+      "envase": 3
+    },
+    "DESC": "CACAU SHOW CABERNET SAUVIGNON TINTO SECO 375ML",
+    "TIPO": "VINHO",
+    "VOL": "0,375",
+    "SAZONALIDADE": "CS",
+    "PREV24": {
+      "JAN": "12.000",
+      "FEV": "20.000",
+      "MAR": "18.000",
+      "ABR": "12.000",
+      "MAI": "20.000",
+      "JUN": "16.000",
+      "JUL": "14.000",
+      "AGO": "12.000",
+      "SET": "16.000",
+      "OUT": "18.000",
+      "NOV": "28.000",
+      "DEZ": "14.000",
+      "TOTAL": "200.000"
+    }
+  },
+  {
+    "Código": "CS102GF",
+    "Prod": 2600,
+    "Valor": 288,
+    "Pessoas": {
+      "rotulagem": 8
+    },
+    "DESC": "CACAU SHOW ESPUMANTE MOSCATEL 375ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,375",
+    "SAZONALIDADE": "CS",
+    "PREV24": {
+      "JAN": "12.000",
+      "FEV": "20.000",
+      "MAR": "18.000",
+      "ABR": "12.000",
+      "MAI": "20.000",
+      "JUN": "16.000",
+      "JUL": "14.000",
+      "AGO": "12.000",
+      "SET": "16.000",
+      "OUT": "18.000",
+      "NOV": "28.000",
+      "DEZ": "14.000",
+      "TOTAL": "200.000"
+    }
+  },
+  {
+    "Código": "CV110GF",
+    "Prod": 2400,
+    "Valor": 218,
+    "Pessoas": {
+      "rotulagem": 6,
+      "degorgment": 6
+    },
+    "DESC": "PREMIVM ESPUMANTE BRUT 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "3.600",
+      "FEV": "4.800",
+      "MAR": "3.600",
+      "ABR": "3.000",
+      "MAI": "4.200",
+      "JUN": "3.600",
+      "JUL": "3.600",
+      "AGO": "4.200",
+      "SET": "6.600",
+      "OUT": "8.400",
+      "NOV": "9.600",
+      "DEZ": "4.800",
+      "TOTAL": "60.000"
+    }
+  },
+  {
+    "Código": "CV111GF",
+    "Prod": 2400,
+    "Valor": 325,
+    "Pessoas": {
+      "rotulagem": 7
+    },
+    "DESC": "PREMIVM ESPUMANTE MOSCATEL 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "1.800",
+      "FEV": "2.400",
+      "MAR": "1.800",
+      "ABR": "1.500",
+      "MAI": "2.100",
+      "JUN": "1.800",
+      "JUL": "1.800",
+      "AGO": "2.100",
+      "SET": "3.300",
+      "OUT": "4.200",
+      "NOV": "4.800",
+      "DEZ": "2.400",
+      "TOTAL": "30.000"
+    }
+  },
+  {
+    "Código": "CV112GF",
+    "Prod": 2400,
+    "Valor": 218,
+    "Pessoas": {
+      "rotulagem": 6,
+      "degorgment": 6
+    },
+    "DESC": "PREMIVM ESPUMANTE BRUT ROSE 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "2.160",
+      "FEV": "2.880",
+      "MAR": "2.160",
+      "ABR": "1.800",
+      "MAI": "2.520",
+      "JUN": "2.160",
+      "JUL": "2.160",
+      "AGO": "2.520",
+      "SET": "3.960",
+      "OUT": "5.040",
+      "NOV": "5.760",
+      "DEZ": "2.880",
+      "TOTAL": "36.000"
+    }
+  },
+  {
+    "Código": "CV113GF",
+    "Prod": 2400,
+    "Valor": 218,
+    "Pessoas": {
+      "rotulagem": 6,
+      "degorgment": 6
+    },
+    "DESC": "PREMIVM ESPUMANTE DEMI SEC ROSE 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "720",
+      "FEV": "960",
+      "MAR": "720",
+      "ABR": "600",
+      "MAI": "840",
+      "JUN": "720",
+      "JUL": "720",
+      "AGO": "840",
+      "SET": "1.320",
+      "OUT": "1.680",
+      "NOV": "1.920",
+      "DEZ": "960",
+      "TOTAL": "12.000"
+    }
+  },
+  {
+    "Código": "CV114GF",
+    "Prod": 2400,
+    "Valor": 218,
+    "Pessoas": {
+      "rotulagem": 6,
+      "degorgment": 6
+    },
+    "DESC": "PREMIVM ESPUMANTE EXTRA BRUT 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "1.080",
+      "FEV": "1.440",
+      "MAR": "1.080",
+      "ABR": "900",
+      "MAI": "1.260",
+      "JUN": "1.080",
+      "JUL": "1.080",
+      "AGO": "1.260",
+      "SET": "1.980",
+      "OUT": "2.520",
+      "NOV": "2.880",
+      "DEZ": "1.440",
+      "TOTAL": "18.000"
+    }
+  },
+  {
+    "Código": "CV115GF",
+    "Prod": 2400,
+    "Valor": 218,
+    "Pessoas": {
+      "rotulagem": 6,
+      "degorgment": 6
+    },
+    "DESC": "PREMIVM ESPUMANTE NATURE 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "1.800",
+      "FEV": "2.400",
+      "MAR": "1.800",
+      "ABR": "1.500",
+      "MAI": "2.100",
+      "JUN": "1.800",
+      "JUL": "1.800",
+      "AGO": "2.100",
+      "SET": "3.300",
+      "OUT": "4.200",
+      "NOV": "4.800",
+      "DEZ": "2.400",
+      "TOTAL": "30.000"
+    }
+  },
+  {
+    "Código": "CVE110",
+    "Prod": 2400,
+    "Valor": 300,
+    "Pessoas": {
+      "degorgment": 8
+    }
+  },
+  {
+    "Código": "CVE112",
+    "Prod": 2400,
+    "Valor": 300,
+    "Pessoas": {
+      "degorgment": 8
+    }
+  },
+  {
+    "Código": "CVE113",
+    "Prod": 2400,
+    "Valor": 300,
+    "Pessoas": {
+      "degorgment": 8
+    }
+  },
+  {
+    "Código": "CVE114",
+    "Prod": 2400,
+    "Valor": 300,
+    "Pessoas": {
+      "degorgment": 8
+    }
+  },
+  {
+    "Código": "CVE115",
+    "Prod": 2400,
+    "Valor": 300,
+    "Pessoas": {
+      "degorgment": 8
+    }
+  },
+  {
+    "Código": "DE013GF",
+    "Prod": 1500,
+    "Valor": 200,
+    "Pessoas": {
+      "envase": 8
+    },
+    "DESC": "BRANDY 15 ANOS 700ML",
+    "TIPO": "DESTILADO",
+    "VOL": "0,7",
+    "SAZONALIDADE": "DES",
+    "PREV24": {
+      "JAN": "210",
+      "FEV": "240",
+      "MAR": "150",
+      "ABR": "180",
+      "MAI": "240",
+      "JUN": "270",
+      "JUL": "330",
+      "AGO": "240",
+      "SET": "240",
+      "OUT": "300",
+      "NOV": "420",
+      "DEZ": "180",
+      "TOTAL": "3.000"
+    }
+  },
+  {
+    "Código": "DEE013",
+    "Prod": 1500,
+    "Valor": 200,
+    "Pessoas": {
+      "envase": 8
+    },
+    "DESC": "BRANDY 15 ANOS 700ML",
+    "TIPO": "DESTILADO",
+    "VOL": "0,7",
+    "SAZONALIDADE": "DES"
+  },
+  {
+    "Código": "ER100GF",
+    "Prod": 2000,
+    "Valor": 200,
+    "Pessoas": {
+      "envase": 3,
+      "rotulagem": 5
+    },
+    "DESC": "ERA CHARDONNAY BRANCO SECO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "0",
+      "FEV": "0",
+      "MAR": "0",
+      "ABR": "0",
+      "MAI": "0",
+      "JUN": "0",
+      "JUL": "0",
+      "AGO": "0",
+      "SET": "0",
+      "OUT": "0",
+      "NOV": "0",
+      "DEZ": "0",
+      "TOTAL": "0"
+    }
+  },
+  {
+    "Código": "ERE100",
+    "Prod": 2000,
+    "Valor": 200,
+    "Pessoas": {
+      "envase": 3,
+      "rotulagem": 5
+    }
+  },
+  {
+    "Código": "GR264GF",
+    "Prod": 2000,
+    "Valor": 222,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 6
+    },
+    "DESC": "GRAN CHARDONNAY D.O. 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "420",
+      "FEV": "540",
+      "MAR": "420",
+      "ABR": "420",
+      "MAI": "420",
+      "JUN": "420",
+      "JUL": "480",
+      "AGO": "540",
+      "SET": "600",
+      "OUT": "660",
+      "NOV": "660",
+      "DEZ": "420",
+      "TOTAL": "6.000"
+    }
+  },
+  {
+    "Código": "GR266GF",
+    "Prod": 2000,
+    "Valor": 154,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 12
+    },
+    "DESC": "GRAN RESERVA - RAIZES  CORTE 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "600",
+      "FEV": "960",
+      "MAR": "600",
+      "ABR": "720",
+      "MAI": "1.200",
+      "JUN": "1.440",
+      "JUL": "1.440",
+      "AGO": "1.080",
+      "SET": "960",
+      "OUT": "1.080",
+      "NOV": "1.320",
+      "DEZ": "600",
+      "TOTAL": "12.000"
+    }
+  },
+  {
+    "Código": "GRS002",
+    "Prod": 2500,
+    "Valor": 357,
+    "Pessoas": {
+      "envase": 8
+    }
+  },
+  {
+    "Código": "GRS004",
+    "Prod": 3200,
+    "Valor": 500,
+    "Pessoas": {
+      "envase": 8
+    }
+  },
+  {
+    "Código": "ID002GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR EXCLUSIVO ARINARNOA TINTO SECO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "100",
+      "FEV": "160",
+      "MAR": "100",
+      "ABR": "120",
+      "MAI": "200",
+      "JUN": "240",
+      "JUL": "240",
+      "AGO": "180",
+      "SET": "160",
+      "OUT": "180",
+      "NOV": "220",
+      "DEZ": "100",
+      "TOTAL": "2.000"
+    }
+  },
+  {
+    "Código": "ID003GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR EXCLUSIVO MARSELAN TINTO SECO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "450",
+      "FEV": "720",
+      "MAR": "450",
+      "ABR": "540",
+      "MAI": "900",
+      "JUN": "1.080",
+      "JUL": "1.080",
+      "AGO": "810",
+      "SET": "720",
+      "OUT": "810",
+      "NOV": "990",
+      "DEZ": "450",
+      "TOTAL": "9.000"
+    }
+  },
+  {
+    "Código": "ID004GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR PINOT NOIR TINTO SECO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "600",
+      "FEV": "960",
+      "MAR": "600",
+      "ABR": "720",
+      "MAI": "1.200",
+      "JUN": "1.440",
+      "JUL": "1.440",
+      "AGO": "1.080",
+      "SET": "960",
+      "OUT": "1.080",
+      "NOV": "1.320",
+      "DEZ": "600",
+      "TOTAL": "12.000"
+    }
+  },
+  {
+    "Código": "ID005GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR EXCLUSIVO MALBEC 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "300",
+      "FEV": "480",
+      "MAR": "300",
+      "ABR": "360",
+      "MAI": "600",
+      "JUN": "720",
+      "JUL": "720",
+      "AGO": "540",
+      "SET": "480",
+      "OUT": "540",
+      "NOV": "660",
+      "DEZ": "300",
+      "TOTAL": "6.000"
+    }
+  },
+  {
+    "Código": "ID010GF",
+    "Prod": 2000,
+    "Valor": 366,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 12
+    },
+    "DESC": "IDENTIDADE GRAN RESERVA 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "600",
+      "FEV": "960",
+      "MAR": "600",
+      "ABR": "720",
+      "MAI": "1.200",
+      "JUN": "1.440",
+      "JUL": "1.440",
+      "AGO": "1.080",
+      "SET": "960",
+      "OUT": "1.080",
+      "NOV": "1.320",
+      "DEZ": "600",
+      "TOTAL": "12.000"
+    }
+  },
+  {
+    "Código": "IDE002",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "IDE003",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "IDE004",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "IDE005",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "IDS010",
+    "Prod": 2200,
+    "Valor": 366,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "NA200GF",
+    "Prod": 3200,
+    "Valor": 320,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 7
+    },
+    "DESC": "NATURELLE - BRANCO SUAVE 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "7.560",
+      "FEV": "9.720",
+      "MAR": "7.560",
+      "ABR": "7.560",
+      "MAI": "7.560",
+      "JUN": "7.560",
+      "JUL": "8.640",
+      "AGO": "9.720",
+      "SET": "10.800",
+      "OUT": "11.880",
+      "NOV": "11.880",
+      "DEZ": "7.560",
+      "TOTAL": "108.000"
+    }
+  },
+  {
+    "Código": "NA201GF",
+    "Prod": 3200,
+    "Valor": 320,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 7
+    },
+    "DESC": "NATURELLE - TINTO SUAVE 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "12.000",
+      "FEV": "19.200",
+      "MAR": "12.000",
+      "ABR": "14.400",
+      "MAI": "24.000",
+      "JUN": "28.800",
+      "JUL": "28.800",
+      "AGO": "21.600",
+      "SET": "19.200",
+      "OUT": "21.600",
+      "NOV": "26.400",
+      "DEZ": "12.000",
+      "TOTAL": "240.000"
+    }
+  },
+  {
+    "Código": "NA202GF",
+    "Prod": 3200,
+    "Valor": 320,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 7
+    },
+    "DESC": "NATURELLE - ROSE SUAVE 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "9.240",
+      "FEV": "11.880",
+      "MAR": "9.240",
+      "ABR": "9.240",
+      "MAI": "9.240",
+      "JUN": "9.240",
+      "JUL": "10.560",
+      "AGO": "11.880",
+      "SET": "13.200",
+      "OUT": "14.520",
+      "NOV": "14.520",
+      "DEZ": "9.240",
+      "TOTAL": "132.000"
+    }
+  },
+  {
+    "Código": "NA204GF",
+    "Prod": 2400,
+    "Valor": 288,
+    "Pessoas": {
+      "rotulagem": 7
+    },
+    "DESC": "NATURELLE - ESPUMANTE MOSCATEL 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "3.600",
+      "FEV": "4.800",
+      "MAR": "3.600",
+      "ABR": "3.000",
+      "MAI": "4.200",
+      "JUN": "3.600",
+      "JUL": "3.600",
+      "AGO": "4.200",
+      "SET": "6.600",
+      "OUT": "8.400",
+      "NOV": "9.600",
+      "DEZ": "4.800",
+      "TOTAL": "60.000"
+    }
+  },
+  {
+    "Código": "NA206GF",
+    "Prod": 2600,
+    "Valor": 288,
+    "Pessoas": {
+      "rotulagem": 8
+    },
+    "DESC": "NATURELLE - ESPUMANTE MOSCATEL 375ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,375",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "720",
+      "FEV": "960",
+      "MAR": "720",
+      "ABR": "600",
+      "MAI": "840",
+      "JUN": "720",
+      "JUL": "720",
+      "AGO": "840",
+      "SET": "1.320",
+      "OUT": "1.680",
+      "NOV": "1.920",
+      "DEZ": "960",
+      "TOTAL": "12.000"
+    }
+  },
+  {
+    "Código": "NA207GF",
+    "Prod": 2400,
+    "Valor": 325,
+    "Pessoas": {
+      "rotulagem": 7
+    },
+    "DESC": "NATURELLE - ESPUMANTE MOSCATEL ROSE 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "2.520",
+      "FEV": "3.360",
+      "MAR": "2.520",
+      "ABR": "2.100",
+      "MAI": "2.940",
+      "JUN": "2.520",
+      "JUL": "2.520",
+      "AGO": "2.940",
+      "SET": "4.620",
+      "OUT": "5.880",
+      "NOV": "6.720",
+      "DEZ": "3.360",
+      "TOTAL": "42.000"
+    }
+  },
+  {
+    "Código": "NA208GF",
+    "Prod": 3200,
+    "Valor": 400,
+    "Pessoas": {
+      "rotulagem": 9
+    },
+    "DESC": "NATURELLE - BRANCO SUAVE FRISANTE 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "2.100",
+      "FEV": "2.700",
+      "MAR": "2.100",
+      "ABR": "2.100",
+      "MAI": "2.100",
+      "JUN": "2.100",
+      "JUL": "2.400",
+      "AGO": "2.700",
+      "SET": "3.000",
+      "OUT": "3.300",
+      "NOV": "3.300",
+      "DEZ": "2.100",
+      "TOTAL": "30.000"
+    }
+  },
+  {
+    "Código": "NA209GF",
+    "Prod": 3200,
+    "Valor": 400,
+    "Pessoas": {
+      "rotulagem": 9
+    },
+    "DESC": "NATURELLE - ROSE SUAVE FRISANTE 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "2.940",
+      "FEV": "3.780",
+      "MAR": "2.940",
+      "ABR": "2.940",
+      "MAI": "2.940",
+      "JUN": "2.940",
+      "JUL": "3.360",
+      "AGO": "3.780",
+      "SET": "4.200",
+      "OUT": "4.620",
+      "NOV": "4.620",
+      "DEZ": "2.940",
+      "TOTAL": "42.000"
+    }
+  },
+  {
+    "Código": "NA210GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "NATURELLE TINTO RESERVA 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "1.800",
+      "FEV": "2.880",
+      "MAR": "1.800",
+      "ABR": "2.160",
+      "MAI": "3.600",
+      "JUN": "4.320",
+      "JUL": "4.320",
+      "AGO": "3.240",
+      "SET": "2.880",
+      "OUT": "3.240",
+      "NOV": "3.960",
+      "DEZ": "1.800",
+      "TOTAL": "36.000"
+    }
+  },
+  {
+    "Código": "NA211GF",
+    "Prod": 2400,
+    "Valor": 325,
+    "Pessoas": {
+      "rotulagem": 8
+    },
+    "DESC": "ESPUMANTE MIMA  MOSCATEL 750ML",
+    "TIPO": "ESPUMANTE",
+    "VOL": "0,75",
+    "SAZONALIDADE": "ESP",
+    "PREV24": {
+      "JAN": "144",
+      "FEV": "192",
+      "MAR": "144",
+      "ABR": "120",
+      "MAI": "168",
+      "JUN": "144",
+      "JUL": "144",
+      "AGO": "168",
+      "SET": "264",
+      "OUT": "336",
+      "NOV": "384",
+      "DEZ": "192",
+      "TOTAL": "2.400"
+    }
+  },
+  {
+    "Código": "NA212GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "NATURELLE BRANCO RESERVA 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "933",
+      "FEV": "1.200",
+      "MAR": "933",
+      "ABR": "933",
+      "MAI": "933",
+      "JUN": "933",
+      "JUL": "1.067",
+      "AGO": "1.200",
+      "SET": "1.333",
+      "OUT": "1.467",
+      "NOV": "1.467",
+      "DEZ": "933",
+      "TOTAL": "13.333"
+    }
+  },
+  {
+    "Código": "NAE200",
+    "Prod": 3200,
+    "Valor": 457,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "NAE201",
+    "Prod": 3200,
+    "Valor": 457,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "NAE202",
+    "Prod": 3200,
+    "Valor": 457,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "NAE210",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "NAE212",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "NAE214",
+    "Prod": 1500,
+    "Valor": 163,
+    "Pessoas": {
+      "envase": 10
+    }
+  },
+  {
+    "Código": "OR201GF",
+    "Prod": 3200,
+    "Valor": 320,
+    "Pessoas": {
+      "envase": 3,
+      "rotulagem": 7
+    },
+    "PREV24": {}
+  },
+  {
+    "Código": "ORE201",
+    "Prod": 3200,
+    "Valor": 457,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "PR130GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR CABERNET SAUVIGNON TINTO SECO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "2.400",
+      "FEV": "3.840",
+      "MAR": "2.400",
+      "ABR": "2.880",
+      "MAI": "4.800",
+      "JUN": "5.760",
+      "JUL": "5.760",
+      "AGO": "4.320",
+      "SET": "3.840",
+      "OUT": "4.320",
+      "NOV": "5.280",
+      "DEZ": "2.400",
+      "TOTAL": "48.000"
+    }
+  },
+  {
+    "Código": "PR131GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR CABERNET FRANC TINTO SECO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "900",
+      "FEV": "1.440",
+      "MAR": "900",
+      "ABR": "1.080",
+      "MAI": "1.800",
+      "JUN": "2.160",
+      "JUL": "2.160",
+      "AGO": "1.620",
+      "SET": "1.440",
+      "OUT": "1.620",
+      "NOV": "1.980",
+      "DEZ": "900",
+      "TOTAL": "18.000"
+    }
+  },
+  {
+    "Código": "PR132GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR MERLOT TINTO SECO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "2.100",
+      "FEV": "3.360",
+      "MAR": "2.100",
+      "ABR": "2.520",
+      "MAI": "4.200",
+      "JUN": "5.040",
+      "JUL": "5.040",
+      "AGO": "3.780",
+      "SET": "3.360",
+      "OUT": "3.780",
+      "NOV": "4.620",
+      "DEZ": "2.100",
+      "TOTAL": "42.000"
+    }
+  },
+  {
+    "Código": "PR133GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR CHARDONNAY BRANCO SECO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "2.100",
+      "FEV": "2.700",
+      "MAR": "2.100",
+      "ABR": "2.100",
+      "MAI": "2.100",
+      "JUN": "2.100",
+      "JUL": "2.400",
+      "AGO": "2.700",
+      "SET": "3.000",
+      "OUT": "3.300",
+      "NOV": "3.300",
+      "DEZ": "2.100",
+      "TOTAL": "30.000"
+    }
+  },
+  {
+    "Código": "PR134GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR EXCLUSIVO GEWURZTRAMINER 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "840",
+      "FEV": "1.080",
+      "MAR": "840",
+      "ABR": "840",
+      "MAI": "840",
+      "JUN": "840",
+      "JUL": "960",
+      "AGO": "1.080",
+      "SET": "1.200",
+      "OUT": "1.320",
+      "NOV": "1.320",
+      "DEZ": "840",
+      "TOTAL": "12.000"
+    }
+  },
+  {
+    "Código": "PR142GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR SAUVIGNON BLANC BRANCO SECO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "1.050",
+      "FEV": "1.350",
+      "MAR": "1.050",
+      "ABR": "1.050",
+      "MAI": "1.050",
+      "JUN": "1.050",
+      "JUL": "1.200",
+      "AGO": "1.350",
+      "SET": "1.500",
+      "OUT": "1.650",
+      "NOV": "1.650",
+      "DEZ": "1.050",
+      "TOTAL": "15.000"
+    }
+  },
+  {
+    "Código": "PR143GF",
+    "Prod": 2200,
+    "Valor": 169,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR CABERNET SAUVIGNON TINTO SECO 375ML",
+    "TIPO": "VINHO",
+    "VOL": "0,375",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "600",
+      "FEV": "960",
+      "MAR": "600",
+      "ABR": "720",
+      "MAI": "1.200",
+      "JUN": "1.440",
+      "JUL": "1.440",
+      "AGO": "1.080",
+      "SET": "960",
+      "OUT": "1.080",
+      "NOV": "1.320",
+      "DEZ": "600",
+      "TOTAL": "12.000"
+    }
+  },
+  {
+    "Código": "PR144GF",
+    "Prod": 2200,
+    "Valor": 169,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR CHARDONNAY BRANCO SECO 375ML",
+    "TIPO": "VINHO",
+    "VOL": "0,375",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "630",
+      "FEV": "810",
+      "MAR": "630",
+      "ABR": "630",
+      "MAI": "630",
+      "JUN": "630",
+      "JUL": "720",
+      "AGO": "810",
+      "SET": "900",
+      "OUT": "990",
+      "NOV": "990",
+      "DEZ": "630",
+      "TOTAL": "9.000"
+    }
+  },
+  {
+    "Código": "PR157GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR EXCLUSIVO TANNAT 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "300",
+      "FEV": "480",
+      "MAR": "300",
+      "ABR": "360",
+      "MAI": "600",
+      "JUN": "720",
+      "JUL": "720",
+      "AGO": "540",
+      "SET": "480",
+      "OUT": "540",
+      "NOV": "660",
+      "DEZ": "300",
+      "TOTAL": "6.000"
+    }
+  },
+  {
+    "Código": "PRE130",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "PRE131",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "PRE132",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "PRE133",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "PRE134",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "PRE142",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "PRE146",
+    "Prod": 3200,
+    "Valor": 400,
+    "Pessoas": {
+      "envase": 6
+    }
+  },
+  {
+    "Código": "PRE157",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "PRS010",
+    "Prod": 3200,
+    "Valor": 355,
+    "Pessoas": {
+      "envase": 8
+    }
+  },
+  {
+    "Código": "SR500GF",
+    "Prod": 2000,
+    "Valor": 222,
+    "Pessoas": {
+      "rotulagem": 9
+    },
+    "DESC": "STORIA MERLOT TINTO SECO 750ML CX 6",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "0",
+      "FEV": "0",
+      "MAR": "0",
+      "ABR": "0",
+      "MAI": "0",
+      "JUN": "400",
+      "JUL": "600",
+      "AGO": "600",
+      "SET": "600",
+      "OUT": "600",
+      "NOV": "600",
+      "DEZ": "600",
+      "TOTAL": "4.000"
+    }
+  },
+  {
+    "Código": "SR600GF",
+    "Prod": 2000,
+    "Valor": 222,
+    "Pessoas": {
+      "rotulagem": 9
+    },
+    "DESC": "SR601GF-VINHO LUIZ VALDUGA 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "0",
+      "FEV": "0",
+      "MAR": "0",
+      "ABR": "0",
+      "MAI": "0",
+      "JUN": "0",
+      "JUL": "0",
+      "AGO": "1.000",
+      "SET": "500",
+      "OUT": "500",
+      "NOV": "500",
+      "DEZ": "500",
+      "TOTAL": "3.000"
+    }
+  },
+  {
+    "Código": "SRE600",
+    "Prod": 2000,
+    "Valor": 222,
+    "Pessoas": {
+      "rotulagem": 7
+    }
+  },
+  {
+    "Código": "SRE500",
+    "Prod": 2200,
+    "Valor": 222,
+    "Pessoas": {
+      "rotulagem": 7
+    }
+  },
+  {
+    "Código": "SRS500",
+    "Prod": 2600,
+    "Valor": 366,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "SRS600",
+    "Prod": 2200,
+    "Valor": 366,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "TR300GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR EXCLUSIVO VIOGNIER BRANCO SECO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "210",
+      "FEV": "270",
+      "MAR": "210",
+      "ABR": "210",
+      "MAI": "210",
+      "JUN": "210",
+      "JUL": "240",
+      "AGO": "270",
+      "SET": "300",
+      "OUT": "330",
+      "NOV": "330",
+      "DEZ": "210",
+      "TOTAL": "3.000"
+    }
+  },
+  {
+    "Código": "TR301GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR EXCLUSIVO SYRAH/VIOGNIER TINTO SECO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "120",
+      "FEV": "192",
+      "MAR": "120",
+      "ABR": "144",
+      "MAI": "240",
+      "JUN": "288",
+      "JUL": "288",
+      "AGO": "216",
+      "SET": "192",
+      "OUT": "216",
+      "NOV": "264",
+      "DEZ": "120",
+      "TOTAL": "2.400"
+    }
+  },
+  {
+    "Código": "TR304GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR EXCLUSIVO TOURIGA/GEWURTRAMINER TINTO SECO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "90",
+      "FEV": "144",
+      "MAR": "90",
+      "ABR": "108",
+      "MAI": "180",
+      "JUN": "216",
+      "JUL": "216",
+      "AGO": "162",
+      "SET": "144",
+      "OUT": "162",
+      "NOV": "198",
+      "DEZ": "90",
+      "TOTAL": "1.800"
+    }
+  },
+  {
+    "Código": "TR306GF",
+    "Prod": 2200,
+    "Valor": 183,
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 9
+    },
+    "DESC": "TERROIR EXCLUSIVO RIESLING RENANO 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "BCO",
+    "PREV24": {
+      "JAN": "255",
+      "FEV": "327",
+      "MAR": "255",
+      "ABR": "255",
+      "MAI": "255",
+      "JUN": "255",
+      "JUL": "291",
+      "AGO": "327",
+      "SET": "364",
+      "OUT": "400",
+      "NOV": "400",
+      "DEZ": "255",
+      "TOTAL": "3.638"
+    }
+  },
+  {
+    "Código": "TRE300",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "TRE301",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "TRE304",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "TRE306",
+    "Prod": 2600,
+    "Valor": 433,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "VL551GF",
+    "Prod": 2000,
+    "Valor": 222,
+    "Pessoas": {
+      "envase": 9
+    },
+    "DESC": "VILLA LOBOS - CABERNET SAUVIGNON 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "450",
+      "FEV": "720",
+      "MAR": "450",
+      "ABR": "540",
+      "MAI": "900",
+      "JUN": "1.080",
+      "JUL": "1.080",
+      "AGO": "810",
+      "SET": "720",
+      "OUT": "810",
+      "NOV": "990",
+      "DEZ": "450",
+      "TOTAL": "9.000"
+    }
+  },
+  {
+    "Código": "VLE550",
+    "Prod": 2000,
+    "Valor": 222,
+    "Pessoas": {
+      "envase": 9
+    }
+  },
+  {
+    "Código": "VLS550",
+    "Prod": 2600,
+    "Valor": 366,
+    "Pessoas": {
+      "envase": 7
+    }
+  },
+  {
+    "Código": "AR121GF",
+    "Prod": "3200",
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": "7"
+    },
+    "DESC": "ARTE TINTO MARSELAN & MALBEC 750ML",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "2.000",
+      "FEV": "3.200",
+      "MAR": "2.000",
+      "ABR": "2.400",
+      "MAI": "4.000",
+      "JUN": "4.800",
+      "JUL": "4.800",
+      "AGO": "3.600",
+      "SET": "3.200",
+      "OUT": "3.600",
+      "NOV": "4.400",
+      "DEZ": "2.000",
+      "TOTAL": "40.000"
+    }
+  },
+  {
+    "Código": "SR501GF",
+    "Prod": "2000",
+    "Pessoas": {
+      "rotulagem": "9"
+    },
+    "DESC": "STORIA MERLOT TINTO SECO 750ML COM EMBALAGEM",
+    "TIPO": "VINHO",
+    "VOL": "0,75",
+    "SAZONALIDADE": "TTO",
+    "PREV24": {
+      "JAN": "0",
+      "FEV": "0",
+      "MAR": "0",
+      "ABR": "0",
+      "MAI": "0",
+      "JUN": "200",
+      "JUL": "300",
+      "AGO": "300",
+      "SET": "300",
+      "OUT": "300",
+      "NOV": "300",
+      "DEZ": "300",
+      "TOTAL": "2.000"
+    }
+  },
+  {
+    "Código": "CH222GF",
+    "Prod": "2000",
+    "Pessoas": {
+      "envase": "4",
+      "rotulagem": "9"
+    },
+    "DESC": "ESPUMANTE SUR LIE BRUT 750ML"
+  },
+  {
+    "Código": "CH225GF",
+    "Prod": "2000",
+    "Pessoas": {
+      "envase": "4",
+      "rotulagem": "9"
+    },
+    "DESC": "ESPUMANTE SUR LIE BRUT ROSÉ 750ML"
+  },
+  {
+    "Código": "GRE264",
+    "Prod": "2000",
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": 6
+    },
+    "DESC": "GRAN CHARDONNAY D.O. 750ML "
+  },
+  {
+    "Código": "GRE266",
+    "Prod": "2000",
+    "Pessoas": {
+      "envase": 4,
+      "rotulagem": "12"
+    },
+    "DESC": "GRAN RESERVA - RAIZES CORTE 750ML"
+  }
+]

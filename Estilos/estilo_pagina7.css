@@ -1,0 +1,134 @@
+@charset "UTF-8";
+
+* {
+    font-family: "ubuntu", sans-serif;
+    color: white;
+}
+
+body {
+    background-image: linear-gradient(270deg, rgb(213, 213, 213), rgb(87, 87, 87));
+    width: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    width: 100%;
+    height: 98%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* -------- */
+
+input,
+select,
+button {
+    background-color: #222;
+    color: snow;
+    border: 1px;
+    padding: 8px;
+    margin: 5px;
+    cursor: pointer;
+    border: 1px solid white;
+}
+
+input,
+select {
+    width: 50%;
+}
+
+.bar-top {
+    background-color: #333;
+    width: 100%;
+    height: 20%;
+    box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.2);
+    text-align: center;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-image: radial-gradient(circle, #333, #111);
+    padding: 10px;
+}
+.imagemCanto {
+    background-image: url('../imagens/TituloDecForm2-removebg.png'); /* Substitua pelo caminho da sua imagem */
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 150px;
+    padding: 3px;
+}
+#span-item-parametros {
+    font-size: xx-small;
+    width: 70%;
+    float: right;
+}
+
+fieldset {
+    border: 2px ridge #ccc;
+    box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.2);
+    background-color: #333;
+    background-image: radial-gradient(circle, #333, #111);
+}
+
+fieldset input,select{
+    float: right;
+    margin-right: 20px;
+}
+
+legend {
+    text-align: center;
+}
+
+footer {
+    width: 100%;
+    height: 2%;
+    letter-spacing: 1px;
+    font-size: small;
+}
+
+#form2 {
+    display: none;
+    width: 100%;
+}
+.field2 button{
+    width: min-content;
+    background-color: #616161;
+    font-weight: bold;
+}
+#form1 {
+    width: 100%;
+}
+
+#ops {
+    width: 1.5em;
+}
+#btn-logim{
+    background-color: rgb(16, 135, 246);
+    font-weight: bold;
+}
+
+#form-login button{
+    background-color: rgb(16, 135, 246);
+    font-weight: bold;
+    width: min-content;
+}
+
+
+@media only screen and (max-width: 600px) {
+    * {
+        padding: 0;
+        margin: 0;
+    }
+
+    .main-section {
+        display: none;
+    }
+
+    #form2 {
+        display: none;
+    }
+
+}

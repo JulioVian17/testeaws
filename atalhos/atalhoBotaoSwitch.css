@@ -1,0 +1,60 @@
+/* Estilo geral do switch */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 25px;
+}
+
+/* Oculta o checkbox padrão */
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+/* Slider do switch */
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+    border-radius: 34px;
+    /* Torna o switch redondo */
+}
+
+/* Ponto redondo do slider */
+.slider::before {
+    position: absolute;
+    content: "";
+    height: 18px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%;
+    /* Torna o ponto redondo */
+}
+
+/* Cor quando o switch estiver ativo (checkbox marcado) */
+input:checked+.slider {
+    background-color: #2196F3;
+    /* Cor azul como exemplo */
+}
+
+/* Posição do ponto redondo quando o switch estiver ativo */
+input:checked+.slider::before {
+    transform: translateX(26px);
+}
+
+/*               Diário 
+                <label class="switch">
+                    <input type="checkbox" onclick="mensal()">
+                    <span class="slider round"></span>
+                </label>
+                Mensal*/

@@ -1,0 +1,393 @@
+    @charset "UTF-8";
+
+    * {
+        font-family: "ubuntu", sans-serif;
+    }
+
+    div {
+        justify-content: center;
+    }
+
+    button {
+        cursor: pointer;
+    }
+
+    .span_dataHora {
+        color: snow;
+        position: absolute;
+        top: 9%;
+        left: 60px;
+        margin: 5px;
+        cursor: pointer;
+        height: 1em;
+        font-size: medium;
+        border: 1px solid black;
+        background-color: rgba(117, 116, 116, 0.578);
+        border-radius: 10px 10% 10%;
+        text-decoration: none;
+        padding: 7px;
+    }
+
+    body,
+    html {
+        background-color: rgb(101, 101, 101);
+        color: snow;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
+        background-image: linear-gradient(180deg, rgb(101, 101, 101), #111);
+        /* background-image: linear-gradient(270deg, rgb(213, 213, 213), rgb(87, 87, 87));*/
+
+    }
+
+    section {
+        background-color: #333;
+        display: inline-flex;
+        width: 98%;
+        border-radius: 10px;
+    }
+
+    .grafico-container {
+        cursor: pointer;
+        width: 35%;
+        height: 35%;
+        padding: 10px;
+        text-align: center;
+        font-size: large;
+        margin-top: 20px;
+    }
+
+    .select-filtrar {
+        width: fit-content;
+        cursor: pointer;
+        color: snow;
+        border: 1px solid snow;
+        background-color: rgba(117, 116, 116, 0.578);
+        border-radius: 10px;
+    }
+
+
+    #reiniciarContagemBtn i {
+        color: #007BFF;
+    }
+
+    #reiniciarContagemBtn:hover,
+    #reiniciarContagemBtn:focus {
+        transform: scale(1.1);
+        border: 2px solid #007BFF;
+    }
+
+    #reiniciarContagemBtn:active,
+    #reiniciarContagemBtn:not(:hover) {
+        transform: scale(1);
+        border: none;
+    }
+
+    #btnApagarRapidos i {
+        color: red;
+    }
+
+    #btnApagarRapidos:hover,
+    #btnApagarRapidos:focus {
+        transform: scale(1.1);
+        border: 2px solid red;
+    }
+
+    #btnApagarRapidos:active,
+    #btnApagarRapidos:not(:hover) {
+        transform: scale(1);
+        border: none;
+    }
+
+    legend {
+        background-color: rgb(101, 101, 101);
+        padding: 5px;
+        border-radius: 10px;
+        border: 2px solid black;
+    }
+
+    .secao-logos {
+        margin-top: 10px;
+        max-height: 80px;
+    }
+
+    .div-geral {
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+
+    .div-graf {
+        height: 100%;
+        width: 70%;
+    }
+
+    .div-canto-esquerdo {
+        background-color: #333;
+        background-image: linear-gradient(180deg, #333, #111);
+        width: 30%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        word-wrap: break-word;
+        font-size: medium;
+        border-top-right-radius: 25px;
+        border-bottom-right-radius: 25px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        margin: auto;
+    }
+
+    .div-grafico-superior {
+        width: 100%;
+        height: 50%;
+        display: flex;
+    }
+
+    .div-grafico-inferior {
+        width: 100%;
+        height: 50%;
+        display: flex;
+    }
+
+    canvas {
+        cursor: pointer;
+    }
+
+    .canvas-class {
+        width: 50%;
+        height: 70%;
+    }
+
+    .canvas-diario-class {
+        width: 50%;
+        height: 75%;
+    }
+
+    .canvas-monit {
+        width: 100%;
+        height: 95%;
+    }
+
+    .risco {
+        position: absolute;
+        top: 50%;
+        left: 65%;
+        /* Adicionado para centralizar horizontalmente */
+        transform: translate(-50%, -50%);
+        /* Correção aqui */
+        width: 60%;
+    }
+
+    .risco-canto-esquerdo {
+        width: 80%;
+    }
+
+    /* btn monitoramento*/
+    .btn-canto-direito {
+        position: absolute;
+        top: 50%;
+        left: 98%;
+        /* Adicionado para centralizar horizontalmente */
+        transform: translate(-50%, -50%);
+        /* Correção aqui */
+        height: 20%;
+    }
+
+    .btn-canto-direito .material-symbols-outlined {
+        height: 100%;
+        background-color: #666;
+        border: 2px solid white;
+        color: white;
+        cursor: pointer;
+    }
+
+    /* btn voltar*/
+    .btn-div-monit {
+        display: flex;
+        align-items: center;
+        position: relative;
+
+    }
+
+    .btn-div-monit .material-symbols-outlined {
+        position: absolute;
+        top: 50%;
+        left: 10%;
+        transform: translate(-50%, -50%);
+        width: 10%;
+        height: auto;
+        background-color: #666;
+        border: 2px solid white;
+        color: white;
+        cursor: pointer;
+
+    }
+
+    .div-monit {
+        display: none;
+        height: 100%;
+        width: 70%;
+    }
+
+    #meta {
+        margin-left: 10px;
+    }
+
+    #meta2 {
+        margin-left: 10px;
+    }
+
+    .div-para-span-rapidos {
+        display: flex;
+        font-size: x-large;
+        margin: 1;
+    }
+
+    #span-itemcode {
+        margin-left: 10px;
+    }
+
+    #span-ordem {
+        margin-left: 10px;
+    }
+
+    #span-datahora {
+        margin-left: 10px;
+    }
+
+    .span-virar-tela {
+        display: none;
+
+    }
+
+    .tresD {
+        text-shadow: 1px 1px 1px #919191,
+            1px 2px 1px #919191,
+            1px 3px 1px #919191,
+            1px 4px 1px #919191,
+            1px 18px 6px rgba(16, 16, 16, 0.4),
+            1px 22px 10px rgba(16, 16, 16, 0.2),
+            1px 25px 35px rgba(16, 16, 16, 0.2),
+            1px 30px 60px rgba(16, 16, 16, 0.4);
+        /*background-image: url('../imagens/TituloDecForm2-removebg.png');  Substitua pelo caminho da sua imagem 
+            background-color: #00d0ff;
+            background-repeat: no-repeat;
+            background-position: bottom right;
+            background-size:100px 200px;*/
+        background: linear-gradient(to right, #00d0ff, #0086a4 80%, rgba(0, 0, 0, 0) 100%);
+        clip-path: polygon(0 0, 85% 0, 100% 100%, 0% 100%);
+    }
+
+    .tresD::after {
+        content: '';
+        display: inline-block;
+        background-image: url('../imagens/TituloDecForm2-removebg.png');
+        background-size: 100px 25px;
+        /* Ajusta o tamanho da imagem */
+        width: 100px;
+        /* Ajusta a largura do pseudo-elemento */
+        height: 25px;
+        background-repeat: no-repeat;
+            background-position: bottom right;
+        /* Ajusta a altura do pseudo-elemento */
+    }
+
+    .dadosEsp {
+        font-size: x-large;
+        font-weight: 900;
+    }
+
+    @media only screen and (max-width: 768px) {
+        /* Menu recolhido no topo */
+        .menu {
+            display: none; /* Ocultar menu no mobile ou usar um botão para expandir */
+            width: 100%;
+            background-color: #111;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+    
+        .menu.expanded {
+            display: block; /* Mostrar menu quando for clicado em mobile */
+        }
+    
+        /* Botão de menu mobile */
+        .menu-toggle {
+            display: block;
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            z-index: 100;
+            font-size: 30px;
+            cursor: pointer;
+        }
+    
+        .div-canto-esquerdo {
+            width: 100%;
+            padding: 10px;
+            order: 1; /* Div canto esquerdo aparece primeiro */
+        }
+    
+        .div-graf {
+            width: 100%;
+            padding: 10px;
+            order: 2; /* Div gráfica aparece em segundo */
+        }
+    
+        /* Empilhar gráficos no mobile */
+        .div-grafico-superior, .div-grafico-inferior {
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    
+        .canvas-class, .canvas-diario-class {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+    
+        /* Ajuste o botão do canto direito no gráfico */
+        .btn-canto-direito {
+            display: none; /* Pode ser ajustado para outros comportamentos */
+        }
+    
+        .risco, .risco-canto-esquerdo {
+            width: 100%;
+        }
+    
+        /* Estilos para garantir responsividade */
+        h1, h2 {
+            font-size: 1.5rem;
+        }
+    
+        p, label {
+            font-size: 1rem;
+        }
+    
+        button {
+            font-size: 1rem;
+            padding: 10px;
+        }
+    
+        select {
+            font-size: 1rem;
+        }
+    }
+
+    @media only screen and (max-width: 500px) {
+        .span-virar-tela {
+            display: block;
+            color: yellow;
+        }
+
+        .btn-canto-direito {
+            display: none;
+
+        }
+    }

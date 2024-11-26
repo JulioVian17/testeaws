@@ -1,0 +1,65 @@
+[
+  {
+    "Ano": 2024,
+    "Jan.": {
+      "Planejado": 134526,
+      "Realizado": 89240,
+      "Meta": -5
+    },
+    "Fev.": {
+      "Planejado": 130106,
+      "Realizado": 83893,
+      "Meta": -5
+    },
+    "Mar.": {
+      "Planejado": 174106,
+      "Realizado": 105103,
+      "Meta": -5
+    },
+    "Abr.": {
+      "Planejado": 276916,
+      "Realizado": 84100,
+      "Meta": -5
+    },
+    "Mai.": {
+      "Planejado": 266064,
+      "Realizado": 60112,
+      "Meta": -5
+    },
+    "Jun.": {
+      "Planejado": 304056,
+      "Realizado": 58919,
+      "Meta": -5
+    },
+    "Jul.": {
+      "Planejado": 74330,
+      "Realizado": 136303,
+      "Meta": -5
+    },
+    "Ago.": {
+      "Planejado": 71955,
+      "Realizado": 66991,
+      "Meta": -5
+    },
+    "Set.": {
+      "Planejado": 73168,
+      "Realizado": 94134,
+      "Meta": -5
+    },
+    "Out.": {
+      "Planejado": 89650,
+      "Realizado": 0,
+      "Meta": -5
+    },
+    "Nov.": {
+      "Planejado": 76589,
+      "Realizado": 0,
+      "Meta": -5
+    },
+    "Dez.": {
+      "Planejado": 79626,
+      "Realizado": 0,
+      "Meta": -5
+    }
+  }
+]

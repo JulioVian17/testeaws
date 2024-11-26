@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" type="image/x-icon" href="imagens/logo-2.ico">
+    <link rel="stylesheet" type="text/css" href="Estilos/estilo_pagina6.css">
+    <link rel="stylesheet" type="text/css" href="Estilos/estilo_menu1.css">
+    <meta name="description" content="Gráfico indicadores de produção">
+    <meta name="keywords" content="controle de produção, Gráficos">
+    <meta name="author" content="Julio Vian">
+    <meta http-equiv="Content-Language" content="pt-BR">
+    <!-- Jquerry JS -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="https://kit.fontawesome.com/429ff8aa4a.js" crossorigin="anonymous"></script>
+
+    <title>Consultas</title>
+
+    <!-- Chart JS -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.2.0/chartjs-plugin-datalabels.min.js"
+        integrity="sha512-JPcRR8yFa8mmCsfrw4TNte1ZvF1e3+1SdGMslZvmrzDYxS69J7J49vkFL8u6u8PlPJK+H3voElBtUCzaXj+6ig=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+
+</head>
+
+<script src="JS/js_pagina6.js" defer></script>
+
+<body>
+    <div class="menu"><!---Menu-->
+        <ul class="list">
+            <img style="width: 200px;" src="imagens/TituloDecForm2-removebg.png" alt="logo2">
+            <li><a href="/home"><i class="material-icons">home</i> Home</a></li>
+            <li><a href="/"><i class="material-icons">edit_note</i> Controle de Produção</a></li>
+            <li><a href="/dashboard"><i class="material-icons">dashboard</i> Dashboard</a></li>
+            <li><a href="/analise"><i class="material-icons">equalizer</i> Análise</a></li>
+            <li><a href="/quebras"><i class="material-icons">delete</i> Controle de Quebras</a></li>
+            <li><a href="/paradas"><i class="material-icons">schedule</i> Controle de Paradas</a></li>
+            <div style="display:flex; align-items: center;justify-content: space-between;">
+                <li style="padding: 10px; margin: 0px 0px 0px 10px;">
+                    <a href="/consultas"><i class=" material-icons">search</i> Consultas</a>
+                </li>
+
+                <li style=" padding: 10px; margin: 0px 10px 0px 0px;">
+                    <a href="/ordens"><i class=" material-icons">receipt_long</i> Ordens</a>
+                </li>
+
+            </div>
+            <li><a href="/qualidade"><i class="material-symbols-outlined">edit</i> Controle de Qualidade</a></li>
+            <li><a href="/indicadores-qualidade"><i class="material-symbols-outlined">frame_inspect</i> Indicadores
+                    Qualidade</a></li>
+        </ul>
+    </div>
+
+    <!-- BUSCAR -->
+    <div id="div-fixo">
+        <h2 class="tresD">
+            Consultar Parâmetros
+        </h2>
+        <div id="div-buscar">
+            <input onkeyup="toUpperCase(this)" id="buscar" type="text" placeholder="Buscar Item..." />
+            <button onclick="buscar()"><i class="fa-solid fa-magnifying-glass"></i></button>
+            <button onclick="mostrar()" id="btnEdit">Editar</button>
+            <button id="btnSalvar" onclick="editarProdutividade()">Salvar</button>
+        </div>
+        <!--Instruções-->
+        <p style="margin-top: 0;" id="p1">" Para consultar pesquise alguma referência ou em branco "</p>
+        <p style="margin-top: 0;" id="p2">" Para editar insira o novo valor e selecione o checkbox! "</p>
+    </div>
+
+    <!-- OL -->
+    <div id="div-ol" style="justify-content: center; margin-top: 120px;">
+
+        <div class="div-ol-result" style="margin-left:1%;position: relative;">
+            <button id="btnAdd" style="position:absolute;right: 2%; cursor: pointer;" onclick="mostrarAdd()">Adicionar</button>
+
+            <div>
+                <ol id="ol-res-pess">
+
+                </ol>
+            </div>
+
+
+        </div>
+
+        <!--Adicionar-->
+        <div id="add-div">
+            <span class="close" onclick="sairAdd()">&times;</span>
+
+            <form id="frmAdd">
+                <ol>
+                    <li>
+                        <legend>Adicionar Parâmetros</legend>
+                    </li>
+                    <li>
+                        <label for="item_add">Código:</label>
+                        <input onkeyup="toUpperCase(this)" id="item_add" name="item_add" required>
+                        <label for="desc_add">Descrição:</label>
+                        <input onkeyup="toUpperCase(this); autoResize(this);" style="width: 150px;" id="desc_add"
+                            name="desc_add" required>
+                        <label for="velo_add">Velocidade:</label>
+                        <input type="number" id="velo_add" name="velo_add" required>
+                    </li>
+                    <li>
+                        <legend>Nº Pessoas Padrão</legend>
+                    </li>
+                    <li>
+                        <label for="pessEnvase_add">Envase:</label>
+                        <input type="number" id="pessEnvase_add" name="pessEnvase_add">
+                    </li>
+                    <li>
+                        <label for="pessDegorg_add">Degorgment:</label>
+                        <input type="number" id="pessDegorg_add" name="pessDegorg_add">
+                    </li>
+                    <li>
+                        <label for="pessRot_add">Rotulagem:</label>
+                        <input type="number" id="pessRot_add" name="pessRot_add">
+                    </li>
+                    <li>
+                        <button onclick="enviarAdd()" type="submit">Enviar</button>
+                    </li>
+                </ol>
+
+            </form>
+
+        </div>
+    </div>
+
+    <span id="span"></span>
+    <div style="margin-top: 120px;" id="divConfirm"></div>
+
+</body>
+
+</html>
