@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="shortcut icon" type="image/x-icon" href="imagens/logo-2.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="imagens/DataDecanterIcone3.ico">
   <link rel="stylesheet" type="text/css" href="Estilos/estilo_pagina7.css">
   <link rel="stylesheet" type="text/css" href="Estilos/estilo_menu1.css">
   <meta name="description" content="Gráfico indicadores de produção">
@@ -63,12 +63,16 @@
   <main>
     <div class="bar-top">
       <div class="imagemCanto">
-          <h2> <!-- Titulo -->
-        Controle de Qualidade
-      </h2>
-      <span id="span-item-parametros"></span>
+        <h2> <!-- Titulo -->
+          Controle de Qualidade
+        </h2>
+        <div id="span-item-parametros">
+          <p id="linhaAmos"></p>
+          <p id="linhaResumo"></p>
+          <p id="linhaLote"></p>
+        </div>
       </div>
-    
+
     </div>
 
     <form id="form1"> <!--Dados iniciais-->
@@ -122,10 +126,14 @@
 
           <label><!-- lote -->
             <label for="idLote">* Nº do Lote:</label>
-            <input class="input-field1" type="number" id="idLote" placeholder="Lote" required>
+            <input class="input-field1" type="text" id="idLote" placeholder="Lote" required>
           </label>
 
-
+          <label>
+            <label for="qtde_op">* Quantidade OP:</label>
+            <input maxlength="6" minlength="1" class="input-field1" type="text" id="qtde_op"
+              onkeyup="somenteNumeros(this)" placeholder="Quantidade" required>
+          </label>
         </div>
       </fieldset>
       <button type="submit" onclick="armazenarDados()">Avançar</button>
@@ -169,12 +177,14 @@
                   <option value="cax-código">Código</option>
                   <option value="cax-variedade">Variedade</option>
                   <option value="cax-safra">Safra</option>
+                  <option value="cax-falha impressão">Falha Imp.</option>
                 </optgroup>
 
                 <optgroup label="Divisória">
                   <option value="div-amassada">Amassada</option>
                   <option value="div-apertada">Apertada</option>
                   <option value="div-folgada">Folgada</option>
+                  <option value="div-descentralizada">Descentralizada</option>
                 </optgroup>
 
                 <optgroup label="Rótulo">
@@ -202,7 +212,7 @@
                   <option value="ctr-ponta de flecha">Ponta de Flecha</option>
                   <option value="ctr-alinhamento lateral">Alinhamento Lateral</option>
                 </optgroup>
-                
+
                 <optgroup label="Garrafa">
                   <option value="gar-suja">Suja</option>
                   <option value="gar-marcada">Marcada</option>
@@ -217,7 +227,7 @@
                 </optgroup>
 
               </select>
-              
+
               <label for="select3">* Nível:</label>
               <select id="select3">
                 <option></option>
@@ -253,7 +263,7 @@
 
 
   <footer id="fotter-parte" style="display: none;"> <!--footer-->
-    <p>&copy; 2023 Famiglia Valduga CDP. Todos os direitos reservados. | Desenvolvido por Júlio Vian</p>
+    <p>&copy; 2023 DataDecanter. Todos os direitos reservados. | Desenvolvido por Júlio Vian</p>
   </footer>
 
 </body>

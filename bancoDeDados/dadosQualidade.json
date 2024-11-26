@@ -1819,5 +1819,1320 @@
         }
       }
     }
+  },
+  {
+    "2024-10-15": {
+      "11493": {
+        "itemCode": "CS101GF",
+        "operacao": "rotulagem",
+        "lote": "51924288",
+        "tipo": "vinho",
+        "registros": {
+          "vetorA": [
+            "S/ Defeito",
+            "C/ Defeito",
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            "",
+            "rot-alinhamento lateral",
+            ""
+          ],
+          "vetorC": [
+            "",
+            "leve",
+            ""
+          ],
+          "vetorD": [
+            "24",
+            "12",
+            "12"
+          ],
+          "vetorE": [
+            "",
+            "2",
+            ""
+          ],
+          "registro": [
+            "09:42",
+            "10:58",
+            "13:12"
+          ],
+          "obs": ""
+        }
+      }
+    }
+  },
+  {
+    "2024-10-15": {
+      "11502": {
+        "itemCode": "CS102GF",
+        "operacao": "rotulagem",
+        "lote": "62524290",
+        "tipo": "espumante",
+        "registros": {
+          "vetorA": [
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            ""
+          ],
+          "vetorC": [
+            ""
+          ],
+          "vetorD": [
+            "24"
+          ],
+          "vetorE": [
+            ""
+          ],
+          "registro": [
+            "16:51"
+          ],
+          "obs": ""
+        }
+      }
+    }
+  },
+  {
+    "2024-10-16": {
+      "11502": {
+        "itemCode": "CS102GF",
+        "operacao": "rotulagem",
+        "lote": "62524290",
+        "tipo": "espumante",
+        "registros": {
+          "vetorA": [
+            "C/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito"
+          ],
+          "vetorB": [
+            "rot-rasgado",
+            "rot-rasgado",
+            "rot-rasgado"
+          ],
+          "vetorC": [
+            "retrabalho",
+            "retrabalho",
+            "retrabalho"
+          ],
+          "vetorD": [
+            "24",
+            "24",
+            "24"
+          ],
+          "vetorE": [
+            "1",
+            "1",
+            "2"
+          ],
+          "registro": [
+            "08:43",
+            "10:26",
+            "14:36"
+          ],
+          "obs": ", "
+        }
+      }
+    }
+  },
+  {
+    "2024-10-18": {
+      "12270": {
+        "itemCode": "NA207GF",
+        "operacao": "rotulagem",
+        "lote": "62624292",
+        "tipo": "espumante",
+        "registros": {
+          "vetorA": [
+            "S/ Defeito",
+            "S/ Defeito",
+            "C/ Defeito"
+          ],
+          "vetorB": [
+            "",
+            "",
+            "rot-dobras"
+          ],
+          "vetorC": [
+            "",
+            "",
+            "retrabalho"
+          ],
+          "vetorD": [
+            "12",
+            "12",
+            "12"
+          ],
+          "vetorE": [
+            "",
+            "",
+            "1"
+          ],
+          "registro": [
+            "08:50",
+            "10:43",
+            "13:10"
+          ],
+          "obs": ""
+        }
+      }
+    }
+  },
+  {
+    "2024-10-25": {
+      "17325": {
+        "itemCode": "CH223UN",
+        "operacao": "rotulagem",
+        "lote": "11024299",
+        "tipo": "espumante",
+        "registros": {
+          "vetorA": [
+            "C/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito"
+          ],
+          "vetorB": [
+            "rot-dobras",
+            "rot-bolhas",
+            "ctr-dobras"
+          ],
+          "vetorC": [
+            "retrabalho",
+            "retrabalho",
+            "retrabalho"
+          ],
+          "vetorD": [
+            "25",
+            "25",
+            "25"
+          ],
+          "vetorE": [
+            "25",
+            "25",
+            "25"
+          ],
+          "registro": [
+            "15:37",
+            "15:38",
+            "15:39"
+          ],
+          "obs": ""
+        }
+      }
+    }
+  },
+  {
+    "2024-10-28": {
+      "17325": {
+        "itemCode": "CH223UN",
+        "operacao": "rotulagem",
+        "lote": "11024299",
+        "tipo": "espumante",
+        "registros": {
+          "vetorA": [
+            "C/ Defeito",
+            "C/ Defeito"
+          ],
+          "vetorB": [
+            "cap-posicionamento",
+            "ctr-bolhas"
+          ],
+          "vetorC": [
+            "leve",
+            "leve"
+          ],
+          "vetorD": [
+            "6",
+            "0"
+          ],
+          "vetorE": [
+            "3",
+            "0"
+          ],
+          "registro": [
+            "16:15",
+            "16:16"
+          ],
+          "obs": ""
+        }
+      }
+    }
+  },
+  {
+    "2024-10-29": {
+      "12522": {
+        "itemCode": "NA200GF",
+        "operacao": "rotulagem",
+        "lote": "52824303",
+        "tipo": "vinho",
+        "registros": {
+          "vetorA": [
+            "S/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito",
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            "",
+            "ctr-alinhamento lateral",
+            "ctr-altura",
+            ""
+          ],
+          "vetorC": [
+            "",
+            "retrabalho",
+            "leve",
+            ""
+          ],
+          "vetorD": [
+            "12",
+            "12",
+            "12",
+            "12"
+          ],
+          "vetorE": [
+            "",
+            "1",
+            "6",
+            ""
+          ],
+          "registro": [
+            "13:09",
+            "14:53",
+            "16:18",
+            "17:03"
+          ],
+          "obs": ""
+        }
+      }
+    }
+  },
+  {
+    "2024-10-30": {
+      "12522": {
+        "itemCode": "NA200GF",
+        "operacao": "rotulagem",
+        "lote": "52824303",
+        "tipo": "vinho",
+        "numAmosPad": 50,
+        "registros": {
+          "vetorA": [
+            "C/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            "cap-pregas descent.",
+            "cap-pregas descent.",
+            "div-amassada",
+            "",
+            ""
+          ],
+          "vetorC": [
+            "retrabalho",
+            "retrabalho",
+            "leve",
+            "",
+            ""
+          ],
+          "vetorD": [
+            12,
+            12,
+            0,
+            12,
+            14
+          ],
+          "vetorE": [
+            "2",
+            "1",
+            "2",
+            "",
+            ""
+          ],
+          "registro": [
+            "09:31",
+            "10:14",
+            "10:14",
+            "10:58",
+            "11:26"
+          ],
+          "obs": "",
+          "quantAnaTotal": 50
+        }
+      }
+    }
+  },
+  {
+    "2024-10-30": {
+      "11403": {
+        "itemCode": "NA202GF",
+        "operacao": "rotulagem",
+        "lote": "52924304",
+        "tipo": "vinho",
+        "numAmosPad": 50,
+        "registros": {
+          "vetorA": [
+            "C/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito",
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            "div-amassada",
+            "div-amassada",
+            "ctr-altura",
+            "rot-bolhas",
+            ""
+          ],
+          "vetorC": [
+            "leve",
+            "leve",
+            "leve",
+            "leve",
+            ""
+          ],
+          "vetorD": [
+            12,
+            12,
+            0,
+            12,
+            14
+          ],
+          "vetorE": [
+            "1",
+            "1",
+            "12",
+            "2",
+            ""
+          ],
+          "registro": [
+            "13:43",
+            "15:14",
+            "15:15",
+            "16:41",
+            "17:10"
+          ],
+          "obs": "",
+          "quantAnaTotal": 50
+        }
+      }
+    }
+  },
+  {
+    "2024-10-31": {
+      "11403": {
+        "itemCode": "NA202GF",
+        "operacao": "rotulagem",
+        "lote": "52924304",
+        "tipo": "vinho",
+        "numAmosPad": 0,
+        "registros": {
+          "vetorA": [
+            "S/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito"
+          ],
+          "vetorB": [
+            "",
+            "rot-bolhas",
+            "rot-bolhas"
+          ],
+          "vetorC": [
+            "",
+            "leve",
+            "leve"
+          ],
+          "vetorD": [
+            12,
+            12,
+            12
+          ],
+          "vetorE": [
+            "",
+            "1",
+            "1"
+          ],
+          "registro": [
+            "08:06",
+            "09:12",
+            "10:05"
+          ],
+          "obs": "",
+          "quantAnaTotal": 36
+        }
+      }
+    }
+  },
+  {
+    "2024-11-01": {
+      "12537": {
+        "itemCode": "NA201GF",
+        "operacao": "rotulagem",
+        "lote": "52124306",
+        "tipo": "vinho",
+        "numAmosPad": 50,
+        "registros": {
+          "vetorA": [
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "vetorC": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "vetorD": [
+            12,
+            12,
+            12,
+            14
+          ],
+          "vetorE": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "registro": [
+            "08:51",
+            "09:19",
+            "10:46",
+            "15:08"
+          ],
+          "obs": "",
+          "quantAnaTotal": 50
+        }
+      }
+    }
+  },
+  {
+    "2024-11-05": {
+      "14055": {
+        "itemCode": "AR188GF",
+        "operacao": "rotulagem",
+        "lote": "12924310",
+        "tipo": "espumante",
+        "numAmosPad": 32,
+        "registros": {
+          "vetorA": [
+            "C/ Defeito",
+            "C/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            "rot-bolhas",
+            "rot-dobras",
+            "",
+            ""
+          ],
+          "vetorC": [
+            "retrabalho",
+            "leve",
+            "",
+            ""
+          ],
+          "vetorD": [
+            6,
+            6,
+            6,
+            14
+          ],
+          "vetorE": [
+            "1",
+            "2",
+            "",
+            ""
+          ],
+          "registro": [
+            "13:52",
+            "13:52",
+            "15:21",
+            "16:17"
+          ],
+          "obs": "",
+          "quantAnaTotal": 32
+        }
+      }
+    }
+  },
+  {
+    "2024-11-06": {
+      "13638": {
+        "itemCode": "AR187GF",
+        "operacao": "rotulagem",
+        "lote": "1292431",
+        "tipo": "espumante",
+        "numAmosPad": 50,
+        "registros": {
+          "vetorA": [
+            "S/ Defeito",
+            "S/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito",
+            "S/ Defeito",
+            "C/ Defeito"
+          ],
+          "vetorB": [
+            "",
+            "",
+            "ctr-dobras",
+            "ctr-bolhas",
+            "rot-dobras",
+            "",
+            "rot-rasgado"
+          ],
+          "vetorC": [
+            "",
+            "",
+            "leve",
+            "leve",
+            "leve",
+            "",
+            "retrabalho"
+          ],
+          "vetorD": [
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            14
+          ],
+          "vetorE": [
+            "",
+            "",
+            "1",
+            "3",
+            "1",
+            "",
+            "2"
+          ],
+          "registro": [
+            "13:25",
+            "13:25",
+            "13:26",
+            "14:32",
+            "15:22",
+            "16:06",
+            "16:43"
+          ],
+          "obs": "",
+          "quantAnaTotal": 50
+        }
+      }
+    }
+  },
+  {
+    "2024-11-07": {
+      "13638": {
+        "itemCode": "AR187GF",
+        "operacao": "rotulagem",
+        "lote": "12924311",
+        "tipo": "espumante",
+        "numAmosPad": 0,
+        "registros": {
+          "vetorA": [
+            "C/ Defeito",
+            "S/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito"
+          ],
+          "vetorB": [
+            "rot-alinhamento lateral",
+            "",
+            "rot-bolhas",
+            "ctr-bolhas",
+            "rot-rasgado"
+          ],
+          "vetorC": [
+            "leve",
+            "",
+            "leve",
+            "leve",
+            "retrabalho"
+          ],
+          "vetorD": [
+            6,
+            6,
+            6,
+            6,
+            6
+          ],
+          "vetorE": [
+            "4",
+            "",
+            "2",
+            "6",
+            "1"
+          ],
+          "registro": [
+            "08:47",
+            "09:20",
+            "11:21",
+            "13:26",
+            "14:58"
+          ],
+          "obs": "",
+          "quantAnaTotal": 30
+        }
+      }
+    }
+  },
+  {
+    "2024-11-08": {
+      "13167": {
+        "itemCode": "AR199GF",
+        "operacao": "rotulagem",
+        "lote": "55824312",
+        "tipo": "espumante",
+        "numAmosPad": 50,
+        "registros": {
+          "vetorA": [
+            "S/ Defeito",
+            "S/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            "",
+            "",
+            "rot-dobras",
+            "rot-dobras",
+            "",
+            "",
+            ""
+          ],
+          "vetorC": [
+            "",
+            "",
+            "leve",
+            "leve",
+            "",
+            "",
+            ""
+          ],
+          "vetorD": [
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            14
+          ],
+          "vetorE": [
+            "",
+            "",
+            "3",
+            "2",
+            "",
+            "",
+            ""
+          ],
+          "registro": [
+            "08:41",
+            "10:05",
+            "10:38",
+            "11:41",
+            "12:55",
+            "12:56",
+            "13:30"
+          ],
+          "obs": "",
+          "quantAnaTotal": 50
+        }
+      }
+    }
+  },
+  {
+    "2024-11-08": {
+      "10939": {
+        "itemCode": "CV111GF",
+        "operacao": "rotulagem",
+        "lote": "63424313",
+        "tipo": "espumante",
+        "numAmosPad": 50,
+        "registros": {
+          "vetorA": [
+            "S/ Defeito",
+            "C/ Defeito",
+            "S/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito"
+          ],
+          "vetorB": [
+            "",
+            "rot-rasgado",
+            "",
+            "rot-alinhamento lateral",
+            "rot-rasgado",
+            "rot-altura"
+          ],
+          "vetorC": [
+            "",
+            "retrabalho",
+            "",
+            "retrabalho",
+            "retrabalho",
+            "retrabalho"
+          ],
+          "vetorD": [
+            6,
+            6,
+            6,
+            6,
+            6,
+            6
+          ],
+          "vetorE": [
+            "",
+            "1",
+            "",
+            "1",
+            "1",
+            "3"
+          ],
+          "registro": [
+            "15:40",
+            "16:15",
+            "16:49",
+            "08:00",
+            "09:20",
+            "10:28"
+          ],
+          "obs": "E também tinha uma garrafa com um furo",
+          "quantAnaTotal": 36
+        }
+      }
+    }
+  },
+  {
+    "2024-11-11": {
+      "10939": {
+        "itemCode": "CV111GF",
+        "operacao": "rotulagem",
+        "lote": "63424313",
+        "tipo": "espumante",
+        "numAmosPad": 14,
+        "registros": {
+          "vetorA": [
+            "C/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            "gar-suja",
+            "",
+            "",
+            ""
+          ],
+          "vetorC": [
+            "leve",
+            "",
+            "",
+            ""
+          ],
+          "vetorD": [
+            6,
+            6,
+            6,
+            6
+          ],
+          "vetorE": [
+            "1",
+            "",
+            "",
+            ""
+          ],
+          "registro": [
+            "08:28",
+            "09:09",
+            "10:08",
+            "12:48"
+          ],
+          "obs": "",
+          "quantAnaTotal": 24
+        }
+      }
+    }
+  },
+  {
+    "2024-11-11": {
+      "22667": {
+        "itemCode": "PR132GF",
+        "operacao": "rotulagem",
+        "lote": "52224316",
+        "tipo": "vinho",
+        "registros": {
+          "vetorA": [],
+          "vetorB": [],
+          "vetorC": [],
+          "vetorD": [],
+          "vetorE": [],
+          "registro": [],
+          "obs": "",
+          "quantAnaTotal": 0
+        }
+      }
+    }
+  },
+  {
+    "2024-11-12": {
+      "22667": {
+        "itemCode": "PR132GF",
+        "operacao": "rotulagem",
+        "lote": "52224316",
+        "tipo": "vinho",
+        "numAmosPad": 50,
+        "registros": {
+          "vetorA": [
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "vetorC": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "vetorD": [
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            14
+          ],
+          "vetorE": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "registro": [
+            "08:56",
+            "10:22",
+            "11:34",
+            "15:07",
+            "15:12",
+            "16:33",
+            "17:01"
+          ],
+          "obs": "",
+          "quantAnaTotal": 50
+        }
+      }
+    }
+  },
+  {
+    "2024-11-13": {
+      "13015": {
+        "itemCode": "PR130GF",
+        "operacao": "rotulagem",
+        "lote": "53324318",
+        "tipo": "vinho",
+        "numAmosPad": 50,
+        "registros": {
+          "vetorA": [
+            "C/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            "rot-alinhamento lateral",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "vetorC": [
+            "leve",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "vetorD": [
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            14
+          ],
+          "vetorE": [
+            "4",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "registro": [
+            "08:38",
+            "09:31",
+            "13:27",
+            "15:13",
+            "15:18",
+            "16:46",
+            "16:46"
+          ],
+          "obs": "",
+          "quantAnaTotal": 50
+        }
+      }
+    }
+  },
+  {
+    "2024-11-14": {
+      "11569": {
+        "itemCode": "PR143GF",
+        "operacao": "rotulagem",
+        "lote": "53324319",
+        "tipo": "vinho",
+        "numAmosPad": 32,
+        "registros": {
+          "vetorA": [
+            "C/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            "ctr-bolhas",
+            "",
+            "",
+            ""
+          ],
+          "vetorC": [
+            "leve",
+            "",
+            "",
+            ""
+          ],
+          "vetorD": [
+            12,
+            12,
+            12,
+            12
+          ],
+          "vetorE": [
+            "7",
+            "",
+            "",
+            ""
+          ],
+          "registro": [
+            "09:21",
+            "10:39",
+            "12:49",
+            "15:37"
+          ],
+          "obs": "",
+          "quantAnaTotal": 48
+        }
+      }
+    }
+  },
+  {
+    "2024-11-18": {
+      "11530": {
+        "itemCode": "CS101GF",
+        "operacao": "rotulagem",
+        "lote": "53224323",
+        "tipo": "vinho",
+        "registros": {
+          "vetorA": [
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            ""
+          ],
+          "vetorC": [
+            ""
+          ],
+          "vetorD": [
+            12
+          ],
+          "vetorE": [
+            ""
+          ],
+          "registro": [
+            "16:32"
+          ],
+          "obs": "",
+          "quantAnaTotal": 12
+        }
+      }
+    }
+  },
+  {
+    "2024-11-20": {
+      "10907": {
+        "itemCode": "AR122GF",
+        "operacao": "rotulagem",
+        "lote": "53424325",
+        "tipo": "vinho",
+        "numAmosPad": 50,
+        "registros": {
+          "vetorA": [
+            "C/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            "rot-bolhas",
+            "",
+            "",
+            ""
+          ],
+          "vetorC": [
+            "leve",
+            "",
+            "",
+            ""
+          ],
+          "vetorD": [
+            12,
+            12,
+            12,
+            12
+          ],
+          "vetorE": [
+            "4",
+            "",
+            "",
+            ""
+          ],
+          "registro": [
+            "09:36",
+            "11:02",
+            "12:52",
+            "15:14"
+          ],
+          "obs": "Altura alterada para 3,2cm devido a formação de bolhas na parte superior. Após este ajuste não identificou-se bolhas.",
+          "quantAnaTotal": 48
+        }
+      }
+    }
+  },
+  {
+    "2024-11-19": {
+      "11510": {
+        "itemCode": "CS102GF",
+        "operacao": "rotulagem",
+        "lote": "63224324",
+        "tipo": "espumante",
+        "numAmosPad": 50,
+        "registros": {
+          "vetorA": [
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito",
+            "S/ Defeito"
+          ],
+          "vetorB": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "vetorC": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "vetorD": [
+            12,
+            12,
+            12,
+            14
+          ],
+          "vetorE": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "registro": [
+            "13:48",
+            "13:48",
+            "15:46",
+            "16:43"
+          ],
+          "obs": "",
+          "quantAnaTotal": 50
+        }
+      }
+    }
+  },
+  {
+    "2024-11-21": {
+      "17098": {
+        "itemCode": "GRE271",
+        "operacao": "rotulagem",
+        "lote": "35624326",
+        "tipo": "vinho",
+        "numAmosPad": 32,
+        "registros": {
+          "vetorA": [
+            "S/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito"
+          ],
+          "vetorB": [
+            "",
+            "ctr-bolhas",
+            "ctr-bolhas",
+            "ctr-bolhas",
+            "ctr-bolhas"
+          ],
+          "vetorC": [
+            "",
+            "leve",
+            "leve",
+            "leve",
+            "leve"
+          ],
+          "vetorD": [
+            6,
+            6,
+            6,
+            6,
+            8
+          ],
+          "vetorE": [
+            "",
+            "6",
+            "4",
+            "6",
+            "8"
+          ],
+          "registro": [
+            "12:51",
+            "12:51",
+            "12:51",
+            "15:06",
+            "16:12"
+          ],
+          "obs": "",
+          "quantAnaTotal": 32
+        }
+      }
+    }
+  },
+  {
+    "2024-11-25": {
+      "13735": {
+        "itemCode": "AR188GF",
+        "operacao": "rotulagem",
+        "lote": "12924330",
+        "tipo": "espumante",
+        "registros": {
+          "vetorA": [
+            "S/ Defeito",
+            "S/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito",
+            "C/ Defeito"
+          ],
+          "vetorB": [
+            "",
+            "",
+            "rot-bolhas",
+            "gar-marcada",
+            "rot-dobras"
+          ],
+          "vetorC": [
+            "",
+            "",
+            "leve",
+            "retrabalho",
+            "retrabalho"
+          ],
+          "vetorD": [
+            6,
+            6,
+            6,
+            6,
+            8
+          ],
+          "vetorE": [
+            "",
+            "",
+            "2",
+            "1",
+            "1"
+          ],
+          "registro": [
+            "15:45",
+            "15:46",
+            "16:07",
+            "16:12",
+            "17:10"
+          ],
+          "obs": ", ",
+          "quantAnaTotal": 32
+        }
+      }
+    }
   }
 ]

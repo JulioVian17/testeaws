@@ -61,9 +61,13 @@ select {
     padding: 3px;
 }
 #span-item-parametros {
-    font-size: xx-small;
-    width: 70%;
-    float: right;
+    font-size: medium;
+    width: auto;
+    text-align: left;
+}
+#span-item-parametros p {
+  margin: 0;
+  padding: 0;
 }
 
 fieldset {

@@ -182,6 +182,13 @@ legend {
 
 }
 
+.overlay table,
+th,
+td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
 .input-field1 {
     width: 9em;
 }
@@ -295,17 +302,20 @@ footer {
 }
 .overlay {
     background-color: #dddada;
-    background-image: linear-gradient(270deg, rgb(213, 213, 213), rgb(87, 87, 87));
-    border: 2px solid white;
+    /*background-image: linear-gradient(270deg, rgb(213, 213, 213), rgb(87, 87, 87));*/
+    border: 4px solid black;
     width: fit-content;
     height: fit-content;
     text-align: center;
     padding: 10px;
-    border-radius: 18px;
+    border-radius: 15px;
+    color: black;
 }
 
 .botoes button {
     margin: 10px;
+    background-color: black;
+    color: white;
 }
 
 .botoes button:hover,

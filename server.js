@@ -3,13 +3,12 @@ const path = require('path');
 const { exec } = require('child_process');
 const app = express();
 const porta = 3002;
-var SerialPort = require('serialport');
-const parsers = SerialPort.parsers;
+/*var SerialPort = require('serialport');
+const parsers = SerialPort.parsers;*/
 const http = require('http');
 const fs = require('fs');
 const nodemailer = require('nodemailer');
 const pdfkit = require('pdfkit');
-//const xml2js = require('xml2js');
 const bodyParser = require('body-parser');
 const os = require('os');
 const multer = require('multer');
@@ -298,11 +297,10 @@ async function getSaidas() {
     console.error('Erro ao obter dados de saldo de itens:', error.response ? error.response.data : error.message);
   }
 }
-//getSaidas();
-//getPedidos();
-//getOrdemFabricacao();
+
 
 //---------------------------------------------Serial Port--------------------------------
+/*
 const parser = new parsers.Readline({
   delimiter: '\r\n'
 });
@@ -312,6 +310,7 @@ function handleData(data) {
     ultimaData = data;
   }
 }
+
 function connectToPort(portName) {
   let port;
 
@@ -366,9 +365,10 @@ SerialPort.list().then(ports => {
   console.log(ports);
   ports.forEach(portInfo => {
     console.log(`Tentando conectar à porta ${portInfo.path}...`);
-    connectToPort(portInfo.path);
+    //connectToPort(portInfo.path);
   });
 });
+
 setInterval(() => {
   const dados = ultimaData;
   const horaAtual = new Date().getHours();
@@ -378,7 +378,7 @@ setInterval(() => {
     escreverMonitoramento(dados, time);
   }
 
-}, 60000);
+}, 60000);*/
 //--------------Monitoramento---------
 function escreverMonitoramento(dados, time) {
   //------------------Monitoramento------------------
@@ -492,6 +492,9 @@ app.get('/display', (req, res) => {
 });
 app.get('/plotly', (req, res) => {
   res.sendFile(path.join(publicDirectoryPath, '99-TestePlotly.html'));
+});
+app.get('/registros', (req, res) => {
+  res.sendFile(path.join(publicDirectoryPath, '12-Registros.html'));
 });
 //--------------------------Relatório-----------------------------------
 app.post('/relatorio', (req, res) => {
@@ -720,7 +723,8 @@ async function enviarEmail(percentualPorDia, pRendPorDia, infoPordiaData, parada
 
       const mailOptions = {
         from: 'controle.producao@famigliavalduga.com.br',
-        to: 'pcp@casavalduga.com.br,julio.vian@famigliavalduga.com.br,michel.trevisol@famigliavalduga.com.br,manutencao@casavalduga.com.br,luiz.styburski@famigliavalduga.com.br,anildo.almeida@famigliavalduga.com.br',
+
+        to: 'pcp@casavalduga.com.br,julio.vian@famigliavalduga.com.br,michel.trevisol@famigliavalduga.com.br,manutencao@casavalduga.com.br,luiz.styburski@famigliavalduga.com.br',
         //to: 'julio.vian@famigliavalduga.com.br',
         subject: `${dataOntem} - Relatório de Controle de Produção - Casa Valduga Engarrafamento`,
         text: `Segue anexado referente a ${dataOntem},  relatório de Controle de Produção referente ao processo de Engarrafamento da Casa Valduga.`,
@@ -1672,59 +1676,7 @@ app.post('/salvar-quebras-paradas', (req, res) => {
 
   res.send('Dados quebras-paradas salvos com sucesso!');
 });
-app.post('/salvar-dados', (req, res) => {
-  const { operacao, dataHora, itemCode, ordemNumero, garrafa, pessoas, pessoasPadrao, percentual, produtividade,
-    produtividadePadrao, percentualRendimento, rendimento, rendimentoPadrao, hi, hf, tempoTotalProducao, tempoTotalParado,
-    vetorQuebra, vetorParada, vetorAnalise, registro } = req.body;
 
-  const formData = {
-    operacao,
-    dataHora,
-    itemCode,
-    ordemNumero,
-    garrafa,
-    pessoas,
-    pessoasPadrao,
-    percentual,
-    produtividade,
-    produtividadePadrao,
-    percentualRendimento,
-    rendimento,
-    rendimentoPadrao,
-    hi,
-    hf,
-    tempoTotalProducao,
-    tempoTotalParado,
-    vetorQuebra,
-    vetorParada,
-    vetorAnalise,
-    registro
-  };
-
-
-  let jsonData = [];
-  let fileName = '';
-
-  // Verifica o valor da variável 'operacao'
-  if (operacao.toLowerCase() === 'rotulagem') {
-    fileName = 'bancoDeDados/dadosRotulagem.json';
-  } else {
-    fileName = 'bancoDeDados/dadosEnvDeg.json'; // Nome do arquivo para outra operação
-  }
-
-  try {
-    const data = fs.readFileSync(fileName, 'utf8');
-    jsonData = JSON.parse(data);
-  } catch (err) {
-    console.error(err);
-  }
-
-  jsonData.push(formData);
-
-  fs.writeFileSync(fileName, JSON.stringify(jsonData, null, 2));
-
-  res.send('Dados salvos com sucesso!');
-});
 
 //-------------Email ao exportar--------------------
 app.post('/enviar-email', async (req, res) => {
@@ -2056,6 +2008,7 @@ function parseDate2(dateStr) {
   return new Date(2000 + year, month - 1, day); // Ajuste do ano para 2000+
 }
 */
+
 app.post('/buscarOrdem', async (req, res) => {
   try {
     const { item: itemEnviado, idInicial, idFinal } = req.body;
@@ -2156,8 +2109,6 @@ app.post('/buscarOrdem', async (req, res) => {
     res.status(500).send('Erro ao processar a requisição');
   }
 });
-
-
 function isBetweenDatesCod(startDate, endDate, dateToCheck) {
   const start = new Date(startDate);
   const end = new Date(endDate);
@@ -2225,62 +2176,112 @@ app.post('/vizualizarOrdens', async (req, res) => {
   }
 });
 
-/*
-app.post('/vizualizarOrdens/:ordemText', (req, res) => {
-  const ordemEnviada = req.params.ordemText;
-  console.log('ordem enviada:', ordemEnviada);
+//----------REGISTROS-------
+app.post('/buscarRegistros', async (req, res) => {
   try {
-    const xmlData = fs.readFileSync('relatorios/RPRD0301.xml', 'utf-8');
-    const parserOptionsXml = { explicitArray: false };
+    const { item: itemEnviado, idInicial, idFinal } = req.body;
+    const retornoApi = await getRegistros();
+    const resultadosPorOrdem = {};
+    const exportar = [];
 
-    xml2js.parseString(xmlData, parserOptionsXml, (err, xmlParsedData) => {
-      if (err) {
-        console.error('Erro ao analisar o XML:', err);
-        res.status(500).send('Erro ao analisar o XML');
-        return;
-      }
+    // Check if all three fields are empty
+    if (!itemEnviado && !idInicial && !idFinal) {
+      retornoApi.forEach(item => {
+        const numOrdem = item.num_ordem;
 
-      const gDtInicialList = Array.isArray(xmlParsedData.RPRD0301.LIST_G_DT_INICIAL.G_DT_INICIAL)
-        ? xmlParsedData.RPRD0301.LIST_G_DT_INICIAL.G_DT_INICIAL
-        : [xmlParsedData.RPRD0301.LIST_G_DT_INICIAL.G_DT_INICIAL];
-
-      let exportar = [];
-
-      gDtInicialList.forEach(item => {
-        const numOrdem = item.NUM_ORDEM;
-
-        if (ordemEnviada == numOrdem) {
-          const gDtOrdens = Array.isArray(item.LIST_G_WG_ORDENS_ID.G_WG_ORDENS_ID)
-            ? item.LIST_G_WG_ORDENS_ID.G_WG_ORDENS_ID
-            : [item.LIST_G_WG_ORDENS_ID.G_WG_ORDENS_ID];
-
-          gDtOrdens.forEach(itemDemanda => {
-            const demanda = {
-              demanda: itemDemanda.COD_ITEM1,
-              descricao: itemDemanda.DESC_TECNICA,
-              quantidade: itemDemanda.QTDE1,
-              qtdePendente: itemDemanda.QTDE_PENDENTE1,
-              unidade: itemDemanda.COD_UNID_MED,
-              dataDemanda: itemDemanda.DT_DEMANDA
-            };
-            exportar.push(demanda);
-            console.log(demanda);
-          });
+        if (!resultadosPorOrdem[numOrdem]) {
+          resultadosPorOrdem[numOrdem] = {
+            numOrdem: item.num_ordem,
+            diaHI: item.dt_inicial,
+            diaHF: item.dt_final,
+            codItem: item.cod_item,
+            descItem: item.desc_tecnica,
+            qtdePendente: item.qtde_pendente,
+            unMed: item.cod_unid_med
+          };
+          exportar.push(resultadosPorOrdem[numOrdem]);
         }
       });
-      console.log("EXPORTAR:", exportar);
 
-      res.json(exportar);
+      exportar.sort((a, b) => {
+        const [anoA, mesA, diaA] = a.diaHI.split('-').map(Number);
+        const [anoB, mesB, diaB] = b.diaHI.split('-').map(Number);
+        const dataA = new Date(anoA, mesA - 1, diaA);
+        const dataB = new Date(anoB, mesB - 1, diaB);
+
+        return dataA - dataB;
+      });
+
+      // Return all results without filtering
+      return res.json(exportar);
+    }
+    //checa se só tem item preenchido
+    if (itemEnviado && !idInicial && !idFinal) {
+      retornoApi.forEach(item => {
+        const numOrdem = item.num_ordem;
+        const codigo = item.cod_item;
+
+        if (codigo.includes(itemEnviado)) {
+          if (!resultadosPorOrdem[numOrdem]) {
+            resultadosPorOrdem[numOrdem] = {
+              numOrdem: item.num_ordem,
+              diaHI: item.dt_inicial,
+              diaHF: item.dt_final,
+              codItem: item.cod_item,
+              descItem: item.desc_tecnica,
+              qtdePendente: item.qtde_pendente,
+              unMed: item.cod_unid_med
+            };
+            exportar.push(resultadosPorOrdem[numOrdem]);
+          }
+        }
+      });
+    }
+    // Continue with your original filtering logic if not all fields are empty
+    retornoApi.forEach(item => {
+      const numOrdem = item.ordemNumero;
+      const diaHI = item.dataHora;
+      const codigo = item.itemCode;
+
+      if (codigo.includes(itemEnviado)) {
+        if (isBetweenDatesCod(idInicial, idFinal, diaHI)) {
+          if (!resultadosPorOrdem[numOrdem]) {
+            resultadosPorOrdem[numOrdem] = {
+              operacao:item.operacao,
+              numOrdem: numOrdem,
+              diaHI: diaHI,
+              codItem: codigo,
+              quantidade: item.garrafa,
+              pessoas: item.pessoas,
+              pessoasPadrao:item.pessoasPadrao,
+              
+            };
+            exportar.push(resultadosPorOrdem[numOrdem]);
+          }
+        }
+      }
     });
 
-  } catch (err) {
-    console.error(err);
-    res.status(500).json({ message: 'Erro ao encontrar ordem' });
+    exportar.sort((a, b) => {
+      const [anoA, mesA, diaA] = a.diaHI.split('-').map(Number);
+      const [anoB, mesB, diaB] = b.diaHI.split('-').map(Number);
+      const dataA = new Date(anoA, mesA - 1, diaA);
+      const dataB = new Date(anoB, mesB - 1, diaB);
+
+      return dataA - dataB;
+    });
+
+    res.json(exportar);
+
+  } catch (error) {
+    console.error('Erro ao buscar ordem:', error.message);
+    res.status(500).send('Erro ao processar a requisição');
   }
 });
-*/
-
-
+function getRegistros(){
+  const data =  fs.readFileSync('bancoDeDados/dadosQuebrasParadas.json', 'utf8');
+  return data;
+}
 //-----------------API Ordens Produção-------------------------
 // XML
 /*
@@ -2467,7 +2468,7 @@ app.post('/cadastro', (req, res) => {
 
 app.post('/exportar-qualidade', (req, res) => {
   const {
-    vetorA, vetorB, vetorC, vetorD, vetorE, obs, registro, itemCode, dataHora, ordemNumero, operacao, lote, tipo,
+    vetorA, vetorB, vetorC, vetorD, vetorE, obs, registro, itemCode, dataHora, ordemNumero, operacao, lote, tipo,numAmosPad,quantAnaTotal
   } = req.body;
 
   const formData = {
@@ -2477,7 +2478,8 @@ app.post('/exportar-qualidade', (req, res) => {
     vetorD: vetorD,
     vetorE: vetorE,
     registro: registro,
-    obs: obs
+    obs: obs,
+    quantAnaTotal:quantAnaTotal
   };
 
   let fileName = 'bancoDeDados/dadosQualidade.json';
@@ -2504,7 +2506,7 @@ app.post('/exportar-qualidade', (req, res) => {
         existingEntry.registros.vetorE.push(...formData.vetorE);
         existingEntry.registros.registro.push(...formData.registro);
         existingEntry.registros.obs = existingEntry.registros.obs + ", " + formData.obs;
-
+        existingEntry.registros.quantAnaTotal+=quantAnaTotal;
       }
     });
 
@@ -2516,6 +2518,7 @@ app.post('/exportar-qualidade', (req, res) => {
             operacao: operacao,
             lote: lote,
             tipo: tipo,
+            numAmosPad:numAmosPad,
             registros: formData
           }
         }
@@ -2531,6 +2534,31 @@ app.post('/exportar-qualidade', (req, res) => {
     res.status(500).send('Erro ao salvar os dados de qualidade.');
   }
 });
+app.post('/dadosInicias-qualidade', (req, res) => {
+ 
+  const ordemNumero = req.body.ordemNumero;
+  const fileName = 'bancoDeDados/dadosQualidade.json';
+  try {
+    let jsonData = fs.readFileSync(fileName, 'utf8');
+    jsonData = JSON.parse(jsonData);
+    let found = 0;
+
+    for (let entry of jsonData) {
+      const entryDataHora = Object.keys(entry)[0];
+      const entryOrdemNumero = Object.keys(entry[entryDataHora])[0];
+
+      if (entryOrdemNumero == ordemNumero) {
+        found = entry[entryDataHora][entryOrdemNumero].registros.quantAnaTotal;
+        break;
+      }
+    }
+    res.json(found); 
+  } catch (err) {
+    console.error(err);
+    res.status(500).send('Erro ao salvar os dados de qualidade.');
+  }
+});
+
 /*
 app.post('/esqueci', async (req, res) => {
   var emailData = req.body.email;

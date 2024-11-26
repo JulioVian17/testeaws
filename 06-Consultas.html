@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="shortcut icon" type="image/x-icon" href="imagens/logo-2.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="imagens/DataDecanterIcone3.ico">
     <link rel="stylesheet" type="text/css" href="Estilos/estilo_pagina6.css">
     <link rel="stylesheet" type="text/css" href="Estilos/estilo_menu1.css">
     <meta name="description" content="Gráfico indicadores de produção">
@@ -110,27 +110,27 @@
                     </li>
                     <li>
                         <label for="item_add">Código:</label>
-                        <input onkeyup="toUpperCase(this)" id="item_add" name="item_add" required>
+                        <input onkeyup="toUpperCase(this)" id="item_add" name="item_add" autocomplete="off" required>
                         <label for="desc_add">Descrição:</label>
-                        <input onkeyup="toUpperCase(this); autoResize(this);" style="width: 150px;" id="desc_add"
-                            name="desc_add" required>
+                        <input onkeyup="toUpperCase(this); autoResize(this);" id="desc_add"
+                            name="desc_add" autocomplete="off" required>
                         <label for="velo_add">Velocidade:</label>
-                        <input type="number" id="velo_add" name="velo_add" required>
+                        <input type="number" id="velo_add" name="velo_add" autocomplete="off" required>
                     </li>
                     <li>
                         <legend>Nº Pessoas Padrão</legend>
                     </li>
                     <li>
                         <label for="pessEnvase_add">Envase:</label>
-                        <input type="number" id="pessEnvase_add" name="pessEnvase_add">
+                        <input class="pessClas" type="number" id="pessEnvase_add" name="pessEnvase_add"autocomplete="off">
                     </li>
                     <li>
                         <label for="pessDegorg_add">Degorgment:</label>
-                        <input type="number" id="pessDegorg_add" name="pessDegorg_add">
+                        <input class="pessClas" type="number" id="pessDegorg_add" name="pessDegorg_add"autocomplete="off">
                     </li>
                     <li>
                         <label for="pessRot_add">Rotulagem:</label>
-                        <input type="number" id="pessRot_add" name="pessRot_add">
+                        <input class="pessClas" type="number" id="pessRot_add" name="pessRot_add"autocomplete="off">
                     </li>
                     <li>
                         <button onclick="enviarAdd()" type="submit">Enviar</button>

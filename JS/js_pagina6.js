@@ -472,8 +472,12 @@ function encontrarNumeroPorCodigo(codigo) {
     return resultados.length > 0 ? resultados : null;
 }
 function autoResize(input) {
-    input.style.width = ((input.value.length + 10) * 100) + 'px';
+    // Redefine a largura do input para que a nova largura seja calculada corretamente
+    input.style.width = "auto";
+    // Calcula a largura baseada no comprimento do valor do input
+    input.style.width = (input.value.length + 1) * 20 + 'px';
 }
+
 function toUpperCase(elem) {
     elem.value = elem.value.toUpperCase();
 }

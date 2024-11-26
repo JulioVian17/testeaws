@@ -162,7 +162,9 @@ li.header {
     width: 150px;
     box-sizing: border-box;
 }
-
+#add-div ol .pessClas{
+    width: 80px;
+}
 #add-div ol label {
     width: 120px;
     /* Você pode ajustar o valor conforme necessário */

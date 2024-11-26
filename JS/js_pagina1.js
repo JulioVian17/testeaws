@@ -67,16 +67,25 @@ var vetorParada = [];
 var registro = [];
 var tempoTotalParado = 0;
 
-document.getElementById("data-hora").addEventListener('change', function () {
-    avisoData();
-    var dataSelecionada = document.getElementById("data-hora").value;
-    funcApiOps(dataSelecionada);
-    //cria uma nova guia
-    const links = document.querySelectorAll('a');
-    links.forEach(link => {
-        link.setAttribute('target', '_blank');
-    });
+document.getElementById("data-hora").addEventListener('blur', function () {
+    const dataInput = document.getElementById("data-hora");
+    // Verifica se há uma data selecionada
+    if (dataInput.value) {
+        // Executa a função com a data selecionada
+        var dataSelecionada = dataInput.value;
+        funcApiOps(dataSelecionada);
+
+        // Define todos os links para abrir em uma nova guia
+        const links = document.querySelectorAll('a');
+        links.forEach(link => {
+            link.setAttribute('target', '_blank');
+        }); 
+        avisoData();
+    }
+   
 });
+
+
 document.getElementById('item_code').addEventListener('change', avisoItem);
 document.getElementById("operacao").addEventListener('change', function () {
     avisoItem();
@@ -164,7 +173,7 @@ function funcApiOps(dataSelecionada) {
 function avisoData() {
     var data = document.getElementById("data-hora").value;
     if (data !== obterDataAtual()) {
-        alert(`A data selecionada: ${data} não corresponde  à data atual, se deseja CONTINUAR pressione OK!!.`);
+        alert(`A data selecionada: ${data} não corresponde  à data atual !!.`);
     }
 }
 function avisoItem() {
@@ -543,16 +552,16 @@ function salvarParada(inputId) {
 ///EXPORTAR\\\       
 async function exportar() {
 
-    if (mostrouConfirmacao == false && hoursHi < 12) {
-        await mostrarConfirmacao();
-    }
     //produtividade GF/H
     garrafa = document.getElementById("garrafa").value;
     hi = document.getElementById("hi").value;
     hf = document.getElementById("hf").value;
     var partsHi = hi.split(":");
     var hoursHi = parseInt(partsHi[0], 10);
-
+ console.log(mostrouConfirmacao,hoursHi);
+    if (mostrouConfirmacao == false && hoursHi < 12) {
+        await mostrarConfirmacao();
+    }
     var minutesHi = parseFloat(partsHi[1], 10);
     var totalTempoHi = (hoursHi + (minutesHi / 60)).toFixed(1);
 
@@ -957,7 +966,6 @@ function demandasBtn() {
             const headerRow = document.createElement("tr");
             headerRow.style.fontWeight = "bold";
             headerRow.style.color='black';
-
             const headerContent = ["Código", "Descrição", "Quantidade", "Un.Med"];
             headerContent.forEach(title => {
                 const th = document.createElement("th");
@@ -972,7 +980,7 @@ function demandasBtn() {
             const tbody = document.createElement("tbody");
             data.forEach(item => {
                 const row = document.createElement("tr");
-
+                //row.style.borderBottom = "2px solid black";
                 const codigoCell = document.createElement("td");
                 codigoCell.textContent = item["cod_item_d"];
                 codigoCell.className = "column";

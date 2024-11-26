@@ -1,1262 +1,1414 @@
 [
   {
-    "time": "08:33:52",
+    "time": "12:52:30",
     "dados": "Garrafas Rotuladas: 0 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 0 | Velocidade Envasadora: 0.00 GF/H"
   },
   {
-    "dados": "Garrafas Rotuladas: 0 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 0 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:34:09"
+    "dados": "Garrafas Rotuladas: 4 | Velocidade Rotuladora: 720.00 GF/H | Garrafas Envasadas: 0 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "12:52:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 0 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 0 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:35:09"
+    "dados": "Garrafas Rotuladas: 10 | Velocidade Rotuladora: 720.00 GF/H | Garrafas Envasadas: 0 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "12:53:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 0 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 0 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:36:09"
+    "dados": "Garrafas Rotuladas: 20 | Velocidade Rotuladora: 1080.00 GF/H | Garrafas Envasadas: 0 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "12:54:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 0 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 0 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:37:09"
+    "dados": "Garrafas Rotuladas: 38 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 1 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "12:55:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 0 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 0 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:38:09"
+    "dados": "Garrafas Rotuladas: 49 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 4 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "12:56:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 0 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 0 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:39:09"
+    "dados": "Garrafas Rotuladas: 54 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 4 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "12:57:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 0 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 0 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:40:09"
+    "dados": "Garrafas Rotuladas: 54 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 5 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "12:58:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 0 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 0 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:41:09"
+    "dados": "Garrafas Rotuladas: 64 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 5 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "12:59:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 0 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 0 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:42:09"
+    "dados": "Garrafas Rotuladas: 74 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 5 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:00:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 0 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 1 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "08:43:09"
+    "dados": "Garrafas Rotuladas: 82 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 6 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:01:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 0 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 1 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:44:09"
+    "dados": "Garrafas Rotuladas: 117 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 6 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:02:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 21 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 1 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:45:09"
+    "dados": "Garrafas Rotuladas: 142 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 8 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "13:03:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 77 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 2 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:46:09"
+    "dados": "Garrafas Rotuladas: 154 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 10 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:04:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 115 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 3 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:47:09"
+    "dados": "Garrafas Rotuladas: 192 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 11 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:05:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 152 | Velocidade Rotuladora: 2160.00 GF/H | Garrafas Envasadas: 7 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:48:09"
+    "dados": "Garrafas Rotuladas: 242 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 13 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:06:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 205 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 11 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "08:49:09"
+    "dados": "Garrafas Rotuladas: 282 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 14 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "13:07:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 259 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 12 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:50:09"
+    "dados": "Garrafas Rotuladas: 322 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 14 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:08:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 314 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 14 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:51:09"
+    "dados": "Garrafas Rotuladas: 365 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 20 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "13:09:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 370 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 14 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:52:09"
+    "dados": "Garrafas Rotuladas: 411 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 22 | Velocidade Envasadora: 720.00 GF/H",
+    "time": "13:10:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 425 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 15 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:53:09"
+    "dados": "Garrafas Rotuladas: 462 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 22 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:11:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 480 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 16 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:54:09"
+    "dados": "Garrafas Rotuladas: 489 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 22 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:12:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 511 | Velocidade Rotuladora: 720.00 GF/H | Garrafas Envasadas: 18 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "08:55:09"
+    "dados": "Garrafas Rotuladas: 501 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 22 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:13:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 539 | Velocidade Rotuladora: 360.00 GF/H | Garrafas Envasadas: 18 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:56:09"
+    "dados": "Garrafas Rotuladas: 541 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 22 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:14:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 539 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 19 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:57:09"
+    "dados": "Garrafas Rotuladas: 564 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 25 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:15:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 539 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 19 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:58:09"
+    "dados": "Garrafas Rotuladas: 585 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 26 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:16:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 577 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 19 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "08:59:09"
+    "dados": "Garrafas Rotuladas: 628 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 26 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:17:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 616 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 21 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:00:09"
+    "dados": "Garrafas Rotuladas: 648 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 28 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:18:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 653 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 23 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "09:01:09"
+    "dados": "Garrafas Rotuladas: 661 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 28 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:19:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 685 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 24 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:02:09"
+    "dados": "Garrafas Rotuladas: 676 | Velocidade Rotuladora: 720.00 GF/H | Garrafas Envasadas: 28 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:20:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 707 | Velocidade Rotuladora: 1080.00 GF/H | Garrafas Envasadas: 24 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:03:09"
+    "dados": "Garrafas Rotuladas: 703 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 28 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:21:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 707 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 25 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:04:09"
+    "dados": "Garrafas Rotuladas: 747 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 29 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:22:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 707 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 26 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:05:09"
+    "dados": "Garrafas Rotuladas: 774 | Velocidade Rotuladora: 1080.00 GF/H | Garrafas Envasadas: 29 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:23:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 718 | Velocidade Rotuladora: 360.00 GF/H | Garrafas Envasadas: 26 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:06:09"
+    "dados": "Garrafas Rotuladas: 780 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 30 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:24:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 721 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 26 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:07:09"
+    "dados": "Garrafas Rotuladas: 788 | Velocidade Rotuladora: 360.00 GF/H | Garrafas Envasadas: 30 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:25:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 752 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 26 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:08:09"
+    "dados": "Garrafas Rotuladas: 812 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 31 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:26:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 774 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 28 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "09:09:09"
+    "dados": "Garrafas Rotuladas: 854 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 31 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:27:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 776 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 29 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:10:09"
+    "dados": "Garrafas Rotuladas: 897 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 34 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "13:28:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 828 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 32 | Velocidade Envasadora: 720.00 GF/H",
-    "time": "09:11:09"
+    "dados": "Garrafas Rotuladas: 925 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 35 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:29:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 839 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 33 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "09:12:09"
+    "dados": "Garrafas Rotuladas: 932 | Velocidade Rotuladora: 720.00 GF/H | Garrafas Envasadas: 36 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:30:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 895 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 33 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:13:09"
+    "dados": "Garrafas Rotuladas: 972 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 36 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:31:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 952 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 34 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "09:14:09"
+    "dados": "Garrafas Rotuladas: 1025 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 38 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:32:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 970 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 35 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:15:09"
+    "dados": "Garrafas Rotuladas: 1065 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 39 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:33:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 998 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 35 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:16:09"
+    "dados": "Garrafas Rotuladas: 1107 | Velocidade Rotuladora: 2160.00 GF/H | Garrafas Envasadas: 40 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:34:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1048 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 36 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:17:09"
+    "dados": "Garrafas Rotuladas: 1152 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 42 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:35:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1103 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 37 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:18:09"
+    "dados": "Garrafas Rotuladas: 1191 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 43 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:36:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1155 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 37 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:19:09"
+    "dados": "Garrafas Rotuladas: 1241 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 44 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:37:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1188 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 39 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:20:09"
+    "dados": "Garrafas Rotuladas: 1291 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 44 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:38:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1243 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 42 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:21:09"
+    "dados": "Garrafas Rotuladas: 1336 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 45 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:39:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1259 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 44 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:22:09"
+    "dados": "Garrafas Rotuladas: 1374 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 47 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:40:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1283 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 46 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:23:09"
+    "dados": "Garrafas Rotuladas: 1388 | Velocidade Rotuladora: 720.00 GF/H | Garrafas Envasadas: 49 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:41:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1340 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 47 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:24:09"
+    "dados": "Garrafas Rotuladas: 1415 | Velocidade Rotuladora: 360.00 GF/H | Garrafas Envasadas: 50 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "13:42:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1398 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 47 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:25:09"
+    "dados": "Garrafas Rotuladas: 1459 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 54 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:43:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1455 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 50 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:26:09"
+    "dados": "Garrafas Rotuladas: 1502 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 55 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:44:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1511 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 50 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:27:09"
+    "dados": "Garrafas Rotuladas: 1548 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 57 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "13:45:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1567 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 52 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:28:09"
+    "dados": "Garrafas Rotuladas: 1598 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 58 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:46:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1623 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 52 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:29:09"
+    "dados": "Garrafas Rotuladas: 1632 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 58 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:47:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1679 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 53 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:30:09"
+    "dados": "Garrafas Rotuladas: 1642 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 58 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:48:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1735 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 53 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:31:09"
+    "dados": "Garrafas Rotuladas: 1676 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 59 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:49:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1791 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 53 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:32:09"
+    "dados": "Garrafas Rotuladas: 1695 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 60 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:50:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1847 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 54 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:33:09"
+    "dados": "Garrafas Rotuladas: 1740 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 61 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:51:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1903 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 54 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:34:09"
+    "dados": "Garrafas Rotuladas: 1786 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 65 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:52:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 1958 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 54 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:35:09"
+    "dados": "Garrafas Rotuladas: 1829 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 107 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "13:53:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2013 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 54 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:36:09"
+    "dados": "Garrafas Rotuladas: 1855 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 155 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "13:54:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2069 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 55 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:37:10"
+    "dados": "Garrafas Rotuladas: 1876 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 205 | Velocidade Envasadora: 2520.00 GF/H",
+    "time": "13:55:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2124 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 55 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:38:10"
+    "dados": "Garrafas Rotuladas: 1925 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 216 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "13:56:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2179 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 55 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:39:10"
+    "dados": "Garrafas Rotuladas: 1972 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 246 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "13:57:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2235 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 55 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:40:10"
+    "dados": "Garrafas Rotuladas: 2016 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 295 | Velocidade Envasadora: 2160.00 GF/H",
+    "time": "13:58:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2290 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 55 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:41:10"
+    "dados": "Garrafas Rotuladas: 2023 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 337 | Velocidade Envasadora: 720.00 GF/H",
+    "time": "13:59:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2345 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 55 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:42:10"
+    "dados": "Garrafas Rotuladas: 2057 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 359 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:00:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2401 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 55 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:43:10"
+    "dados": "Garrafas Rotuladas: 2110 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 386 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:01:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2456 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 56 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "09:44:10"
+    "dados": "Garrafas Rotuladas: 2153 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 441 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:02:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2511 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 56 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:45:10"
+    "dados": "Garrafas Rotuladas: 2175 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 497 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "14:03:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2567 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 57 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:46:10"
+    "dados": "Garrafas Rotuladas: 2220 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 545 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "14:04:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2622 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 57 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:47:10"
+    "dados": "Garrafas Rotuladas: 2277 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 600 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "14:05:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2677 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 57 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:48:10"
+    "dados": "Garrafas Rotuladas: 2333 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 654 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:06:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2733 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 57 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:49:10"
+    "dados": "Garrafas Rotuladas: 2390 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 709 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:07:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2788 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 58 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:50:10"
+    "dados": "Garrafas Rotuladas: 2447 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 765 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:08:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2843 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 58 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:51:10"
+    "dados": "Garrafas Rotuladas: 2505 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 821 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:09:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2899 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 58 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:52:10"
+    "dados": "Garrafas Rotuladas: 2563 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 877 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:10:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 2954 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 58 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:53:10"
+    "dados": "Garrafas Rotuladas: 2621 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 933 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "14:11:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3009 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 58 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:54:10"
+    "dados": "Garrafas Rotuladas: 2678 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 989 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "14:12:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3059 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 58 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:55:10"
+    "dados": "Garrafas Rotuladas: 2735 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 1043 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:13:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3067 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 58 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:56:10"
+    "dados": "Garrafas Rotuladas: 2792 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 1099 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:14:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3067 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 59 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:57:10"
+    "dados": "Garrafas Rotuladas: 2836 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 1154 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:15:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3067 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 59 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:58:10"
+    "dados": "Garrafas Rotuladas: 2893 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 1209 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "14:16:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3067 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 59 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "09:59:10"
+    "dados": "Garrafas Rotuladas: 2927 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 1260 | Velocidade Envasadora: 1440.00 GF/H",
+    "time": "14:17:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3099 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 59 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:00:10"
+    "dados": "Garrafas Rotuladas: 2949 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 1270 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "14:18:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3156 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 60 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:01:10"
+    "dados": "Garrafas Rotuladas: 3005 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 1324 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:19:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3214 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 60 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:02:10"
+    "dados": "Garrafas Rotuladas: 3060 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 1379 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:20:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3270 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 60 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:03:10"
+    "dados": "Garrafas Rotuladas: 3106 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 1413 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:21:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3315 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 61 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:04:10"
+    "dados": "Garrafas Rotuladas: 3109 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 1419 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:22:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3323 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 61 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:05:10"
+    "dados": "Garrafas Rotuladas: 3109 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 1420 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:23:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3381 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 63 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:06:10"
+    "dados": "Garrafas Rotuladas: 3109 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 1420 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:24:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3439 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 63 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:07:10"
+    "dados": "Garrafas Rotuladas: 3111 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 1465 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "14:25:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3496 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 63 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:08:10"
+    "dados": "Garrafas Rotuladas: 3114 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 1517 | Velocidade Envasadora: 2160.00 GF/H",
+    "time": "14:26:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3552 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 63 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:09:10"
+    "dados": "Garrafas Rotuladas: 3150 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 1539 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:27:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3608 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 63 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:10:10"
+    "dados": "Garrafas Rotuladas: 3201 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 1586 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:28:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3664 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 63 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:11:10"
+    "dados": "Garrafas Rotuladas: 3230 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 1641 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "14:29:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3720 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 64 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:12:10"
+    "dados": "Garrafas Rotuladas: 3269 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 1696 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:30:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3776 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 65 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:13:10"
+    "dados": "Garrafas Rotuladas: 3326 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 1751 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "14:31:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3832 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 67 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:14:10"
+    "dados": "Garrafas Rotuladas: 3379 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 1806 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "14:32:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3887 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 67 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:15:10"
+    "dados": "Garrafas Rotuladas: 3432 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 1861 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "14:33:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3943 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 67 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:16:10"
+    "dados": "Garrafas Rotuladas: 3458 | Velocidade Rotuladora: 720.00 GF/H | Garrafas Envasadas: 1901 | Velocidade Envasadora: 1440.00 GF/H",
+    "time": "14:34:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 3998 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 67 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:17:10"
+    "dados": "Garrafas Rotuladas: 3516 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 1944 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:35:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4053 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 67 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:18:10"
+    "dados": "Garrafas Rotuladas: 3568 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 1957 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "14:36:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4109 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 68 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:19:10"
+    "dados": "Garrafas Rotuladas: 3577 | Velocidade Rotuladora: 720.00 GF/H | Garrafas Envasadas: 1957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:37:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4164 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 68 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:20:10"
+    "dados": "Garrafas Rotuladas: 3577 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 1958 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:38:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4219 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 68 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:21:10"
+    "dados": "Garrafas Rotuladas: 3577 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 2003 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "14:39:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4273 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 69 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "10:22:10"
+    "dados": "Garrafas Rotuladas: 3603 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 2054 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:40:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4283 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 69 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:23:10"
+    "dados": "Garrafas Rotuladas: 3651 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 2101 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "14:41:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4325 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 70 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:24:10"
+    "dados": "Garrafas Rotuladas: 3689 | Velocidade Rotuladora: 1080.00 GF/H | Garrafas Envasadas: 2147 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:42:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4383 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 71 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:25:10"
+    "dados": "Garrafas Rotuladas: 3744 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 2199 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "14:43:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4441 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 71 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:26:10"
+    "dados": "Garrafas Rotuladas: 3784 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 2245 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:44:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4497 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 74 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "10:27:10"
+    "dados": "Garrafas Rotuladas: 3836 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 2294 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:45:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4553 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 78 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "10:28:10"
+    "dados": "Garrafas Rotuladas: 3890 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 2304 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:46:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4578 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 80 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:29:10"
+    "dados": "Garrafas Rotuladas: 3923 | Velocidade Rotuladora: 720.00 GF/H | Garrafas Envasadas: 2305 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:47:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4578 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 82 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:30:10"
+    "dados": "Garrafas Rotuladas: 3932 | Velocidade Rotuladora: 720.00 GF/H | Garrafas Envasadas: 2306 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:48:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4578 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 84 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:31:10"
+    "dados": "Garrafas Rotuladas: 3932 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 2306 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:49:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4589 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 85 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:32:10"
+    "dados": "Garrafas Rotuladas: 3932 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 2306 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:50:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4589 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 86 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:33:10"
+    "dados": "Garrafas Rotuladas: 3939 | Velocidade Rotuladora: 360.00 GF/H | Garrafas Envasadas: 2324 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:51:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4599 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 86 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:34:10"
+    "dados": "Garrafas Rotuladas: 3951 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 2379 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:52:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4633 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 86 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:35:10"
+    "dados": "Garrafas Rotuladas: 3967 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 2394 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "14:53:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4661 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 87 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:36:10"
+    "dados": "Garrafas Rotuladas: 4005 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 2413 | Velocidade Envasadora: 1800.00 GF/H",
+    "time": "14:54:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4719 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 89 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:37:10"
+    "dados": "Garrafas Rotuladas: 4019 | Velocidade Rotuladora: 1080.00 GF/H | Garrafas Envasadas: 2433 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "14:55:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4746 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 89 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:38:10"
+    "dados": "Garrafas Rotuladas: 4058 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 2482 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:56:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4746 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 90 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:39:10"
+    "dados": "Garrafas Rotuladas: 4065 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 2532 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "14:57:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4746 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 90 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:40:10"
+    "dados": "Garrafas Rotuladas: 4101 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 2579 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "14:58:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4748 | Velocidade Rotuladora: 720.00 GF/H | Garrafas Envasadas: 90 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:41:10"
+    "dados": "Garrafas Rotuladas: 4157 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 2622 | Velocidade Envasadora: 2160.00 GF/H",
+    "time": "14:59:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4794 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 91 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "10:42:10"
+    "dados": "Garrafas Rotuladas: 4207 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 2664 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "15:00:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4844 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 91 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:43:10"
+    "dados": "Garrafas Rotuladas: 4259 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 2704 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:01:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4894 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 92 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:44:10"
+    "dados": "Garrafas Rotuladas: 4304 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 2756 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:02:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4944 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 93 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:45:10"
+    "dados": "Garrafas Rotuladas: 4348 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 2802 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "15:03:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 4994 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 93 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:46:10"
+    "dados": "Garrafas Rotuladas: 4401 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 2850 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "15:04:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 5044 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 94 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:47:10"
+    "dados": "Garrafas Rotuladas: 4448 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 2894 | Velocidade Envasadora: 2520.00 GF/H",
+    "time": "15:05:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 5094 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 94 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:48:10"
+    "dados": "Garrafas Rotuladas: 4494 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 2918 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "15:06:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 5142 | Velocidade Rotuladora: 2160.00 GF/H | Garrafas Envasadas: 96 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:49:10"
+    "dados": "Garrafas Rotuladas: 4521 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 2922 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "15:07:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 5194 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 98 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "10:50:10"
+    "dados": "Garrafas Rotuladas: 4521 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 2935 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:08:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 5250 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 100 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:51:10"
+    "dados": "Garrafas Rotuladas: 4524 | Velocidade Rotuladora: 1080.00 GF/H | Garrafas Envasadas: 2968 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "15:09:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 5305 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 102 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:52:10"
+    "dados": "Garrafas Rotuladas: 4581 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 2972 | Velocidade Envasadora: 1440.00 GF/H",
+    "time": "15:10:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 5360 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 102 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:53:10"
+    "dados": "Garrafas Rotuladas: 4625 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 3025 | Velocidade Envasadora: 2520.00 GF/H",
+    "time": "15:11:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 5380 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 103 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:54:10"
+    "dados": "Garrafas Rotuladas: 4651 | Velocidade Rotuladora: 360.00 GF/H | Garrafas Envasadas: 3050 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "15:12:54"
   },
   {
-    "dados": "Garrafas Rotuladas: 5411 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 105 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:55:10"
+    "dados": "Garrafas Rotuladas: 4687 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 3100 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "15:13:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 107 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "10:56:10"
+    "dados": "Garrafas Rotuladas: 4702 | Velocidade Rotuladora: 2160.00 GF/H | Garrafas Envasadas: 3137 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:14:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:57:10"
+    "dados": "Garrafas Rotuladas: 4759 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 3150 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "15:15:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:58:10"
+    "dados": "Garrafas Rotuladas: 4807 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 3204 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:16:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "10:59:10"
+    "dados": "Garrafas Rotuladas: 4841 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 3252 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:17:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:00:10"
+    "dados": "Garrafas Rotuladas: 4866 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 3296 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:18:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:01:10"
+    "dados": "Garrafas Rotuladas: 4913 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 3316 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "15:19:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:02:10"
+    "dados": "Garrafas Rotuladas: 4927 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 3316 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "15:20:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:03:10"
+    "dados": "Garrafas Rotuladas: 4932 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 3320 | Velocidade Envasadora: 1440.00 GF/H",
+    "time": "15:21:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:04:10"
+    "dados": "Garrafas Rotuladas: 4958 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 3372 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:22:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:05:10"
+    "dados": "Garrafas Rotuladas: 4993 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 3420 | Velocidade Envasadora: 2160.00 GF/H",
+    "time": "15:23:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:06:10"
+    "dados": "Garrafas Rotuladas: 5038 | Velocidade Rotuladora: 2160.00 GF/H | Garrafas Envasadas: 3466 | Velocidade Envasadora: 1080.00 GF/H",
+    "time": "15:24:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:07:10"
+    "dados": "Garrafas Rotuladas: 5087 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 3519 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "15:25:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:08:10"
+    "dados": "Garrafas Rotuladas: 5124 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 3566 | Velocidade Envasadora: 1440.00 GF/H",
+    "time": "15:26:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:09:10"
+    "dados": "Garrafas Rotuladas: 5182 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 3615 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "15:27:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:10:10"
+    "dados": "Garrafas Rotuladas: 5233 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 3663 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "15:28:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:11:10"
+    "dados": "Garrafas Rotuladas: 5274 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 3692 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:29:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:12:10"
+    "dados": "Garrafas Rotuladas: 5324 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 3748 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:30:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:13:10"
+    "dados": "Garrafas Rotuladas: 5364 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 3797 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:31:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:14:10"
+    "dados": "Garrafas Rotuladas: 5416 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 3845 | Velocidade Envasadora: 2160.00 GF/H",
+    "time": "15:32:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:15:10"
+    "dados": "Garrafas Rotuladas: 5454 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 3850 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "15:33:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:16:10"
+    "dados": "Garrafas Rotuladas: 5505 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 3859 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "15:34:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:17:10"
+    "dados": "Garrafas Rotuladas: 5547 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 3863 | Velocidade Envasadora: 1440.00 GF/H",
+    "time": "15:35:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:18:10"
+    "dados": "Garrafas Rotuladas: 5547 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 3918 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "15:36:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:19:10"
+    "dados": "Garrafas Rotuladas: 5547 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 3966 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:37:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:20:10"
+    "dados": "Garrafas Rotuladas: 5568 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 4015 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:38:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:21:10"
+    "dados": "Garrafas Rotuladas: 5588 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 4028 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "15:39:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:22:10"
+    "dados": "Garrafas Rotuladas: 5592 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 4031 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "15:40:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:23:10"
+    "dados": "Garrafas Rotuladas: 5611 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 4035 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "15:41:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:24:10"
+    "dados": "Garrafas Rotuladas: 5669 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 4057 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:42:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:25:10"
+    "dados": "Garrafas Rotuladas: 5727 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 4108 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "15:43:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:26:10"
+    "dados": "Garrafas Rotuladas: 5784 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 4155 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "15:44:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:27:10"
+    "dados": "Garrafas Rotuladas: 5842 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 4201 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:45:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:28:10"
+    "dados": "Garrafas Rotuladas: 5900 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 4254 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "15:46:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:29:10"
+    "dados": "Garrafas Rotuladas: 5944 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 4297 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "15:47:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:30:10"
+    "dados": "Garrafas Rotuladas: 5985 | Velocidade Rotuladora: 2160.00 GF/H | Garrafas Envasadas: 4302 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "15:48:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:31:10"
+    "dados": "Garrafas Rotuladas: 6026 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 4354 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:49:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:32:10"
+    "dados": "Garrafas Rotuladas: 6069 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 4403 | Velocidade Envasadora: 3600.00 GF/H",
+    "time": "15:50:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:33:10"
+    "dados": "Garrafas Rotuladas: 6109 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 4450 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:51:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:34:10"
+    "dados": "Garrafas Rotuladas: 6160 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 4501 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:52:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:35:10"
+    "dados": "Garrafas Rotuladas: 6203 | Velocidade Rotuladora: 1080.00 GF/H | Garrafas Envasadas: 4552 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:53:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:36:10"
+    "dados": "Garrafas Rotuladas: 6243 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 4596 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "15:54:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:37:10"
+    "dados": "Garrafas Rotuladas: 6299 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 4645 | Velocidade Envasadora: 2520.00 GF/H",
+    "time": "15:55:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:38:10"
+    "dados": "Garrafas Rotuladas: 6350 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 4691 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "15:56:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:39:10"
+    "dados": "Garrafas Rotuladas: 6404 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 4741 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "15:57:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:40:10"
+    "dados": "Garrafas Rotuladas: 6451 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 4789 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "15:58:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:41:10"
+    "dados": "Garrafas Rotuladas: 6488 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 4836 | Velocidade Envasadora: 1800.00 GF/H",
+    "time": "15:59:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:42:10"
+    "dados": "Garrafas Rotuladas: 6546 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 4875 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:00:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:43:10"
+    "dados": "Garrafas Rotuladas: 6599 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 4923 | Velocidade Envasadora: 1440.00 GF/H",
+    "time": "16:01:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:44:10"
+    "dados": "Garrafas Rotuladas: 6641 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 4969 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:02:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:45:10"
+    "dados": "Garrafas Rotuladas: 6690 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 5021 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:03:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:46:10"
+    "dados": "Garrafas Rotuladas: 6737 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 5070 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:04:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:47:10"
+    "dados": "Garrafas Rotuladas: 6783 | Velocidade Rotuladora: 2160.00 GF/H | Garrafas Envasadas: 5119 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:05:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:48:10"
+    "dados": "Garrafas Rotuladas: 6836 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 5169 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:06:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:49:10"
+    "dados": "Garrafas Rotuladas: 6885 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 5217 | Velocidade Envasadora: 2520.00 GF/H",
+    "time": "16:07:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:50:10"
+    "dados": "Garrafas Rotuladas: 6927 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 5233 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "16:08:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:51:10"
+    "dados": "Garrafas Rotuladas: 6932 | Velocidade Rotuladora: 720.00 GF/H | Garrafas Envasadas: 5235 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "16:09:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:52:10"
+    "dados": "Garrafas Rotuladas: 6943 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 5277 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "16:10:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:53:10"
+    "dados": "Garrafas Rotuladas: 6971 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 5324 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:11:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:54:11"
+    "dados": "Garrafas Rotuladas: 7029 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 5376 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:12:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:55:11"
+    "dados": "Garrafas Rotuladas: 7087 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 5425 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "16:13:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:56:11"
+    "dados": "Garrafas Rotuladas: 7138 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 5473 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:14:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:57:11"
+    "dados": "Garrafas Rotuladas: 7179 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 5519 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:15:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:58:11"
+    "dados": "Garrafas Rotuladas: 7237 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 5570 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:16:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "11:59:11"
+    "dados": "Garrafas Rotuladas: 7287 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 5616 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:17:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:00:11"
+    "dados": "Garrafas Rotuladas: 7336 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 5644 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "16:18:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:01:11"
+    "dados": "Garrafas Rotuladas: 7354 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 5644 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "16:19:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:02:11"
+    "dados": "Garrafas Rotuladas: 7354 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 5645 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "16:20:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:03:11"
+    "dados": "Garrafas Rotuladas: 7354 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 5645 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "16:21:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:04:11"
+    "dados": "Garrafas Rotuladas: 7354 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 5652 | Velocidade Envasadora: 2520.00 GF/H",
+    "time": "16:22:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:05:11"
+    "dados": "Garrafas Rotuladas: 7368 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 5695 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "16:23:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:06:11"
+    "dados": "Garrafas Rotuladas: 7407 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 5748 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:24:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:07:11"
+    "dados": "Garrafas Rotuladas: 7463 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 5796 | Velocidade Envasadora: 2160.00 GF/H",
+    "time": "16:25:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:08:11"
+    "dados": "Garrafas Rotuladas: 7474 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 5848 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:26:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:09:11"
+    "dados": "Garrafas Rotuladas: 7474 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 5856 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "16:27:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:10:11"
+    "dados": "Garrafas Rotuladas: 7474 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 5856 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "16:28:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:11:11"
+    "dados": "Garrafas Rotuladas: 7520 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 5880 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "16:29:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:12:11"
+    "dados": "Garrafas Rotuladas: 7577 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 5932 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:30:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:13:11"
+    "dados": "Garrafas Rotuladas: 7604 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 5953 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "16:31:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:14:11"
+    "dados": "Garrafas Rotuladas: 7635 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 5989 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "16:32:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:15:11"
+    "dados": "Garrafas Rotuladas: 7689 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 6041 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "16:33:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:16:11"
+    "dados": "Garrafas Rotuladas: 7743 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 6094 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:34:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:17:11"
+    "dados": "Garrafas Rotuladas: 7798 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 6142 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "16:35:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:18:11"
+    "dados": "Garrafas Rotuladas: 7853 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 6192 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:36:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:19:11"
+    "dados": "Garrafas Rotuladas: 7904 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 6242 | Velocidade Envasadora: 2520.00 GF/H",
+    "time": "16:37:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:20:11"
+    "dados": "Garrafas Rotuladas: 7952 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 6289 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "16:38:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:21:11"
+    "dados": "Garrafas Rotuladas: 8002 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 6342 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:39:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:22:11"
+    "dados": "Garrafas Rotuladas: 8050 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 6386 | Velocidade Envasadora: 2520.00 GF/H",
+    "time": "16:40:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:23:11"
+    "dados": "Garrafas Rotuladas: 8100 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 6438 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "16:41:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:24:11"
+    "dados": "Garrafas Rotuladas: 8146 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 6489 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "16:42:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:25:11"
+    "dados": "Garrafas Rotuladas: 8198 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 6536 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "16:43:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:26:11"
+    "dados": "Garrafas Rotuladas: 8247 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 6586 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:44:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:27:11"
+    "dados": "Garrafas Rotuladas: 8297 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 6635 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:45:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:28:11"
+    "dados": "Garrafas Rotuladas: 8342 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 6683 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:46:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:29:11"
+    "dados": "Garrafas Rotuladas: 8394 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 6731 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:47:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:30:11"
+    "dados": "Garrafas Rotuladas: 8431 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 6783 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:48:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:31:11"
+    "dados": "Garrafas Rotuladas: 8477 | Velocidade Rotuladora: 360.00 GF/H | Garrafas Envasadas: 6827 | Velocidade Envasadora: 2520.00 GF/H",
+    "time": "16:49:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:32:11"
+    "dados": "Garrafas Rotuladas: 8530 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 6879 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:50:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:33:11"
+    "dados": "Garrafas Rotuladas: 8572 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 6930 | Velocidade Envasadora: 2520.00 GF/H",
+    "time": "16:51:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:34:11"
+    "dados": "Garrafas Rotuladas: 8621 | Velocidade Rotuladora: 360.00 GF/H | Garrafas Envasadas: 6979 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:52:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:35:11"
+    "dados": "Garrafas Rotuladas: 8672 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 7028 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:53:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:36:11"
+    "dados": "Garrafas Rotuladas: 8730 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 7076 | Velocidade Envasadora: 2160.00 GF/H",
+    "time": "16:54:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:37:11"
+    "dados": "Garrafas Rotuladas: 8785 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 7126 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "16:55:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:38:11"
+    "dados": "Garrafas Rotuladas: 8835 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 7175 | Velocidade Envasadora: 2160.00 GF/H",
+    "time": "16:56:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:39:11"
+    "dados": "Garrafas Rotuladas: 8884 | Velocidade Rotuladora: 2520.00 GF/H | Garrafas Envasadas: 7223 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "16:57:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:40:11"
+    "dados": "Garrafas Rotuladas: 8907 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7274 | Velocidade Envasadora: 2520.00 GF/H",
+    "time": "16:58:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:41:11"
+    "dados": "Garrafas Rotuladas: 8950 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 7321 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "16:59:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:42:11"
+    "dados": "Garrafas Rotuladas: 9004 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 7356 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:00:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:43:11"
+    "dados": "Garrafas Rotuladas: 9046 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 7389 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "17:01:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:44:11"
+    "dados": "Garrafas Rotuladas: 9092 | Velocidade Rotuladora: 1800.00 GF/H | Garrafas Envasadas: 7441 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "17:02:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:45:11"
+    "dados": "Garrafas Rotuladas: 9145 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 7491 | Velocidade Envasadora: 2520.00 GF/H",
+    "time": "17:03:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:46:11"
+    "dados": "Garrafas Rotuladas: 9199 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 7539 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "17:04:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5417 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:47:11"
+    "dados": "Garrafas Rotuladas: 9248 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 7591 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "17:05:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5419 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:48:11"
+    "dados": "Garrafas Rotuladas: 9297 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 7635 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "17:06:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5419 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:49:11"
+    "dados": "Garrafas Rotuladas: 9346 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 7687 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "17:07:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5446 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 108 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:50:11"
+    "dados": "Garrafas Rotuladas: 9396 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 7737 | Velocidade Envasadora: 2520.00 GF/H",
+    "time": "17:08:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5501 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 109 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:51:11"
+    "dados": "Garrafas Rotuladas: 9445 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 7786 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "17:09:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5557 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 109 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:52:11"
+    "dados": "Garrafas Rotuladas: 9492 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 7836 | Velocidade Envasadora: 2880.00 GF/H",
+    "time": "17:10:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5612 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 110 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "12:53:11"
+    "dados": "Garrafas Rotuladas: 9543 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 7885 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "17:11:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5668 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 111 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:54:11"
+    "dados": "Garrafas Rotuladas: 9592 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 7916 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:12:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5723 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 111 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:55:11"
+    "dados": "Garrafas Rotuladas: 9642 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 7926 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "17:13:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5778 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 112 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:56:11"
+    "dados": "Garrafas Rotuladas: 9691 | Velocidade Rotuladora: 2880.00 GF/H | Garrafas Envasadas: 7935 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:14:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5834 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 114 | Velocidade Envasadora: 720.00 GF/H",
-    "time": "12:57:11"
+    "dados": "Garrafas Rotuladas: 9702 | Velocidade Rotuladora: 720.00 GF/H | Garrafas Envasadas: 7946 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:15:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5889 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 114 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:58:11"
+    "dados": "Garrafas Rotuladas: 9709 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7952 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:16:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 5944 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 115 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "12:59:11"
+    "dados": "Garrafas Rotuladas: 9719 | Velocidade Rotuladora: 360.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 360.00 GF/H",
+    "time": "17:17:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 6000 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 116 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:00:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:18:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 6055 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 116 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:01:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:19:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 6110 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 117 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:02:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:20:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 6166 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 117 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:03:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:21:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 6221 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 117 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:04:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:22:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 6276 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 118 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:05:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:23:55"
   },
   {
-    "dados": "Garrafas Rotuladas: 6332 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 120 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:06:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:24:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 6387 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 121 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:07:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:25:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 6443 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 121 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:08:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:26:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 6498 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 121 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:09:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:27:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 6553 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 121 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:10:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:28:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 6609 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 121 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:11:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:29:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 6664 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 121 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:12:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:30:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 6719 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 121 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:13:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:31:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 6775 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 121 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:14:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:32:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 6830 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 121 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:15:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:33:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 6885 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 121 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:16:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:34:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 6941 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 121 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:17:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:35:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 6996 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 121 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:18:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:36:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7052 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 121 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:19:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:37:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7067 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 122 | Velocidade Envasadora: 360.00 GF/H",
-    "time": "13:20:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:38:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7067 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 124 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:21:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:39:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7077 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 124 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:22:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:40:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7135 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 125 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:23:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:41:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7193 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 125 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:24:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:42:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7251 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 125 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:25:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:43:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7307 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 125 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:26:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:44:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7363 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 126 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:27:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:45:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7419 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 126 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:28:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:46:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7475 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 126 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:29:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:47:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7530 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 127 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:30:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:48:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7586 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 127 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:31:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:49:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7599 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 127 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:32:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:50:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7600 | Velocidade Rotuladora: 360.00 GF/H | Garrafas Envasadas: 128 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:33:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:51:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7655 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 128 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:34:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:52:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7710 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 128 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:35:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:53:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7766 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 128 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:36:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:54:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7821 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 130 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:37:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:55:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7876 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 130 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:38:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:56:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7932 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 131 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:39:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:57:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 7987 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 131 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:40:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:58:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 8052 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 131 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:41:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "17:59:56"
   },
   {
-    "dados": "Garrafas Rotuladas: 8107 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 131 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:42:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:00:01"
   },
   {
-    "dados": "Garrafas Rotuladas: 8162 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 131 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:43:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:01:01"
   },
   {
-    "dados": "Garrafas Rotuladas: 8218 | Velocidade Rotuladora: 3600.00 GF/H | Garrafas Envasadas: 131 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:44:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:02:01"
   },
   {
-    "dados": "Garrafas Rotuladas: 8273 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 131 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:45:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:03:01"
   },
   {
-    "dados": "Garrafas Rotuladas: 8328 | Velocidade Rotuladora: 3240.00 GF/H | Garrafas Envasadas: 131 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:46:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:04:01"
   },
   {
-    "dados": "Garrafas Rotuladas: 8377 | Velocidade Rotuladora: 1440.00 GF/H | Garrafas Envasadas: 131 | Velocidade Envasadora: 0.00 GF/H",
-    "time": "13:47:11"
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:05:01"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:06:01"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:07:01"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:08:01"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:09:01"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:10:01"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:11:01"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:12:01"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:13:01"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:14:01"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:15:01"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:16:01"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:17:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:18:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:19:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:20:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:21:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:22:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:23:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:24:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:25:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:26:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:27:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:28:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:29:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:30:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:31:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:32:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:33:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:34:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:35:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7957 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:36:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7973 | Velocidade Envasadora: 1080.00 GF/H",
+    "time": "07:37:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 7991 | Velocidade Envasadora: 1440.00 GF/H",
+    "time": "07:38:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 8004 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:39:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 8004 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:40:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 8027 | Velocidade Envasadora: 3240.00 GF/H",
+    "time": "07:41:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 8033 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:42:02"
+  },
+  {
+    "dados": "Garrafas Rotuladas: 9724 | Velocidade Rotuladora: 0.00 GF/H | Garrafas Envasadas: 8033 | Velocidade Envasadora: 0.00 GF/H",
+    "time": "07:43:02"
   }
 ]

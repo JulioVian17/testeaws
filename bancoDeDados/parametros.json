@@ -2264,5 +2264,40 @@
       "rotulagem": "12"
     },
     "DESC": "GRAN RESERVA - RAIZES CORTE 750ML"
+  },
+  {
+    "Código": "CH223UN",
+    "Prod": "1200",
+    "Pessoas": {
+      "degorgment": 6,
+      "rotulagem": "9"
+    },
+    "DESC": "130 TRADICIONAL 6+1"
+  },
+  {
+    "Código": "GRE271",
+    "Prod": "2000",
+    "Pessoas": {
+      "envase": "4",
+      "rotulagem": "6"
+    },
+    "DESC": "GRAN PINOT NOIR 750ML"
+  },
+  {
+    "Código": "GR271GF",
+    "Prod": "2000",
+    "Pessoas": {
+      "envase": "4",
+      "rotulagem": "6"
+    },
+    "DESC": "GRAN PINOT NOIR 750ML"
+  },
+  {
+    "Código": "GRS005",
+    "Prod": "2500",
+    "Pessoas": {
+      "envase": "8"
+    },
+    "DESC": "GRAN PERSONALIDADES 750ML"
   }
 ]
